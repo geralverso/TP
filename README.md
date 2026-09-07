@@ -3,3 +3,4 @@ Este repositorio contiene mis soluciones de los laboratorios y ejercicios práct
 
 - Ciclo actual: 2026-2 (PUCP)
 - IDE actual: CLion
+- El uso de IA es válido si se quiere aprender.
