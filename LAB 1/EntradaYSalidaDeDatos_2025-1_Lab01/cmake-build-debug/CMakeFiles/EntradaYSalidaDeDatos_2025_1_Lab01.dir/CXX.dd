@@ -1,0 +1,5 @@
+ninja_dyndep_version = 1.0
+build CMakeFiles/EntradaYSalidaDeDatos_2025_1_Lab01.dir/main.cpp.obj: dyndep
+
+build CMakeFiles/EntradaYSalidaDeDatos_2025_1_Lab01.dir/Bibliotecas/Funciones.cpp.obj: dyndep
+

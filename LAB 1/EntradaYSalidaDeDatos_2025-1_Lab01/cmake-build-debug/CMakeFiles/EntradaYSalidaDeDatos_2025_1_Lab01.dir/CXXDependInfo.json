@@ -1,0 +1,32 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "GNU",
+	"compiler-id" : "GNU",
+	"compiler-simulate-id" : "",
+	"config" : "Debug",
+	"cxx-modules" : {},
+	"database-info" : null,
+	"dir-cur-bld" : "C:/Users/PC/Desktop/TP/CLION/SEMANA 3/LAB 1/EntradaYSalidaDeDatos_2025-1_Lab01/cmake-build-debug",
+	"dir-cur-src" : "C:/Users/PC/Desktop/TP/CLION/SEMANA 3/LAB 1/EntradaYSalidaDeDatos_2025-1_Lab01",
+	"dir-top-bld" : "C:/Users/PC/Desktop/TP/CLION/SEMANA 3/LAB 1/EntradaYSalidaDeDatos_2025-1_Lab01/cmake-build-debug",
+	"dir-top-src" : "C:/Users/PC/Desktop/TP/CLION/SEMANA 3/LAB 1/EntradaYSalidaDeDatos_2025-1_Lab01",
+	"exports" : [],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : [],
+	"language" : "CXX",
+	"linked-target-dirs" : [],
+	"module-dir" : "C:/Users/PC/Desktop/TP/CLION/SEMANA 3/LAB 1/EntradaYSalidaDeDatos_2025-1_Lab01/cmake-build-debug/CMakeFiles/EntradaYSalidaDeDatos_2025_1_Lab01.dir",
+	"sources" : 
+	{
+		"CMakeFiles/EntradaYSalidaDeDatos_2025_1_Lab01.dir/Bibliotecas/Funciones.cpp.obj" : 
+		{
+			"language" : "CXX",
+			"source" : "C:/Users/PC/Desktop/TP/CLION/SEMANA 3/LAB 1/EntradaYSalidaDeDatos_2025-1_Lab01/Bibliotecas/Funciones.cpp"
+		},
+		"CMakeFiles/EntradaYSalidaDeDatos_2025_1_Lab01.dir/main.cpp.obj" : 
+		{
+			"language" : "CXX",
+			"source" : "C:/Users/PC/Desktop/TP/CLION/SEMANA 3/LAB 1/EntradaYSalidaDeDatos_2025-1_Lab01/main.cpp"
+		}
+	}
+}
