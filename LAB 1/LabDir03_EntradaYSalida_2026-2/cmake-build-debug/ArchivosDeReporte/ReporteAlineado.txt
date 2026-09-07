@@ -1,0 +1,302 @@
+DNI         NOMBRE Y APELLIDOS            ASEGURADORA         CÓDIGO       INICIO DE LA POLIZA    FIN DE LA POLIZA     MONTO        EDAD
+-----------------------------------------------------------------------------------------------------------------------------------------
+73035996    GABRIELA GOMEZ SILVA          Sanitas Peru        UIY614       08/12/2024             28/11/2026           12245.830    58 
+36277341    MIGUEL VARGAS CRUZ            Mapfre Peru         BXT274       02/11/2024             01/05/2025           1465.480     51 
+11839489    PEDRO FLORES RAMIREZ          La Positiva         PEP894       05/08/2025             01/02/2026           11252.030    42 
+33368501    FERNANDO ROJAS VEGA           Pacifico Seguros    AST004       30/08/2024             26/02/2025           1161.010     26 
+81489486    LUIS SANCHEZ PEREZ            Sanitas Peru        YEY237       07/01/2025             02/01/2026           12832.860    47 
+26016998    RICARDO RIVERA GOMEZ          Rimac Seguros       FNX008       23/10/2025             13/10/2027           13915.300    67 
+75020959    CARLOS ORTIZ REYES            Sanitas Peru        FKP567       27/11/2023             25/05/2024           848.190      70 
+16258938    CARMEN ORTIZ REYES            La Positiva         XCD341       12/04/2022             01/04/2024           11849.760    19 
+40162813    CARMEN RAMIREZ JIMENEZ        Protecta Security   MOR350       24/02/2026             08/02/2029           1653.940     60 
+80480143    GABRIELA RAMIREZ MARTINEZ     Rimac Seguros       GOL861       13/05/2026             27/04/2029           8699.460     38 
+30760728    PATRICIA PEREZ RAMIREZ        Rimac Seguros       HBE081       30/04/2023             27/10/2023           10734.640    44 
+24975004    CARLOS RIVERA CASTILLO        Rimac Seguros       SDL069       02/02/2023             22/01/2025           10016.550    35 
+20664095    JUAN SANCHEZ RAMIREZ          Interseguro         QAI818       14/02/2023             29/01/2026           1097.730     70 
+30220612    CLAUDIA PEREZ CASTILLO        Mapfre Peru         VHB674       24/01/2024             22/07/2024           6599.000     37 
+95728261    TERESA REYES SILVA            Insur Vida          CSB123       28/12/2025             12/12/2028           6671.570     46 
+80676993    FERNANDO TORRES FLORES        Mapfre Peru         NZP988       17/06/2024             02/06/2027           12919.040    23 
+99747669    SOFIA SILVA VEGA              Rimac Seguros       PRC791       19/05/2025             03/05/2028           10762.640    25 
+75758514    CARLOS ORTIZ ROJAS            Insur Vida          VLO647       28/01/2026             27/07/2026           7918.390     75 
+49146357    PEDRO RODRIGUEZ CASTILLO      La Positiva         MMQ103       08/07/2022             04/01/2023           11288.100    45 
+59160689    ALBERTO SANCHEZ DIAZ          Rimac Seguros       OSS866       23/01/2026             13/01/2028           10227.760    74 
+43756795    CLAUDIA DIAZ GONZALEZ         Insur Vida          QVF262       24/03/2022             13/03/2024           3327.850     72 
+30080823    BEATRIZ LOPEZ RAMIREZ         Sanitas Peru        IGW274       22/09/2022             21/03/2023           7740.530     52 
+92606611    ELENA SANCHEZ VARGAS          Sanitas Peru        PNM011       23/12/2022             21/06/2023           9092.330     45 
+65547612    JUAN RAMIREZ VEGA             Pacifico Seguros    SCV716       22/05/2022             18/11/2022           10902.180    18 
+27471810    LUIS SANCHEZ GARCIA           Mapfre Peru         RAD257       14/02/2026             04/02/2028           358.230      50 
+45330949    FERNANDO REYES GARCIA         La Positiva         VNQ538       03/08/2026             18/07/2029           11577.060    35 
+81371810    JOSE AGUILAR NUNEZ            Rimac Seguros       SKV187       09/09/2022             04/09/2023           8934.410     39 
+82314393    JUAN ROJAS REYES              Insur Vida          UKQ298       16/04/2022             11/04/2023           14180.750    53 
+20645519    ALBERTO REYES ORTIZ           Mapfre Peru         YYL252       19/04/2022             08/04/2024           13945.020    74 
+92574803    SILVIA MORALES ROJAS          Mapfre Peru         LVP856       08/08/2024             29/07/2026           6676.700     61 
+11696420    DIEGO DIAZ ORTIZ              Protecta Security   BIP985       09/10/2024             07/04/2025           4849.430     48 
+29797488    CARLOS MENDOZA GARCIA         Insur Vida          GWT179       30/04/2023             14/04/2026           4353.530     49 
+22801387    CARLOS MEDINA ROJAS           La Positiva         YSY053       16/06/2025             11/06/2026           14651.680    45 
+46501244    CARLOS NUNEZ MORALES          Protecta Security   PJF233       17/09/2025             01/09/2028           10329.150    46 
+58097412    GABRIELA NUNEZ GARCIA         Sanitas Peru        KPU574       23/05/2025             18/05/2026           11823.080    55 
+32685382    RAUL MEDINA RAMIREZ           Insur Vida          RJO517       12/11/2024             02/11/2026           5405.180     58 
+37668140    ALBERTO RODRIGUEZ DIAZ        Protecta Security   JDP216       23/09/2024             08/09/2027           8359.430     50 
+72391906    SOFIA CHAVEZ ORTIZ            Rimac Seguros       ARC528       27/08/2024             23/02/2025           7692.710     49 
+57287596    GABRIELA VARGAS AGUILAR       Insur Vida          FMU010       15/05/2026             04/05/2028           286.680      43 
+12303655    ANDRES VARGAS RODRIGUEZ       Protecta Security   JWW573       10/09/2023             08/03/2024           10973.060    55 
+55249352    ALBERTO SILVA DIAZ            Interseguro         QTI703       08/08/2023             02/08/2024           2713.150     51 
+22558210    ALBERTO NUNEZ REYES           Insur Vida          YCU295       11/02/2026             01/02/2028           6532.440     23 
+90151749    SILVIA HERRERA LOPEZ          Insur Vida          WCW687       26/08/2025             10/08/2028           7665.240     23 
+25707175    SOFIA CHAVEZ TORRES           Sanitas Peru        MGJ716       14/01/2026             13/07/2026           4701.660     39 
+38325118    JUAN TORRES MARTINEZ          La Positiva         YGQ728       15/01/2025             05/01/2027           3136.210     20 
+79749579    CARMEN DIAZ RODRIGUEZ         Interseguro         ULV408       01/04/2026             21/03/2028           9650.690     18 
+32339777    MARIA JIMENEZ REYES           Mapfre Peru         TSE632       03/04/2024             19/03/2027           346.660      54 
+98827233    ROSA GOMEZ GONZALEZ           La Positiva         TZT216       04/06/2024             30/05/2025           12442.830    55 
+88540222    TERESA MENDOZA ORTIZ          Insur Vida          WWJ193       18/11/2024             03/11/2027           6508.510     55 
+26724472    DIEGO CASTILLO LOPEZ          Sanitas Peru        TBF651       31/12/2023             15/12/2026           11548.330    51 
+67963173    PATRICIA RAMIREZ TORRES       La Positiva         IZR485       19/08/2024             15/02/2025           6568.070     33 
+47415385    CARMEN PEREZ MEDINA           Mapfre Peru         MZS792       16/01/2023             15/07/2023           1878.500     24 
+32712476    JUAN RIVERA SILVA             Interseguro         DXN628       14/03/2023             26/02/2026           6220.130     41 
+33206169    DIEGO ROJAS SILVA             Protecta Security   ENA269       16/01/2022             11/01/2023           6028.250     41 
+11323061    JUAN MORALES RUIZ             Insur Vida          YBB048       21/08/2026             16/08/2027           7736.990     66 
+40742217    ALBERTO HERRERA MORALES       Interseguro         KLI391       28/05/2023             22/05/2024           12239.580    37 
+41913275    VICTOR RODRIGUEZ CHAVEZ       Interseguro         UKR017       31/01/2024             25/01/2025           2267.360     65 
+54934880    ALBERTO CASTILLO CHAVEZ       Mapfre Peru         IJL575       21/08/2026             10/08/2028           12107.880    43 
+31621859    BEATRIZ RIVERA MARTINEZ       Pacifico Seguros    NBZ784       31/07/2026             26/07/2027           5548.140     31 
+68930808    TERESA CASTILLO GOMEZ         La Positiva         JPN842       13/03/2025             03/03/2027           10516.670    40 
+70962516    ALBERTO NUNEZ JIMENEZ         Rimac Seguros       OGO628       06/11/2022             21/10/2025           11727.040    50 
+33214639    DIEGO SANCHEZ NUNEZ           Insur Vida          ZEG118       01/08/2022             27/07/2023           8606.640     50 
+61098865    LUCIA MORALES GARCIA          La Positiva         WZS350       22/01/2023             06/01/2026           7463.110     39 
+98540846    LUIS REYES DIAZ               Interseguro         HJQ960       04/12/2022             23/11/2024           9368.810     66 
+31565722    LUIS MENDOZA CHAVEZ           Protecta Security   KRG172       07/04/2022             02/04/2023           14833.200    62 
+70881772    CARLOS RAMIREZ JIMENEZ        Interseguro         PRP632       02/06/2023             27/05/2024           7781.730     56 
+12324681    ANA MORALES PEREZ             Mapfre Peru         KJU079       01/01/2026             30/06/2026           2201.830     51 
+62939085    BEATRIZ JIMENEZ VARGAS        Mapfre Peru         DDI674       15/03/2026             04/03/2028           3658.410     25 
+15388676    JUAN TORRES PEREZ             Interseguro         YDI672       01/01/2022             16/12/2024           2016.780     65 
+28159978    SILVIA ORTIZ RODRIGUEZ        Protecta Security   TJH090       17/07/2023             01/07/2026           11443.170    57 
+54650882    GABRIELA FLORES VEGA          Rimac Seguros       KAM350       22/10/2024             12/10/2026           10471.340    48 
+73273453    LUCIA RODRIGUEZ LOPEZ         Pacifico Seguros    GFK786       20/12/2022             18/06/2023           10096.380    39 
+88408331    FERNANDO GONZALEZ CRUZ        Protecta Security   KXD008       19/11/2024             14/11/2025           5111.590     52 
+95988809    ANA SILVA CASTILLO            Protecta Security   ULZ425       10/05/2025             24/04/2028           7725.420     19 
+63940262    MIGUEL VEGA SILVA             Rimac Seguros       AQJ126       15/04/2023             09/04/2024           13969.230    45 
+93356517    MIGUEL ROJAS VARGAS           Mapfre Peru         TMH372       22/01/2022             17/01/2023           1890.830     68 
+60979234    PATRICIA CASTILLO HERRERA     Mapfre Peru         XZD780       13/07/2026             27/06/2029           13084.800    30 
+59011846    FERNANDO ORTIZ NUNEZ          Insur Vida          NAX345       01/01/2025             17/12/2027           10228.530    66 
+42742487    MONICA ORTIZ CHAVEZ           Mapfre Peru         WWC049       07/07/2022             02/07/2023           5107.750     42 
+99742547    PEDRO ROJAS VARGAS            Protecta Security   QVI985       16/02/2024             14/08/2024           7369.370     72 
+93448169    RICARDO JIMENEZ DIAZ          Protecta Security   JUH066       14/01/2025             09/01/2026           5371.940     37 
+66772780    TERESA RUIZ HERRERA           La Positiva         MGM210       18/08/2024             03/08/2027           12579.440    62 
+37274124    JORGE ORTIZ CASTILLO          Rimac Seguros       BFL930       04/05/2026             31/10/2026           14295.400    72 
+90791026    GABRIELA RIVERA TORRES        Rimac Seguros       MFZ590       27/10/2025             25/04/2026           2555.370     62 
+70608328    TERESA SILVA MENDOZA          La Positiva         QRO680       29/09/2022             13/09/2025           14785.260    31 
+37175711    VICTOR VARGAS GONZALEZ        Interseguro         ABU616       22/07/2022             17/07/2023           2747.710     41 
+18111085    PEDRO CRUZ ORTIZ              Mapfre Peru         SFU900       16/02/2024             05/02/2026           13891.070    37 
+71033205    SOFIA PEREZ SILVA             Protecta Security   YIX723       29/12/2025             19/12/2027           828.960      23 
+84890225    PATRICIA RUIZ MARTINEZ        Protecta Security   HWF512       04/03/2026             27/02/2027           4570.160     47 
+60406127    ALBERTO CASTILLO PEREZ        Insur Vida          PTJ788       23/08/2026             18/08/2027           12713.060    44 
+15107486    RICARDO CHAVEZ MENDOZA        Mapfre Peru         QTK303       06/09/2022             05/03/2023           2065.430     36 
+78667146    PEDRO REYES ROJAS             Sanitas Peru        JGB036       31/10/2023             15/10/2026           8297.390     45 
+30723519    RAUL SANCHEZ MARTINEZ         Rimac Seguros       NGP567       08/08/2022             28/07/2024           12667.740    42 
+42828773    ANA JIMENEZ REYES             Pacifico Seguros    KUU604       24/01/2024             18/01/2025           555.660      41 
+37530885    SILVIA SILVA NUNEZ            Protecta Security   IXD207       26/06/2025             21/06/2026           11817.840    70 
+73582281    RAUL CASTILLO CASTILLO        Rimac Seguros       ILY603       02/02/2025             23/01/2027           7054.900     54 
+47409755    LUCIA GONZALEZ VARGAS         Protecta Security   SSM328       25/09/2025             20/09/2026           6409.180     69 
+37705868    SILVIA JIMENEZ SANCHEZ        Sanitas Peru        CJS878       11/03/2024             24/02/2027           13021.570    70 
+16346617    TERESA PEREZ TORRES           Mapfre Peru         ISB158       07/08/2025             03/02/2026           13892.580    32 
+48677497    FERNANDO GARCIA JIMENEZ       Mapfre Peru         IUE003       23/07/2024             13/07/2026           6875.470     23 
+76372567    RAUL CASTILLO TORRES          La Positiva         SGP262       01/10/2024             26/09/2025           10098.210    50 
+45607282    RICARDO CASTILLO CHAVEZ       Insur Vida          YPP420       05/03/2026             23/02/2028           1737.070     36 
+39917141    MONICA LOPEZ GOMEZ            Interseguro         PUL798       13/12/2025             27/11/2028           12185.020    60 
+85887189    ROSA RUIZ SILVA               Sanitas Peru        BRV706       07/01/2025             23/12/2027           10831.910    44 
+81776199    JUAN AGUILAR CHAVEZ           Insur Vida          VJP556       28/04/2024             25/10/2024           9514.430     41 
+52000097    BEATRIZ CRUZ LOPEZ            Sanitas Peru        AEK990       22/10/2022             06/10/2025           5853.510     62 
+61140015    PATRICIA ROJAS RAMIREZ        Mapfre Peru         ZKW585       31/10/2025             29/04/2026           8467.200     73 
+46708065    TERESA HERRERA ORTIZ          Rimac Seguros       VAH853       28/11/2024             23/11/2025           6198.700     75 
+17642315    JUAN SILVA FLORES             Protecta Security   ABG650       02/10/2023             26/09/2024           6739.860     48 
+30469651    LUCIA HERRERA RAMIREZ         Mapfre Peru         WEY688       24/02/2022             08/02/2025           6539.800     28 
+96660246    RAUL DIAZ VEGA                Interseguro         MSB339       18/06/2023             02/06/2026           8425.170     68 
+70523435    LUIS ROJAS ROJAS              La Positiva         FML947       23/03/2025             18/03/2026           8306.350     65 
+60532509    SILVIA ROJAS AGUILAR          Protecta Security   LUQ897       31/10/2022             29/04/2023           13142.860    46 
+92383435    LUIS RODRIGUEZ ORTIZ          Insur Vida          CHR264       31/05/2026             27/11/2026           5902.890     62 
+72022026    CLAUDIA MENDOZA VEGA          Sanitas Peru        XPV694       19/04/2026             08/04/2028           7015.670     39 
+84258532    LUCIA CHAVEZ CHAVEZ           Rimac Seguros       UQL754       31/05/2023             25/05/2024           8372.220     62 
+75102056    RICARDO HERRERA HERRERA       Protecta Security   CMK767       06/01/2025             27/12/2026           524.300      75 
+84878178    SOFIA GONZALEZ CHAVEZ         Mapfre Peru         CXL243       07/11/2024             23/10/2027           12898.510    69 
+99410687    DIEGO NUNEZ GARCIA            La Positiva         QYX977       14/04/2023             11/10/2023           6101.900     65 
+69336567    RAUL REYES ORTIZ              Protecta Security   ARG371       11/06/2025             01/06/2027           9319.280     49 
+80979977    LUCIA VEGA RAMIREZ            Insur Vida          RJW178       21/02/2025             06/02/2028           14084.560    40 
+45730973    BEATRIZ AGUILAR GARCIA        Mapfre Peru         EVP751       12/10/2023             06/10/2024           10584.040    66 
+40540485    JOSE MARTINEZ FLORES          La Positiva         WQB618       22/03/2023             11/03/2025           9795.860     53 
+73258823    PEDRO HERRERA ORTIZ           La Positiva         UCJ565       02/03/2023             25/02/2024           8441.060     65 
+48542944    ANDRES GONZALEZ SANCHEZ       Mapfre Peru         TCL200       23/10/2023             17/10/2024           3508.190     21 
+99186030    LUCIA MEDINA AGUILAR          Protecta Security   RPT664       09/12/2023             06/06/2024           11548.750    59 
+44490049    JUAN FLORES RAMIREZ           Mapfre Peru         AKA754       14/09/2024             13/03/2025           1334.990     60 
+92282723    ROSA ORTIZ SILVA              Interseguro         YJN489       01/08/2026             16/07/2029           3413.110     74 
+45428791    FERNANDO MENDOZA GARCIA       Protecta Security   FIT988       11/04/2023             26/03/2026           14378.840    68 
+20539602    SILVIA ORTIZ LOPEZ            Mapfre Peru         NFT560       04/03/2022             16/02/2025           4787.880     67 
+16640087    MARIA GONZALEZ MENDOZA        La Positiva         QCK378       04/12/2022             29/11/2023           7487.980     49 
+81846049    VICTOR VARGAS MARTINEZ        Protecta Security   PVE667       02/01/2022             23/12/2023           3573.560     36 
+68219800    ALBERTO MENDOZA MEDINA        Rimac Seguros       GIT758       29/09/2024             28/03/2025           5732.910     53 
+57308728    RAUL FLORES FLORES            Mapfre Peru         IPO790       05/07/2023             01/01/2024           6563.540     61 
+17193721    MIGUEL HERRERA TORRES         La Positiva         UFG874       14/07/2023             28/06/2026           4634.390     39 
+63721102    MIGUEL DIAZ LOPEZ             Mapfre Peru         KLA256       13/09/2024             12/03/2025           4703.110     63 
+69988166    MANUEL AGUILAR JIMENEZ        Protecta Security   PDE696       25/08/2025             15/08/2027           3356.970     24 
+44002168    ROSA GARCIA RAMIREZ           Mapfre Peru         TVJ361       06/06/2024             27/05/2026           7926.350     41 
+86675408    MANUEL SANCHEZ VEGA           Insur Vida          KBM659       07/05/2024             22/04/2027           6900.810     26 
+41603826    VALERIA LOPEZ CHAVEZ          Protecta Security   OLG281       31/01/2024             29/07/2024           12025.610    71 
+69089926    JOSE PEREZ AGUILAR            Interseguro         KID991       22/08/2026             18/02/2027           14826.360    20 
+53118567    ANDRES RAMIREZ CHAVEZ         Insur Vida          CVS348       28/06/2026             25/12/2026           1188.540     74 
+52832552    TERESA ROJAS GARCIA           Mapfre Peru         YAN496       30/10/2025             14/10/2028           1137.540     57 
+55074494    LUCIA VARGAS NUNEZ            Pacifico Seguros    DAX872       11/02/2025             06/02/2026           12195.250    74 
+31819682    JORGE MEDINA CHAVEZ           Mapfre Peru         YWO149       12/10/2023             26/09/2026           13479.480    37 
+51368738    LUCIA HERRERA RODRIGUEZ       Interseguro         BYO919       12/09/2024             02/09/2026           1466.470     29 
+57715726    ALBERTO ORTIZ ROJAS           Protecta Security   TYR515       27/01/2022             22/01/2023           1649.490     60 
+16830943    CLAUDIA CRUZ TORRES           Mapfre Peru         OYJ668       25/09/2022             14/09/2024           1326.870     69 
+76826106    ANA RUIZ LOPEZ                Sanitas Peru        QTX930       29/01/2024             13/01/2027           4660.430     51 
+24405093    MANUEL CHAVEZ SILVA           Interseguro         VVB247       04/10/2024             19/09/2027           8657.170     50 
+58046906    TERESA MEDINA ROJAS           Pacifico Seguros    DLE098       25/04/2022             09/04/2025           10182.410    43 
+86325277    MARIA AGUILAR CRUZ            La Positiva         ETE852       20/01/2025             19/07/2025           1628.640     32 
+32940211    GABRIELA GONZALEZ GONZALEZ    Rimac Seguros       THN846       24/05/2025             14/05/2027           5439.760     40 
+13225091    JORGE AGUILAR RAMIREZ         Insur Vida          YJL417       30/08/2022             25/08/2023           6283.530     39 
+34886559    SOFIA GONZALEZ CRUZ           Insur Vida          BLQ681       26/11/2025             25/05/2026           14149.190    61 
+23932534    ALBERTO CHAVEZ JIMENEZ        Rimac Seguros       KCS923       08/12/2023             05/06/2024           10843.550    47 
+36162108    MANUEL ROJAS AGUILAR          La Positiva         RLG566       19/01/2022             14/01/2023           3903.350     22 
+10426636    RAUL SILVA ROJAS              Insur Vida          VUB122       20/12/2023             09/12/2025           854.050      56 
+16989125    CLAUDIA NUNEZ CHAVEZ          La Positiva         OOQ302       19/07/2025             14/07/2026           932.370      63 
+61421551    ELENA FLORES RUIZ             Interseguro         QTP215       20/07/2026             09/07/2028           13659.130    67 
+82162101    JUAN GARCIA CASTILLO          Pacifico Seguros    DHZ740       23/05/2025             18/05/2026           5288.040     71 
+99031051    MARIA CHAVEZ DIAZ             La Positiva         HVQ917       22/06/2023             06/06/2026           12938.730    34 
+14248242    ROSA TORRES TORRES            Rimac Seguros       ZFP278       27/02/2025             22/02/2026           12434.400    67 
+80086539    CLAUDIA REYES GARCIA          Interseguro         YBH680       05/03/2022             23/02/2024           615.100      41 
+26277653    LUCIA GARCIA ORTIZ            Sanitas Peru        VHB449       05/02/2025             26/01/2027           6564.780     24 
+57796063    PATRICIA SILVA JIMENEZ        Interseguro         KEH439       05/08/2025             26/07/2027           3981.600     73 
+74643267    ELENA CRUZ PEREZ              La Positiva         REP670       19/01/2024             03/01/2027           4912.320     51 
+22614448    TERESA VEGA LOPEZ             Mapfre Peru         GJN432       23/06/2026             18/06/2027           10485.600    36 
+84869574    CLAUDIA CASTILLO ORTIZ        Rimac Seguros       SQZ694       25/06/2026             09/06/2029           12826.240    67 
+87631366    MARIA MENDOZA RODRIGUEZ       La Positiva         AAX074       01/09/2024             22/08/2026           9615.760     67 
+53326457    LUIS RUIZ MEDINA              Sanitas Peru        SPX139       03/06/2026             23/05/2028           7439.630     19 
+90025311    MIGUEL RODRIGUEZ GARCIA       Sanitas Peru        GAN056       12/06/2025             07/06/2026           12130.690    44 
+42461693    CARLOS HERRERA DIAZ           Rimac Seguros       NXP101       16/07/2024             12/01/2025           4389.470     62 
+22642181    SILVIA HERRERA RAMIREZ        Interseguro         ZFA879       13/11/2023             07/11/2024           4272.730     65 
+54451045    TERESA ORTIZ TORRES           La Positiva         RME209       20/03/2026             09/03/2028           4947.500     47 
+83843584    PEDRO NUNEZ CASTILLO          Interseguro         QXD099       10/03/2026             05/03/2027           2233.010     62 
+20131846    MONICA SANCHEZ ROJAS          Pacifico Seguros    BBS059       07/08/2026             27/07/2028           6576.240     31 
+12144955    ALBERTO SANCHEZ JIMENEZ       Pacifico Seguros    ZMU130       28/08/2025             18/08/2027           7202.620     67 
+63098048    SOFIA PEREZ ROJAS             Interseguro         DLM386       30/12/2025             28/06/2026           164.180      25 
+15868909    SOFIA MORALES CHAVEZ          Mapfre Peru         CUI382       22/02/2025             21/08/2025           8243.790     50 
+92923974    ANA ROJAS PEREZ               Sanitas Peru        DXX972       14/09/2024             04/09/2026           8659.720     61 
+98816697    VICTOR NUNEZ GONZALEZ         La Positiva         MEJ008       11/09/2023             31/08/2025           2333.000     22 
+89218848    PATRICIA RODRIGUEZ GOMEZ      Protecta Security   FJQ405       26/01/2023             10/01/2026           2046.770     44 
+89313068    JUAN MEDINA CHAVEZ            Interseguro         NCH674       09/06/2024             30/05/2026           1984.130     70 
+42343430    RICARDO SANCHEZ REYES         Sanitas Peru        LTO523       15/01/2025             31/12/2027           11562.660    37 
+37183975    MARIA GONZALEZ HERRERA        Interseguro         DZQ740       20/12/2024             05/12/2027           13279.630    22 
+67507078    SOFIA MEDINA VARGAS           Pacifico Seguros    ZRK831       24/01/2023             13/01/2025           11460.220    32 
+64628605    DIEGO MORALES DIAZ            Sanitas Peru        GIP931       16/12/2024             01/12/2027           3692.430     47 
+32974965    CLAUDIA LOPEZ GARCIA          Interseguro         EXB064       26/03/2024             22/09/2024           749.920      42 
+68290847    JUAN VEGA SILVA               Pacifico Seguros    OCV894       29/12/2022             18/12/2024           10638.380    69 
+85583258    LUCIA CASTILLO CHAVEZ         Mapfre Peru         WBI268       11/07/2022             06/07/2023           11324.840    45 
+52535185    JORGE DIAZ CRUZ               Protecta Security   XYU883       23/04/2024             20/10/2024           4800.440     54 
+41292023    LUIS JIMENEZ NUNEZ            Interseguro         IFA925       05/04/2022             02/10/2022           10503.000    50 
+90178507    ANA CASTILLO CHAVEZ           Protecta Security   HDP815       23/08/2024             08/08/2027           8272.440     35 
+60846127    RICARDO VARGAS CHAVEZ         Insur Vida          FJN633       03/09/2025             18/08/2028           10397.680    18 
+81986505    ALBERTO RAMIREZ ROJAS         Sanitas Peru        WIP926       05/06/2024             26/05/2026           10083.430    48 
+92711166    PATRICIA SANCHEZ GONZALEZ     Interseguro         HPC726       26/09/2023             20/09/2024           7560.460     71 
+79478977    RAUL CHAVEZ MENDOZA           Pacifico Seguros    WNC536       12/05/2024             27/04/2027           14600.790    66 
+86010798    PEDRO TORRES SANCHEZ          Protecta Security   RVL283       27/01/2026             26/07/2026           8230.400     18 
+69988054    PEDRO RIVERA CRUZ             Insur Vida          MSE523       10/01/2025             05/01/2026           2260.050     65 
+82887422    MIGUEL ORTIZ DIAZ             Mapfre Peru         DXH367       18/01/2025             08/01/2027           1626.700     29 
+39418843    FERNANDO HERRERA SANCHEZ      Insur Vida          RXF536       10/05/2026             29/04/2028           10039.470    61 
+46630266    JUAN RODRIGUEZ AGUILAR        La Positiva         CYP355       14/06/2025             09/06/2026           7523.520     24 
+70290920    MIGUEL GONZALEZ MARTINEZ      La Positiva         RIY391       20/03/2022             09/03/2024           4584.110     43 
+26617248    VALERIA ORTIZ HERRERA         Insur Vida          EKS564       02/08/2024             23/07/2026           14644.870    23 
+13243800    PATRICIA RUIZ VARGAS          La Positiva         VDZ318       17/08/2026             06/08/2028           4636.860     47 
+48546784    LUIS GARCIA RODRIGUEZ         Rimac Seguros       PZR324       11/11/2024             10/05/2025           12307.220    64 
+14561194    JOSE ROJAS ROJAS              Sanitas Peru        SHG229       05/10/2025             30/09/2026           11104.670    29 
+19016173    CARLOS RODRIGUEZ MARTINEZ     Rimac Seguros       GTI961       12/07/2022             08/01/2023           11700.040    59 
+69946240    MARIA ORTIZ GONZALEZ          Interseguro         OMK494       12/08/2026             08/02/2027           13942.160    69 
+10301283    ELENA HERRERA MENDOZA         Insur Vida          OTM601       30/09/2022             19/09/2024           4681.780     27 
+96860454    VALERIA MENDOZA RIVERA        Mapfre Peru         KQV710       23/08/2026             18/08/2027           2137.190     27 
+28547498    CARMEN PEREZ VEGA             Sanitas Peru        UFU023       05/03/2023             17/02/2026           6474.590     63 
+48935881    SILVIA ORTIZ JIMENEZ          La Positiva         TVC825       07/06/2024             23/05/2027           4818.320     64 
+72576734    PEDRO AGUILAR MENDOZA         Mapfre Peru         PWK153       27/02/2023             26/08/2023           12881.280    64 
+87233047    LUCIA MEDINA VARGAS           Insur Vida          KAP523       19/08/2025             14/08/2026           13013.230    49 
+43638082    PEDRO HERRERA TORRES          Interseguro         FLD155       20/06/2022             15/06/2023           3444.930     45 
+56571579    MONICA PEREZ CRUZ             Mapfre Peru         OBC469       29/06/2024             26/12/2024           4242.270     19 
+63678997    RICARDO SANCHEZ PEREZ         Rimac Seguros       JXK316       01/01/2025             17/12/2027           13126.480    66 
+90760138    PEDRO TORRES HERRERA          Pacifico Seguros    FXJ916       04/09/2023             24/08/2025           206.690      70 
+31346477    ALBERTO RAMIREZ GOMEZ         Sanitas Peru        MGE543       12/07/2022             01/07/2024           8157.750     32 
+12644033    MIGUEL RODRIGUEZ SILVA        Pacifico Seguros    ZNS442       26/09/2022             21/09/2023           9002.370     34 
+82736163    BEATRIZ LOPEZ VEGA            Interseguro         QKR148       09/03/2024             22/02/2027           13343.100    29 
+21035018    CARLOS GARCIA GOMEZ           Insur Vida          DYL906       30/06/2024             20/06/2026           13900.310    31 
+41493707    MARIA LOPEZ REYES             Insur Vida          BBO454       16/12/2025             14/06/2026           3624.100     55 
+34144535    VICTOR AGUILAR ROJAS          Sanitas Peru        GHU879       29/07/2024             19/07/2026           12022.970    32 
+50532750    RAUL CASTILLO RODRIGUEZ       Rimac Seguros       JFW273       07/02/2026             28/01/2028           11639.740    18 
+64428620    CARMEN NUNEZ RAMIREZ          Insur Vida          NKJ678       11/02/2023             10/08/2023           13076.150    42 
+22184401    MIGUEL VEGA SANCHEZ           La Positiva         XAU278       01/07/2026             15/06/2029           9694.920     19 
+22184724    RICARDO GONZALEZ SILVA        Mapfre Peru         GWE620       14/12/2022             12/06/2023           14612.780    20 
+40342565    PEDRO TORRES VEGA             Protecta Security   KQW216       19/11/2025             14/11/2026           7621.250     37 
+95696566    BEATRIZ MEDINA RIVERA         Protecta Security   RRG278       09/08/2022             05/02/2023           1083.090     43 
+89108350    SILVIA LOPEZ MORALES          Interseguro         JGX272       02/03/2024             25/02/2025           14612.190    23 
+22543771    MANUEL MORALES GOMEZ          Sanitas Peru        LHV367       26/07/2026             22/01/2027           7702.250     69 
+43895539    BEATRIZ MENDOZA SILVA         La Positiva         UZN941       18/09/2023             12/09/2024           1891.230     72 
+90368666    MANUEL RUIZ MORALES           Mapfre Peru         SYC540       18/08/2024             14/02/2025           2429.870     44 
+45028201    CARMEN REYES CASTILLO         Pacifico Seguros    EYO003       13/06/2026             08/06/2027           1966.040     68 
+59154305    DIEGO ORTIZ AGUILAR           La Positiva         VQJ288       24/06/2024             19/06/2025           8955.840     48 
+99838859    ALBERTO CASTILLO SILVA        Sanitas Peru        ADS737       23/04/2022             07/04/2025           14760.380    47 
+51299618    RAUL VARGAS NUNEZ             La Positiva         OWK550       27/09/2024             12/09/2027           9465.870     38 
+25265981    ROSA REYES RIVERA             La Positiva         OMI806       10/04/2026             25/03/2029           12242.170    41 
+79778765    JORGE GARCIA ROJAS            Protecta Security   CNR244       21/09/2025             20/03/2026           1078.190     69 
+35953134    ROSA VEGA SILVA               Interseguro         XVZ946       30/12/2025             14/12/2028           9783.860     38 
+73987448    LUCIA GOMEZ GONZALEZ          Pacifico Seguros    DZX121       13/04/2025             28/03/2028           10557.710    35 
+14580224    TERESA SANCHEZ ORTIZ          Pacifico Seguros    JVV346       31/01/2022             30/07/2022           14086.380    65 
+98408611    VICTOR CHAVEZ MEDINA          Rimac Seguros       XUK483       14/05/2024             04/05/2026           4301.990     38 
+92219449    CLAUDIA MENDOZA CRUZ          Protecta Security   XPI739       03/02/2023             29/01/2024           12264.630    70 
+76667086    VICTOR TORRES CRUZ            Insur Vida          ESB618       26/11/2023             20/11/2024           8232.830     31 
+96762014    GABRIELA REYES MORALES        La Positiva         AMB388       15/12/2022             29/11/2025           11066.680    18 
+36905641    CARMEN CRUZ TORRES            Interseguro         GKS405       02/07/2022             27/06/2023           14263.690    41 
+20512253    VICTOR HERRERA DIAZ           Pacifico Seguros    JLU979       12/11/2024             02/11/2026           11948.530    30 
+24619922    RICARDO GONZALEZ CASTILLO     Insur Vida          MIL700       10/09/2023             30/08/2025           6741.600     40 
+86325177    ANDRES MARTINEZ DIAZ          Sanitas Peru        ZND174       12/12/2023             26/11/2026           8903.550     71 
+53170548    DIEGO AGUILAR FLORES          Pacifico Seguros    ECA370       18/11/2024             17/05/2025           11747.700    57 
+18570322    TERESA HERRERA MORALES        Sanitas Peru        DJX923       25/08/2026             14/08/2028           9986.910     24 
+48044617    JOSE DIAZ CHAVEZ              Insur Vida          DQU546       26/12/2022             15/12/2024           8392.640     20 
+77472904    MARIA ROJAS PEREZ             Pacifico Seguros    CDZ874       29/12/2024             27/06/2025           2196.810     35 
+83509278    JUAN DIAZ CHAVEZ              La Positiva         NYJ181       03/10/2025             01/04/2026           2633.450     30 
+15754924    ELENA DIAZ RUIZ               Insur Vida          QXN239       18/08/2024             13/08/2025           7402.850     43 
+63283814    CARMEN CRUZ RUIZ              La Positiva         PCK101       17/06/2026             12/06/2027           11883.350    75 
+23706289    JUAN RUIZ FLORES              Rimac Seguros       KRF322       21/05/2024             11/05/2026           10796.470    45 
+33871800    ROSA MENDOZA CHAVEZ           La Positiva         ZLD136       28/10/2024             18/10/2026           11011.120    53 
+38364024    PEDRO VARGAS TORRES           Protecta Security   EUG078       11/05/2023             25/04/2026           10196.280    24 
+83981914    CLAUDIA SILVA VARGAS          Mapfre Peru         QSL273       14/01/2024             29/12/2026           11224.520    45 
+45665104    PATRICIA REYES AGUILAR        Pacifico Seguros    DJE843       18/11/2024             03/11/2027           5250.670     21 
+80268309    ANA MEDINA ORTIZ              Protecta Security   OWT987       14/01/2023             09/01/2024           2315.840     41 
+87626896    MIGUEL HERRERA RUIZ           Protecta Security   OHB518       13/05/2024             09/11/2024           5749.560     47 
+64950588    PATRICIA MEDINA DIAZ          Insur Vida          KCG533       07/01/2024             27/12/2025           6661.960     72 
+77560497    VICTOR FLORES DIAZ            Interseguro         OYH713       04/04/2025             25/03/2027           11524.930    51 
+59125119    TERESA NUNEZ RIVERA           Protecta Security   GRK079       30/03/2026             25/03/2027           12759.950    57 
+19427887    SILVIA RAMIREZ LOPEZ          Insur Vida          URU708       12/06/2026             27/05/2029           9735.680     70 
+94844860    MIGUEL CHAVEZ GOMEZ           Interseguro         QHK625       02/01/2026             28/12/2026           12430.800    66 
+10961065    JORGE MENDOZA CASTILLO        Protecta Security   DPG554       17/05/2025             12/05/2026           10055.640    72 
+36780065    PATRICIA DIAZ FLORES          La Positiva         LXX087       24/12/2023             21/06/2024           11021.910    55 
+45686716    MONICA MARTINEZ MENDOZA       La Positiva         EZM706       30/08/2023             14/08/2026           13344.050    23 
+30845968    DIEGO MARTINEZ GARCIA         Rimac Seguros       JTB288       03/06/2024             29/05/2025           7316.470     61 
+28492661    PEDRO RAMIREZ RAMIREZ         Mapfre Peru         FQL840       01/08/2024             27/07/2025           7066.700     30 
+44141848    JOSE AGUILAR JIMENEZ          La Positiva         YHE020       07/04/2025             28/03/2027           12024.850    69 
+44211824    LUIS VARGAS GONZALEZ          Protecta Security   IYU723       19/01/2024             08/01/2026           6487.030     59 
+56397377    VICTOR RAMIREZ DIAZ           Rimac Seguros       CTS444       06/01/2023             26/12/2024           2514.180     25 
+86927618    JORGE REYES RODRIGUEZ         Protecta Security   FWS629       23/01/2025             08/01/2028           9226.160     67 
+85787306    JORGE DIAZ RUIZ               Rimac Seguros       VCB365       14/06/2023             29/05/2026           8187.260     44 
+54201915    ANDRES MEDINA CHAVEZ          Sanitas Peru        KZO587       13/03/2023             25/02/2026           13852.090    65 
+32417261    CLAUDIA ORTIZ CRUZ            Insur Vida          RBS184       29/01/2025             28/07/2025           8050.350     50 
+44023739    ELENA SILVA GOMEZ             Pacifico Seguros    KDC557       30/08/2024             26/02/2025           2504.100     50 
+43293587    SILVIA CASTILLO CRUZ          Insur Vida          LSK263       16/06/2024             11/06/2025           8917.230     29 
+49818291    MANUEL REYES CHAVEZ           Protecta Security   UOZ775       15/09/2025             10/09/2026           8080.170     34 
+48009256    JOSE RIVERA FLORES            Mapfre Peru         MRA724       07/03/2024             25/02/2026           4624.420     55 
+55943604    CARLOS TORRES MEDINA          Rimac Seguros       NDM668       04/05/2026             31/10/2026           1852.210     30 
+20242003    GABRIELA MEDINA SILVA         Interseguro         FOF319       14/07/2026             28/06/2029           7343.720     33 
+69909073    LUCIA DIAZ RIVERA             Pacifico Seguros    RGK889       07/06/2025             28/05/2027           7393.680     54 
+32436989    VALERIA CRUZ ROJAS            Interseguro         GDL354       12/06/2022             27/05/2025           12418.600    31 
+83434034    VALERIA CASTILLO GONZALEZ     Rimac Seguros       TNS466       05/05/2025             30/04/2026           6982.010     51 
+57615923    ROSA GARCIA LOPEZ             Protecta Security   CWU109       01/02/2026             27/01/2027           8006.670     19 
+35356482    FERNANDO FLORES RIVERA        La Positiva         IYX565       26/02/2026             25/08/2026           12583.700    72 
+23033355    CLAUDIA NUNEZ SANCHEZ         Protecta Security   TZT131       28/05/2024             24/11/2024           11112.890    65 
+96827446    CARLOS MEDINA AGUILAR         Interseguro         JPT349       15/11/2025             10/11/2026           11490.870    30 
+97957551    TERESA MARTINEZ MORALES       Pacifico Seguros    JJT450       17/07/2025             07/07/2027           12058.310    27 
+99189126    JOSE REYES GARCIA             Pacifico Seguros    IND450       05/10/2025             03/04/2026           8023.590     28 
+80000192    DIEGO MEDINA RODRIGUEZ        Sanitas Peru        ESV541       02/06/2022             29/11/2022           11468.570    38 
