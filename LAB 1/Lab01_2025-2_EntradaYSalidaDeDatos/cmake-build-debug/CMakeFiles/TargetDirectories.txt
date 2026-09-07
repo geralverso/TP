@@ -1,0 +1,3 @@
+C:/Users/PC/Desktop/TP/CLION/SEMANA 3/LAB 1/Lab01_2025-2_EntradaYSalidaDeDatos/cmake-build-debug/CMakeFiles/Lab01_2025_2_EntradaYSalidaDeDatos.dir
+C:/Users/PC/Desktop/TP/CLION/SEMANA 3/LAB 1/Lab01_2025-2_EntradaYSalidaDeDatos/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/PC/Desktop/TP/CLION/SEMANA 3/LAB 1/Lab01_2025-2_EntradaYSalidaDeDatos/cmake-build-debug/CMakeFiles/rebuild_cache.dir

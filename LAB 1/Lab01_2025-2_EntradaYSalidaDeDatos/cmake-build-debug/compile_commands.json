@@ -1,0 +1,14 @@
+[
+{
+  "directory": "C:/Users/PC/Desktop/TP/CLION/SEMANA 3/LAB 1/Lab01_2025-2_EntradaYSalidaDeDatos/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\C__~1.EXE -g -std=gnu++20 -fdiagnostics-color=always -fmodules-ts -fmodule-mapper=CMakeFiles\\Lab01_2025_2_EntradaYSalidaDeDatos.dir\\main.cpp.obj.modmap -MD -fdeps-format=p1689r5 -x c++ -o CMakeFiles\\Lab01_2025_2_EntradaYSalidaDeDatos.dir\\main.cpp.obj -c \"C:\\Users\\PC\\Desktop\\TP\\CLION\\SEMANA 3\\LAB 1\\Lab01_2025-2_EntradaYSalidaDeDatos\\main.cpp\"",
+  "file": "C:/Users/PC/Desktop/TP/CLION/SEMANA 3/LAB 1/Lab01_2025-2_EntradaYSalidaDeDatos/main.cpp",
+  "output": "C:/Users/PC/Desktop/TP/CLION/SEMANA 3/LAB 1/Lab01_2025-2_EntradaYSalidaDeDatos/cmake-build-debug/CMakeFiles/Lab01_2025_2_EntradaYSalidaDeDatos.dir/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/PC/Desktop/TP/CLION/SEMANA 3/LAB 1/Lab01_2025-2_EntradaYSalidaDeDatos/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\C__~1.EXE -g -std=gnu++20 -fdiagnostics-color=always -fmodules-ts -fmodule-mapper=CMakeFiles\\Lab01_2025_2_EntradaYSalidaDeDatos.dir\\Bibliotecas\\Funciones.cpp.obj.modmap -MD -fdeps-format=p1689r5 -x c++ -o CMakeFiles\\Lab01_2025_2_EntradaYSalidaDeDatos.dir\\Bibliotecas\\Funciones.cpp.obj -c \"C:\\Users\\PC\\Desktop\\TP\\CLION\\SEMANA 3\\LAB 1\\Lab01_2025-2_EntradaYSalidaDeDatos\\Bibliotecas\\Funciones.cpp\"",
+  "file": "C:/Users/PC/Desktop/TP/CLION/SEMANA 3/LAB 1/Lab01_2025-2_EntradaYSalidaDeDatos/Bibliotecas/Funciones.cpp",
+  "output": "C:/Users/PC/Desktop/TP/CLION/SEMANA 3/LAB 1/Lab01_2025-2_EntradaYSalidaDeDatos/cmake-build-debug/CMakeFiles/Lab01_2025_2_EntradaYSalidaDeDatos.dir/Bibliotecas/Funciones.cpp.obj"
+}
+]
