@@ -1,0 +1,32 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "GNU",
+	"compiler-id" : "GNU",
+	"compiler-simulate-id" : "",
+	"config" : "Debug",
+	"cxx-modules" : {},
+	"database-info" : null,
+	"dir-cur-bld" : "C:/Users/PC/Desktop/TP/CLION/SEMANA 3/lab1 2026-1/lab1 2026-1/2026_1_Laboratorio_01_20235976_Nunez_Geraldine/Lab01_EntradaYSalida_2026-1/cmake-build-debug",
+	"dir-cur-src" : "C:/Users/PC/Desktop/TP/CLION/SEMANA 3/lab1 2026-1/lab1 2026-1/2026_1_Laboratorio_01_20235976_Nunez_Geraldine/Lab01_EntradaYSalida_2026-1",
+	"dir-top-bld" : "C:/Users/PC/Desktop/TP/CLION/SEMANA 3/lab1 2026-1/lab1 2026-1/2026_1_Laboratorio_01_20235976_Nunez_Geraldine/Lab01_EntradaYSalida_2026-1/cmake-build-debug",
+	"dir-top-src" : "C:/Users/PC/Desktop/TP/CLION/SEMANA 3/lab1 2026-1/lab1 2026-1/2026_1_Laboratorio_01_20235976_Nunez_Geraldine/Lab01_EntradaYSalida_2026-1",
+	"exports" : [],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : [],
+	"language" : "CXX",
+	"linked-target-dirs" : [],
+	"module-dir" : "C:/Users/PC/Desktop/TP/CLION/SEMANA 3/lab1 2026-1/lab1 2026-1/2026_1_Laboratorio_01_20235976_Nunez_Geraldine/Lab01_EntradaYSalida_2026-1/cmake-build-debug/CMakeFiles/Lab01_EntradaYSalida_2026_1.dir",
+	"sources" : 
+	{
+		"CMakeFiles/Lab01_EntradaYSalida_2026_1.dir/Bibliotecas/Funciones.cpp.obj" : 
+		{
+			"language" : "CXX",
+			"source" : "C:/Users/PC/Desktop/TP/CLION/SEMANA 3/lab1 2026-1/lab1 2026-1/2026_1_Laboratorio_01_20235976_Nunez_Geraldine/Lab01_EntradaYSalida_2026-1/Bibliotecas/Funciones.cpp"
+		},
+		"CMakeFiles/Lab01_EntradaYSalida_2026_1.dir/main.cpp.obj" : 
+		{
+			"language" : "CXX",
+			"source" : "C:/Users/PC/Desktop/TP/CLION/SEMANA 3/lab1 2026-1/lab1 2026-1/2026_1_Laboratorio_01_20235976_Nunez_Geraldine/Lab01_EntradaYSalida_2026-1/main.cpp"
+		}
+	}
+}
