@@ -1,0 +1,16 @@
+LISTADO DE ALERTAS - LECTURAS FUERA DE RANGO
+--------------------------------------------------------------
+Fecha        Tipo  Medicion                              Valor
+--------------------------------------------------------------
+08/09/2026   V     Velocidad (mm/s)                      17.60
+08/09/2026   V     Velocidad (mm/s)                      19.10
+07/09/2026   T     Temperatura (C)                       95.20
+07/09/2026   T     Temperatura (C)                       92.70
+08/09/2026   T     Temperatura (C)                      -12.50
+08/09/2026   T     Temperatura (C)                       -7.90
+09/09/2026   V     Velocidad (mm/s)                      25.00
+09/09/2026   V     Velocidad (mm/s)                      24.10
+09/09/2026   V     Velocidad (mm/s)                      26.30
+09/09/2026   V     Velocidad (mm/s)                      23.80
+09/09/2026   T     Temperatura (C)                      120.40
+09/09/2026   T     Temperatura (C)                      129.40
