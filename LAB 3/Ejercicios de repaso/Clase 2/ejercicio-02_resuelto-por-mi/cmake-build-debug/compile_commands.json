@@ -1,0 +1,14 @@
+[
+{
+  "directory": "C:/Users/PC/Desktop/TP/CLION/SEMANA 4/ejercicios/ejercicio sabado/ejercicio-02_resuelto-por-mi/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\C__~1.EXE -g -std=gnu++20 -fdiagnostics-color=always -fmodules-ts -fmodule-mapper=CMakeFiles\\ejercicio_02_resuelto_por_mi.dir\\main.cpp.obj.modmap -MD -fdeps-format=p1689r5 -x c++ -o CMakeFiles\\ejercicio_02_resuelto_por_mi.dir\\main.cpp.obj -c \"C:\\Users\\PC\\Desktop\\TP\\CLION\\SEMANA 4\\ejercicios\\ejercicio sabado\\ejercicio-02_resuelto-por-mi\\main.cpp\"",
+  "file": "C:/Users/PC/Desktop/TP/CLION/SEMANA 4/ejercicios/ejercicio sabado/ejercicio-02_resuelto-por-mi/main.cpp",
+  "output": "C:/Users/PC/Desktop/TP/CLION/SEMANA 4/ejercicios/ejercicio sabado/ejercicio-02_resuelto-por-mi/cmake-build-debug/CMakeFiles/ejercicio_02_resuelto_por_mi.dir/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/PC/Desktop/TP/CLION/SEMANA 4/ejercicios/ejercicio sabado/ejercicio-02_resuelto-por-mi/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\C__~1.EXE -g -std=gnu++20 -fdiagnostics-color=always -fmodules-ts -fmodule-mapper=CMakeFiles\\ejercicio_02_resuelto_por_mi.dir\\Bibliotecas\\Funciones.cpp.obj.modmap -MD -fdeps-format=p1689r5 -x c++ -o CMakeFiles\\ejercicio_02_resuelto_por_mi.dir\\Bibliotecas\\Funciones.cpp.obj -c \"C:\\Users\\PC\\Desktop\\TP\\CLION\\SEMANA 4\\ejercicios\\ejercicio sabado\\ejercicio-02_resuelto-por-mi\\Bibliotecas\\Funciones.cpp\"",
+  "file": "C:/Users/PC/Desktop/TP/CLION/SEMANA 4/ejercicios/ejercicio sabado/ejercicio-02_resuelto-por-mi/Bibliotecas/Funciones.cpp",
+  "output": "C:/Users/PC/Desktop/TP/CLION/SEMANA 4/ejercicios/ejercicio sabado/ejercicio-02_resuelto-por-mi/cmake-build-debug/CMakeFiles/ejercicio_02_resuelto_por_mi.dir/Bibliotecas/Funciones.cpp.obj"
+}
+]
