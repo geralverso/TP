@@ -1,0 +1,32 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "GNU",
+	"compiler-id" : "GNU",
+	"compiler-simulate-id" : "",
+	"config" : "Debug",
+	"cxx-modules" : {},
+	"database-info" : null,
+	"dir-cur-bld" : "C:/Users/PC/Desktop/TP/CLION/SEMANA 4/ejercicios/ejercicio jueves/ejercicio-01_resuelto-por-mi/cmake-build-debug",
+	"dir-cur-src" : "C:/Users/PC/Desktop/TP/CLION/SEMANA 4/ejercicios/ejercicio jueves/ejercicio-01_resuelto-por-mi",
+	"dir-top-bld" : "C:/Users/PC/Desktop/TP/CLION/SEMANA 4/ejercicios/ejercicio jueves/ejercicio-01_resuelto-por-mi/cmake-build-debug",
+	"dir-top-src" : "C:/Users/PC/Desktop/TP/CLION/SEMANA 4/ejercicios/ejercicio jueves/ejercicio-01_resuelto-por-mi",
+	"exports" : [],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : [],
+	"language" : "CXX",
+	"linked-target-dirs" : [],
+	"module-dir" : "C:/Users/PC/Desktop/TP/CLION/SEMANA 4/ejercicios/ejercicio jueves/ejercicio-01_resuelto-por-mi/cmake-build-debug/CMakeFiles/ejercicio_01_resuelto_por_mi.dir",
+	"sources" : 
+	{
+		"CMakeFiles/ejercicio_01_resuelto_por_mi.dir/Bibliotecas/Funciones.cpp.obj" : 
+		{
+			"language" : "CXX",
+			"source" : "C:/Users/PC/Desktop/TP/CLION/SEMANA 4/ejercicios/ejercicio jueves/ejercicio-01_resuelto-por-mi/Bibliotecas/Funciones.cpp"
+		},
+		"CMakeFiles/ejercicio_01_resuelto_por_mi.dir/main.cpp.obj" : 
+		{
+			"language" : "CXX",
+			"source" : "C:/Users/PC/Desktop/TP/CLION/SEMANA 4/ejercicios/ejercicio jueves/ejercicio-01_resuelto-por-mi/main.cpp"
+		}
+	}
+}
