@@ -1,0 +1,5 @@
+ninja_dyndep_version = 1.0
+build CMakeFiles/ejercicio_03_resuelto_por_mi.dir/main.cpp.obj: dyndep
+
+build CMakeFiles/ejercicio_03_resuelto_por_mi.dir/Bibliotecas/Funciones.cpp.obj: dyndep
+
