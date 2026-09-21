@@ -1,0 +1,69 @@
+---------------------------------------------
+REPORTE DE VENTAS EN TXT
+---------------------------------------------
+Producto A
+   Cantidad: 5    Precio unitario: 5.00
+   Cantidad: 2    Precio unitario: 5.00
+   Cantidad: 7    Precio unitario: 5.00
+   Cantidad: 4    Precio unitario: 5.00
+   Cantidad: 3    Precio unitario: 5.00
+   Cantidad: 6    Precio unitario: 5.00
+   Cantidad: 8    Precio unitario: 5.00
+Unidades vendidas: 35
+Ingreso total: 175.00
+Stock restante: 15
+Alerta de reposición: N
+---------------------------------------------
+Producto B
+   Cantidad: 3    Precio unitario: 8.50
+   Cantidad: 4    Precio unitario: 8.50
+   Cantidad: 6    Precio unitario: 8.50
+   Cantidad: 2    Precio unitario: 8.50
+   Cantidad: 5    Precio unitario: 8.50
+   Cantidad: 3    Precio unitario: 8.50
+Unidades vendidas: 23
+Ingreso total: 195.50
+Stock restante: 7
+Alerta de reposición: S
+---------------------------------------------
+Producto C
+   Cantidad: 10   Precio unitario: 3.20
+   Cantidad: 8    Precio unitario: 3.20
+   Cantidad: 5    Precio unitario: 3.20
+   Cantidad: 12   Precio unitario: 3.20
+   Cantidad: 7    Precio unitario: 3.20
+   Cantidad: 9    Precio unitario: 3.20
+Unidades vendidas: 51
+Ingreso total: 163.20
+Stock restante: 29
+Alerta de reposición: N
+---------------------------------------------
+Producto D
+   Cantidad: 1    Precio unitario: 12.75
+   Cantidad: 2    Precio unitario: 12.75
+   Cantidad: 1    Precio unitario: 12.75
+   Cantidad: 3    Precio unitario: 12.75
+   Cantidad: 2    Precio unitario: 12.75
+Unidades vendidas: 9
+Ingreso total: 114.75
+Stock restante: 6
+Alerta de reposición: N
+---------------------------------------------
+Producto E
+   Cantidad: 6    Precio unitario: 6.40
+   Cantidad: 3    Precio unitario: 6.40
+   Cantidad: 9    Precio unitario: 6.40
+   Cantidad: 5    Precio unitario: 6.40
+   Cantidad: 4    Precio unitario: 6.40
+   Cantidad: 7    Precio unitario: 6.40
+Unidades vendidas: 34
+Ingreso total: 217.60
+Stock restante: 26
+Alerta de reposición: N
+---------------------------------------------
+Ingreso total de la tienda: 866.05
+Monto de impuesto: 155.89
+Ingreso neto: 710.16
+Porcentaje de cumplimiento de meta: 43.30%
+Ingreso promedio por empleado: 108.26
+---------------------------------------------

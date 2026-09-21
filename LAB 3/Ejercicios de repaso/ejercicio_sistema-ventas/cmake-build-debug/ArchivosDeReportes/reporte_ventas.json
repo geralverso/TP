@@ -1,0 +1,6 @@
+{"producto_A_unidades": 35, "producto_A_ingreso": 175.00, "producto_A_stock_restante": 15, "producto_A_alerta": "N"}
+{"producto_B_unidades": 23, "producto_B_ingreso": 195.50, "producto_B_stock_restante": 7, "producto_B_alerta": "S"}
+{"producto_C_unidades": 51, "producto_C_ingreso": 163.20, "producto_C_stock_restante": 29, "producto_C_alerta": "N"}
+{"producto_D_unidades": 9, "producto_D_ingreso": 114.75, "producto_D_stock_restante": 6, "producto_D_alerta": "N"}
+{"producto_E_unidades": 34, "producto_E_ingreso": 217.60, "producto_E_stock_restante": 26, "producto_E_alerta": "N"}
+{"ingreso_total": 866.05, "monto_impuesto": 155.89, "ingreso_neto": 710.16, "porcentaje_meta": 43.30, "ingreso_por_empleado": 108.26}
