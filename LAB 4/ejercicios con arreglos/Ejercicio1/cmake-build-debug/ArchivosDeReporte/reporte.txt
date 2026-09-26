@@ -1,0 +1,227 @@
+=================================================================
+         REPORTE DE HORAS EXTRA - EMPRESA ANDINA TEXTIL
+=================================================================
+CODIGO    AREA    HORAS     PAGO (S/)    CLASIFICACION
+-----------------------------------------------------------------
+439563    C       0.97      8.92         NORMAL       
+961168    B       11.66     90.95        EXCESO       
+632084    A       8.67      73.69        NORMAL       
+173248    C       8.49      78.11        NORMAL       
+967017    A       12.61     107.19       EXCESO       
+711316    C       7.93      72.96        NORMAL       
+331821    A       5.79      49.22        NORMAL       
+251262    C       6.17      56.76        NORMAL       
+955770    A       11.63     98.86        EXCESO       
+769949    A       10.95     93.07        EXCESO       
+165839    C       4.12      37.90        NORMAL       
+813451    B       9.31      72.62        NORMAL       
+575198    A       15.89     135.06       EXCESO       
+832948    A       11.49     97.67        EXCESO       
+650708    B       14.59     113.80       EXCESO       
+401924    A       10.24     87.04        EXCESO       
+272975    A       18.67     158.70       EXCESO       
+542182    A       15.29     129.97       EXCESO       
+700861    B       6.80      53.04        NORMAL       
+467188    C       15.94     146.65       EXCESO       
+172103    B       9.48      73.94        NORMAL       
+796414    C       14.03     129.08       EXCESO       
+778563    B       5.69      44.38        NORMAL       
+504531    B       0.45      3.51         NORMAL       
+584122    C       2.34      21.53        NORMAL       
+161818    B       2.59      20.20        NORMAL       
+359642    B       1.61      12.56        NORMAL       
+571007    B       17.67     137.83       EXCESO       
+959077    C       5.57      51.24        NORMAL       
+535469    B       19.15     149.37       EXCESO       
+258252    A       4.64      39.44        NORMAL       
+344670    C       3.65      33.58        NORMAL       
+395625    B       10.69     83.38        EXCESO       
+739434    A       13.81     117.39       EXCESO       
+640531    C       14.80     136.16       EXCESO       
+578825    C       15.96     146.83       EXCESO       
+511439    B       2.07      16.15        NORMAL       
+765100    A       1.35      11.48        NORMAL       
+318904    A       6.80      57.80        NORMAL       
+155129    C       3.03      27.88        NORMAL       
+206393    A       1.41      11.98        NORMAL       
+318054    A       12.69     107.86       EXCESO       
+464264    B       2.46      19.19        NORMAL       
+990174    B       9.68      75.50        NORMAL       
+190056    C       6.85      63.02        NORMAL       
+377617    C       3.23      29.72        NORMAL       
+124217    B       2.93      22.85        NORMAL       
+669557    C       5.96      54.83        NORMAL       
+774147    C       16.91     155.57       EXCESO       
+643578    A       7.11      60.44        NORMAL       
+333615    C       6.59      60.63        NORMAL       
+333876    A       16.12     137.02       EXCESO       
+958084    A       4.00      34.00        NORMAL       
+616719    A       19.79     168.22       EXCESO       
+928494    B       3.87      30.19        NORMAL       
+734534    C       19.76     181.79       EXCESO       
+482348    A       4.54      38.59        NORMAL       
+306261    B       12.48     97.34        EXCESO       
+739906    B       18.18     141.80       EXCESO       
+460717    A       16.69     141.87       EXCESO       
+225728    C       15.00     138.00       EXCESO       
+601253    B       15.78     123.08       EXCESO       
+448669    C       7.92      72.86        NORMAL       
+520884    C       3.18      29.26        NORMAL       
+233209    C       18.10     166.52       EXCESO       
+945678    C       16.53     152.08       EXCESO       
+597399    B       3.12      24.34        NORMAL       
+674919    A       15.99     135.91       EXCESO       
+861654    C       14.99     137.91       EXCESO       
+246014    A       16.52     140.42       EXCESO       
+321293    A       5.86      49.81        NORMAL       
+352223    B       5.19      40.48        NORMAL       
+539366    A       18.20     154.70       EXCESO       
+470969    C       11.67     107.36       EXCESO       
+641863    C       2.62      24.10        NORMAL       
+259211    A       17.46     148.41       EXCESO       
+914225    A       15.52     131.92       EXCESO       
+257079    B       12.38     96.56        EXCESO       
+226182    B       13.65     106.47       EXCESO       
+656506    A       17.66     150.11       EXCESO       
+159582    B       0.84      6.55         NORMAL       
+202493    C       0.56      5.15         NORMAL       
+166447    C       19.47     179.12       EXCESO       
+735581    C       5.54      50.97        NORMAL       
+632840    B       10.16     79.25        EXCESO       
+359685    B       18.46     143.99       EXCESO       
+312429    A       8.33      70.81        NORMAL       
+511423    A       13.42     114.07       EXCESO       
+549145    C       6.06      55.75        NORMAL       
+228293    A       18.79     159.72       EXCESO       
+774714    A       5.06      43.01        NORMAL       
+243921    C       19.05     175.26       EXCESO       
+517602    A       19.80     168.30       EXCESO       
+972881    C       8.63      79.40        NORMAL       
+640651    B       3.91      30.50        NORMAL       
+433998    B       0.39      3.04         NORMAL       
+680963    C       0.36      3.31         NORMAL       
+447600    B       10.25     79.95        EXCESO       
+167413    A       19.43     165.16       EXCESO       
+209869    B       0.79      6.16         NORMAL       
+916838    A       16.40     139.40       EXCESO       
+990857    B       8.12      63.34        NORMAL       
+662664    C       9.89      90.99        NORMAL       
+442935    A       15.99     135.91       EXCESO       
+292250    A       5.38      45.73        NORMAL       
+117649    B       1.67      13.03        NORMAL       
+997820    B       17.26     134.63       EXCESO       
+575816    C       8.36      76.91        NORMAL       
+380871    A       10.54     89.59        EXCESO       
+350018    B       1.01      7.88         NORMAL       
+311569    C       6.10      56.12        NORMAL       
+896391    B       10.00     78.00        NORMAL       
+286541    A       19.89     169.06       EXCESO       
+138744    C       10.11     93.01        EXCESO       
+298659    A       18.69     158.87       EXCESO       
+211444    C       8.64      79.49        NORMAL       
+619046    B       19.41     151.40       EXCESO       
+422733    A       6.85      58.22        NORMAL       
+972715    C       12.72     117.02       EXCESO       
+524356    A       0.29      2.46         NORMAL       
+755830    B       8.61      67.16        NORMAL       
+158092    B       17.41     135.80       EXCESO       
+803115    A       13.85     117.72       EXCESO       
+147434    A       5.38      45.73        NORMAL       
+103798    B       19.45     151.71       EXCESO       
+673648    A       19.31     164.13       EXCESO       
+424584    A       0.02      0.17         NORMAL       
+500164    B       10.06     78.47        EXCESO       
+310742    A       1.82      15.47        NORMAL       
+956733    B       11.74     91.57        EXCESO       
+513116    B       12.59     98.20        EXCESO       
+188586    A       13.15     111.78       EXCESO       
+850773    C       7.79      71.67        NORMAL       
+441977    A       5.68      48.28        NORMAL       
+748761    A       16.50     140.25       EXCESO       
+849743    C       8.58      78.94        NORMAL       
+835107    A       18.20     154.70       EXCESO       
+889438    A       16.53     140.50       EXCESO       
+712432    C       13.66     125.67       EXCESO       
+827005    A       0.62      5.27         NORMAL       
+239558    A       7.53      64.00        NORMAL       
+573312    C       0.38      3.50         NORMAL       
+657259    B       5.28      41.18        NORMAL       
+579145    C       18.65     171.58       EXCESO       
+661197    C       1.32      12.14        NORMAL       
+872578    A       16.92     143.82       EXCESO       
+346190    A       4.61      39.19        NORMAL       
+781503    B       1.53      11.93        NORMAL       
+816907    A       12.34     104.89       EXCESO       
+773985    C       2.95      27.14        NORMAL       
+366275    C       6.09      56.03        NORMAL       
+695341    B       1.21      9.44         NORMAL       
+381828    C       4.35      40.02        NORMAL       
+613397    C       5.71      52.53        NORMAL       
+588529    A       19.87     168.90       EXCESO       
+675748    A       18.73     159.21       EXCESO       
+118354    A       16.40     139.40       EXCESO       
+571283    A       18.33     155.80       EXCESO       
+320944    A       2.83      24.05        NORMAL       
+649522    A       12.07     102.59       EXCESO       
+762352    A       14.07     119.59       EXCESO       
+342623    B       7.88      61.46        NORMAL       
+266792    C       9.02      82.98        NORMAL       
+416618    B       6.88      53.66        NORMAL       
+431431    B       0.03      0.23         NORMAL       
+887201    B       2.40      18.72        NORMAL       
+305249    C       5.80      53.36        NORMAL       
+490303    B       19.98     155.84       EXCESO       
+717796    B       15.11     117.86       EXCESO       
+995751    A       1.03      8.76         NORMAL       
+794134    A       4.99      42.41        NORMAL       
+378636    B       3.80      29.64        NORMAL       
+491485    A       16.24     138.04       EXCESO       
+761542    C       10.98     101.02       EXCESO       
+854526    C       8.22      75.62        NORMAL       
+744784    C       17.39     159.99       EXCESO       
+609162    C       2.55      23.46        NORMAL       
+595120    B       5.96      46.49        NORMAL       
+874931    B       8.12      63.34        NORMAL       
+350258    C       13.38     123.10       EXCESO       
+225559    A       1.50      12.75        NORMAL       
+624922    B       11.01     85.88        EXCESO       
+574990    B       8.55      66.69        NORMAL       
+674394    A       3.49      29.67        NORMAL       
+682876    A       7.37      62.65        NORMAL       
+948673    A       14.99     127.42       EXCESO       
+532832    C       10.48     96.42        EXCESO       
+495172    A       9.96      84.66        NORMAL       
+702177    C       10.07     92.64        EXCESO       
+760211    A       1.85      15.73        NORMAL       
+360522    C       8.92      82.06        NORMAL       
+427172    A       2.54      21.59        NORMAL       
+545854    B       19.37     151.09       EXCESO       
+613618    B       18.60     145.08       EXCESO       
+965693    B       19.44     151.63       EXCESO       
+360534    A       3.09      26.27        NORMAL       
+647740    C       14.02     128.98       EXCESO       
+987628    B       1.70      13.26        NORMAL       
+914598    A       4.65      39.53        NORMAL       
+139417    B       19.25     150.15       EXCESO       
+=================================================================
+                        RESUMEN POR AREA
+=================================================================
+Area A (Producción): 
+  Empleados registrados     : 77
+  Total horas extra         : 842.71
+  Total pagado (S/)         : 7163.04
+  Mayor horas extra         : 19.89 (Codigo: 286541)
+Area B (Logística): 
+  Empleados registrados     : 62
+  Total horas extra         : 569.71
+  Total pagado (S/)         : 4443.74
+  Mayor horas extra         : 19.98 (Codigo: 490303)
+Area C (Administración): 
+  Empleados registrados     : 61
+  Total horas extra         : 548.11
+  Total pagado (S/)         : 5042.61
+  Mayor horas extra         : 19.76 (Codigo: 734534)
+=================================================================
+TOTAL GENERAL PAGADO EN HORAS EXTRA: S/ 16649.39
+TOTAL DE REGISTROS PROCESADOS: 200
+=================================================================
