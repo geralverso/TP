@@ -1,0 +1,8 @@
+REGISTROS DE CONSULTAS
+CODIGO     ¿ESTÁ REGISTRADO?   CICLO   CANT. NOTAS 
+20200117   si                  6       3           
+20240001   no                  -       1           
+20203380   si                  5       0           
+20181234   si                  8       2           
+20199999   no                  -       1           
+20227712   si                  2       2           
