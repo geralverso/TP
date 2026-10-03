@@ -1,0 +1,1803 @@
+==============================================================
+             REPORTE DE INFRACCIONES DE TRANSITO
+==============================================================
+VEHICULO 1001           Categoria: L             
+--------------------------------------------------------------
+Monto Exceso de velocidad (M)                          2889.00
+Monto Carril no permitido (G)                             0.00
+--------------------------------------------------------------
+Capturas registradas                                         4
+Mayor velocidad (km/h)                                  165.00
+Fecha de mayor velocidad                            30/06/2026
+--------------------------------------------------------------
+VEHICULO 1002           Categoria: P             
+--------------------------------------------------------------
+Monto Exceso de velocidad (M)                           963.00
+Monto Carril no permitido (G)                             0.00
+--------------------------------------------------------------
+Capturas registradas                                         3
+Mayor velocidad (km/h)                                   75.50
+Fecha de mayor velocidad                            29/06/2026
+--------------------------------------------------------------
+VEHICULO 1003           Categoria: M             
+--------------------------------------------------------------
+Monto Exceso de velocidad (M)                             0.00
+Monto Carril no permitido (G)                           856.00
+--------------------------------------------------------------
+Capturas registradas                                         3
+Mayor velocidad (km/h)                                   95.00
+Fecha de mayor velocidad                            30/06/2026
+--------------------------------------------------------------
+VEHICULO 1004           Categoria: E             
+--------------------------------------------------------------
+Monto Exceso de velocidad (M)                           963.00
+Monto Carril no permitido (G)                             0.00
+--------------------------------------------------------------
+Capturas registradas                                         2
+Mayor velocidad (km/h)                                   82.00
+Fecha de mayor velocidad                            12/07/2026
+--------------------------------------------------------------
+VEHICULO 1006           Categoria: L             
+--------------------------------------------------------------
+Monto Exceso de velocidad (M)                          1926.00
+Monto Carril no permitido (G)                             0.00
+--------------------------------------------------------------
+Capturas registradas                                         3
+Mayor velocidad (km/h)                                  130.00
+Fecha de mayor velocidad                            03/07/2026
+--------------------------------------------------------------
+VEHICULO 1007           Categoria: M             
+--------------------------------------------------------------
+Monto Exceso de velocidad (M)                          2889.00
+Monto Carril no permitido (G)                           428.00
+--------------------------------------------------------------
+Capturas registradas                                         3
+Mayor velocidad (km/h)                                  130.00
+Fecha de mayor velocidad                            09/07/2026
+--------------------------------------------------------------
+VEHICULO 1008           Categoria: L             
+--------------------------------------------------------------
+Monto Exceso de velocidad (M)                          1926.00
+Monto Carril no permitido (G)                             0.00
+--------------------------------------------------------------
+Capturas registradas                                         3
+Mayor velocidad (km/h)                                  140.00
+Fecha de mayor velocidad                            11/07/2026
+--------------------------------------------------------------
+VEHICULO 1009           Categoria: P             
+--------------------------------------------------------------
+Monto Exceso de velocidad (M)                           963.00
+Monto Carril no permitido (G)                             0.00
+--------------------------------------------------------------
+Capturas registradas                                         2
+Mayor velocidad (km/h)                                   65.00
+Fecha de mayor velocidad                            15/07/2026
+--------------------------------------------------------------
+VEHICULO 1010           Categoria: L             
+--------------------------------------------------------------
+Monto Exceso de velocidad (M)                           963.00
+Monto Carril no permitido (G)                             0.00
+--------------------------------------------------------------
+Capturas registradas                                         4
+Mayor velocidad (km/h)                                  150.00
+Fecha de mayor velocidad                            03/07/2026
+--------------------------------------------------------------
+VEHICULO 1011           Categoria: M             
+--------------------------------------------------------------
+Monto Exceso de velocidad (M)                          1926.00
+Monto Carril no permitido (G)                           856.00
+--------------------------------------------------------------
+Capturas registradas                                         3
+Mayor velocidad (km/h)                                   95.00
+Fecha de mayor velocidad                            02/07/2026
+--------------------------------------------------------------
+VEHICULO 1012           Categoria: E             
+--------------------------------------------------------------
+Monto Exceso de velocidad (M)                           963.00
+Monto Carril no permitido (G)                             0.00
+--------------------------------------------------------------
+Capturas registradas                                         2
+Mayor velocidad (km/h)                                   78.00
+Fecha de mayor velocidad                            06/07/2026
+--------------------------------------------------------------
+VEHICULO 1013           Categoria: L             
+--------------------------------------------------------------
+Monto Exceso de velocidad (M)                          2889.00
+Monto Carril no permitido (G)                             0.00
+--------------------------------------------------------------
+Capturas registradas                                         3
+Mayor velocidad (km/h)                                  121.00
+Fecha de mayor velocidad                            07/07/2026
+--------------------------------------------------------------
+VEHICULO 1014           Categoria: P             
+--------------------------------------------------------------
+Monto Exceso de velocidad (M)                           963.00
+Monto Carril no permitido (G)                           428.00
+--------------------------------------------------------------
+Capturas registradas                                         2
+Mayor velocidad (km/h)                                   59.00
+Fecha de mayor velocidad                            29/06/2026
+--------------------------------------------------------------
+VEHICULO 1015           Categoria: M             
+--------------------------------------------------------------
+Monto Exceso de velocidad (M)                          1926.00
+Monto Carril no permitido (G)                           856.00
+--------------------------------------------------------------
+Capturas registradas                                         4
+Mayor velocidad (km/h)                                  130.00
+Fecha de mayor velocidad                            14/07/2026
+--------------------------------------------------------------
+VEHICULO 1016           Categoria: L             
+--------------------------------------------------------------
+Monto Exceso de velocidad (M)                             0.00
+Monto Carril no permitido (G)                           428.00
+--------------------------------------------------------------
+Capturas registradas                                         2
+Mayor velocidad (km/h)                                  110.00
+Fecha de mayor velocidad                            15/07/2026
+--------------------------------------------------------------
+VEHICULO 1017           Categoria: L             
+--------------------------------------------------------------
+Monto Exceso de velocidad (M)                           963.00
+Monto Carril no permitido (G)                             0.00
+--------------------------------------------------------------
+Capturas registradas                                         3
+Mayor velocidad (km/h)                                  160.00
+Fecha de mayor velocidad                            09/07/2026
+--------------------------------------------------------------
+VEHICULO 1018           Categoria: P             
+--------------------------------------------------------------
+Monto Exceso de velocidad (M)                           963.00
+Monto Carril no permitido (G)                           428.00
+--------------------------------------------------------------
+Capturas registradas                                         3
+Mayor velocidad (km/h)                                   61.00
+Fecha de mayor velocidad                            29/06/2026
+--------------------------------------------------------------
+VEHICULO 1019           Categoria: M             
+--------------------------------------------------------------
+Monto Exceso de velocidad (M)                          2889.00
+Monto Carril no permitido (G)                           428.00
+--------------------------------------------------------------
+Capturas registradas                                         3
+Mayor velocidad (km/h)                                  105.00
+Fecha de mayor velocidad                            05/07/2026
+--------------------------------------------------------------
+VEHICULO 1021           Categoria: L             
+--------------------------------------------------------------
+Monto Exceso de velocidad (M)                           963.00
+Monto Carril no permitido (G)                             0.00
+--------------------------------------------------------------
+Capturas registradas                                         2
+Mayor velocidad (km/h)                                  102.25
+Fecha de mayor velocidad                            05/07/2026
+--------------------------------------------------------------
+VEHICULO 1022           Categoria: L             
+--------------------------------------------------------------
+Monto Exceso de velocidad (M)                             0.00
+Monto Carril no permitido (G)                           428.00
+--------------------------------------------------------------
+Capturas registradas                                         2
+Mayor velocidad (km/h)                                   98.00
+Fecha de mayor velocidad                            10/07/2026
+--------------------------------------------------------------
+VEHICULO 1023           Categoria: M             
+--------------------------------------------------------------
+Monto Exceso de velocidad (M)                             0.00
+Monto Carril no permitido (G)                           428.00
+--------------------------------------------------------------
+Capturas registradas                                         1
+Mayor velocidad (km/h)                                  113.50
+Fecha de mayor velocidad                            10/07/2026
+--------------------------------------------------------------
+VEHICULO 1024           Categoria: P             
+--------------------------------------------------------------
+Monto Exceso de velocidad (M)                             0.00
+Monto Carril no permitido (G)                           428.00
+--------------------------------------------------------------
+Capturas registradas                                         3
+Mayor velocidad (km/h)                                   89.75
+Fecha de mayor velocidad                            06/07/2026
+--------------------------------------------------------------
+VEHICULO 1026           Categoria: P             
+--------------------------------------------------------------
+Monto Exceso de velocidad (M)                           963.00
+Monto Carril no permitido (G)                             0.00
+--------------------------------------------------------------
+Capturas registradas                                         1
+Mayor velocidad (km/h)                                   62.00
+Fecha de mayor velocidad                            08/07/2026
+--------------------------------------------------------------
+VEHICULO 1027           Categoria: L             
+--------------------------------------------------------------
+Monto Exceso de velocidad (M)                          3852.00
+Monto Carril no permitido (G)                           428.00
+--------------------------------------------------------------
+Capturas registradas                                         4
+Mayor velocidad (km/h)                                  196.00
+Fecha de mayor velocidad                            05/07/2026
+--------------------------------------------------------------
+VEHICULO 1029           Categoria: L             
+--------------------------------------------------------------
+Monto Exceso de velocidad (M)                           963.00
+Monto Carril no permitido (G)                           428.00
+--------------------------------------------------------------
+Capturas registradas                                         4
+Mayor velocidad (km/h)                                  130.25
+Fecha de mayor velocidad                            10/07/2026
+--------------------------------------------------------------
+VEHICULO 1030           Categoria: E             
+--------------------------------------------------------------
+Monto Exceso de velocidad (M)                          1926.00
+Monto Carril no permitido (G)                             0.00
+--------------------------------------------------------------
+Capturas registradas                                         2
+Mayor velocidad (km/h)                                   98.25
+Fecha de mayor velocidad                            04/07/2026
+--------------------------------------------------------------
+VEHICULO 1031           Categoria: E             
+--------------------------------------------------------------
+Monto Exceso de velocidad (M)                           963.00
+Monto Carril no permitido (G)                             0.00
+--------------------------------------------------------------
+Capturas registradas                                         1
+Mayor velocidad (km/h)                                   61.00
+Fecha de mayor velocidad                            02/07/2026
+--------------------------------------------------------------
+VEHICULO 1032           Categoria: M             
+--------------------------------------------------------------
+Monto Exceso de velocidad (M)                           963.00
+Monto Carril no permitido (G)                           428.00
+--------------------------------------------------------------
+Capturas registradas                                         1
+Mayor velocidad (km/h)                                  106.75
+Fecha de mayor velocidad                            14/07/2026
+--------------------------------------------------------------
+VEHICULO 1033           Categoria: M             
+--------------------------------------------------------------
+Monto Exceso de velocidad (M)                           963.00
+Monto Carril no permitido (G)                             0.00
+--------------------------------------------------------------
+Capturas registradas                                         1
+Mayor velocidad (km/h)                                   72.25
+Fecha de mayor velocidad                            05/07/2026
+--------------------------------------------------------------
+VEHICULO 1034           Categoria: L             
+--------------------------------------------------------------
+Monto Exceso de velocidad (M)                             0.00
+Monto Carril no permitido (G)                           428.00
+--------------------------------------------------------------
+Capturas registradas                                         2
+Mayor velocidad (km/h)                                  105.50
+Fecha de mayor velocidad                            15/07/2026
+--------------------------------------------------------------
+VEHICULO 1036           Categoria: L             
+--------------------------------------------------------------
+Monto Exceso de velocidad (M)                          1926.00
+Monto Carril no permitido (G)                             0.00
+--------------------------------------------------------------
+Capturas registradas                                         3
+Mayor velocidad (km/h)                                  120.50
+Fecha de mayor velocidad                            04/07/2026
+--------------------------------------------------------------
+VEHICULO 1039           Categoria: P             
+--------------------------------------------------------------
+Monto Exceso de velocidad (M)                          1926.00
+Monto Carril no permitido (G)                             0.00
+--------------------------------------------------------------
+Capturas registradas                                         2
+Mayor velocidad (km/h)                                   80.50
+Fecha de mayor velocidad                            05/07/2026
+--------------------------------------------------------------
+VEHICULO 1040           Categoria: P             
+--------------------------------------------------------------
+Monto Exceso de velocidad (M)                           963.00
+Monto Carril no permitido (G)                           428.00
+--------------------------------------------------------------
+Capturas registradas                                         3
+Mayor velocidad (km/h)                                  106.00
+Fecha de mayor velocidad                            03/07/2026
+--------------------------------------------------------------
+VEHICULO 1041           Categoria: P             
+--------------------------------------------------------------
+Monto Exceso de velocidad (M)                           963.00
+Monto Carril no permitido (G)                             0.00
+--------------------------------------------------------------
+Capturas registradas                                         3
+Mayor velocidad (km/h)                                   70.25
+Fecha de mayor velocidad                            11/07/2026
+--------------------------------------------------------------
+VEHICULO 1042           Categoria: L             
+--------------------------------------------------------------
+Monto Exceso de velocidad (M)                           963.00
+Monto Carril no permitido (G)                             0.00
+--------------------------------------------------------------
+Capturas registradas                                         1
+Mayor velocidad (km/h)                                   71.25
+Fecha de mayor velocidad                            30/06/2026
+--------------------------------------------------------------
+VEHICULO 1045           Categoria: M             
+--------------------------------------------------------------
+Monto Exceso de velocidad (M)                          1926.00
+Monto Carril no permitido (G)                           428.00
+--------------------------------------------------------------
+Capturas registradas                                         4
+Mayor velocidad (km/h)                                   82.50
+Fecha de mayor velocidad                            12/07/2026
+--------------------------------------------------------------
+VEHICULO 1046           Categoria: P             
+--------------------------------------------------------------
+Monto Exceso de velocidad (M)                          1926.00
+Monto Carril no permitido (G)                             0.00
+--------------------------------------------------------------
+Capturas registradas                                         4
+Mayor velocidad (km/h)                                   74.75
+Fecha de mayor velocidad                            01/07/2026
+--------------------------------------------------------------
+VEHICULO 1048           Categoria: L             
+--------------------------------------------------------------
+Monto Exceso de velocidad (M)                           963.00
+Monto Carril no permitido (G)                           428.00
+--------------------------------------------------------------
+Capturas registradas                                         2
+Mayor velocidad (km/h)                                   62.50
+Fecha de mayor velocidad                            09/07/2026
+--------------------------------------------------------------
+VEHICULO 1049           Categoria: E             
+--------------------------------------------------------------
+Monto Exceso de velocidad (M)                           963.00
+Monto Carril no permitido (G)                             0.00
+--------------------------------------------------------------
+Capturas registradas                                         2
+Mayor velocidad (km/h)                                   77.00
+Fecha de mayor velocidad                            13/07/2026
+--------------------------------------------------------------
+VEHICULO 1050           Categoria: L             
+--------------------------------------------------------------
+Monto Exceso de velocidad (M)                             0.00
+Monto Carril no permitido (G)                           428.00
+--------------------------------------------------------------
+Capturas registradas                                         2
+Mayor velocidad (km/h)                                   85.25
+Fecha de mayor velocidad                            11/07/2026
+--------------------------------------------------------------
+VEHICULO 1051           Categoria: E             
+--------------------------------------------------------------
+Monto Exceso de velocidad (M)                          1926.00
+Monto Carril no permitido (G)                             0.00
+--------------------------------------------------------------
+Capturas registradas                                         2
+Mayor velocidad (km/h)                                   93.50
+Fecha de mayor velocidad                            12/07/2026
+--------------------------------------------------------------
+VEHICULO 1053           Categoria: L             
+--------------------------------------------------------------
+Monto Exceso de velocidad (M)                             0.00
+Monto Carril no permitido (G)                           428.00
+--------------------------------------------------------------
+Capturas registradas                                         2
+Mayor velocidad (km/h)                                   95.25
+Fecha de mayor velocidad                            29/06/2026
+--------------------------------------------------------------
+VEHICULO 1054           Categoria: L             
+--------------------------------------------------------------
+Monto Exceso de velocidad (M)                          1926.00
+Monto Carril no permitido (G)                             0.00
+--------------------------------------------------------------
+Capturas registradas                                         3
+Mayor velocidad (km/h)                                   88.25
+Fecha de mayor velocidad                            01/07/2026
+--------------------------------------------------------------
+VEHICULO 1056           Categoria: M             
+--------------------------------------------------------------
+Monto Exceso de velocidad (M)                          1926.00
+Monto Carril no permitido (G)                             0.00
+--------------------------------------------------------------
+Capturas registradas                                         3
+Mayor velocidad (km/h)                                  134.25
+Fecha de mayor velocidad                            08/07/2026
+--------------------------------------------------------------
+VEHICULO 1057           Categoria: L             
+--------------------------------------------------------------
+Monto Exceso de velocidad (M)                           963.00
+Monto Carril no permitido (G)                             0.00
+--------------------------------------------------------------
+Capturas registradas                                         1
+Mayor velocidad (km/h)                                   76.50
+Fecha de mayor velocidad                            05/07/2026
+--------------------------------------------------------------
+VEHICULO 1059           Categoria: M             
+--------------------------------------------------------------
+Monto Exceso de velocidad (M)                           963.00
+Monto Carril no permitido (G)                             0.00
+--------------------------------------------------------------
+Capturas registradas                                         1
+Mayor velocidad (km/h)                                  124.75
+Fecha de mayor velocidad                            12/07/2026
+--------------------------------------------------------------
+VEHICULO 1060           Categoria: L             
+--------------------------------------------------------------
+Monto Exceso de velocidad (M)                           963.00
+Monto Carril no permitido (G)                           428.00
+--------------------------------------------------------------
+Capturas registradas                                         2
+Mayor velocidad (km/h)                                   79.75
+Fecha de mayor velocidad                            05/07/2026
+--------------------------------------------------------------
+VEHICULO 1061           Categoria: L             
+--------------------------------------------------------------
+Monto Exceso de velocidad (M)                             0.00
+Monto Carril no permitido (G)                           428.00
+--------------------------------------------------------------
+Capturas registradas                                         1
+Mayor velocidad (km/h)                                   37.00
+Fecha de mayor velocidad                            02/07/2026
+--------------------------------------------------------------
+VEHICULO 1062           Categoria: L             
+--------------------------------------------------------------
+Monto Exceso de velocidad (M)                          1926.00
+Monto Carril no permitido (G)                             0.00
+--------------------------------------------------------------
+Capturas registradas                                         3
+Mayor velocidad (km/h)                                   95.25
+Fecha de mayor velocidad                            30/06/2026
+--------------------------------------------------------------
+VEHICULO 1065           Categoria: M             
+--------------------------------------------------------------
+Monto Exceso de velocidad (M)                          2889.00
+Monto Carril no permitido (G)                             0.00
+--------------------------------------------------------------
+Capturas registradas                                         3
+Mayor velocidad (km/h)                                  161.00
+Fecha de mayor velocidad                            08/07/2026
+--------------------------------------------------------------
+VEHICULO 1066           Categoria: L             
+--------------------------------------------------------------
+Monto Exceso de velocidad (M)                          1926.00
+Monto Carril no permitido (G)                             0.00
+--------------------------------------------------------------
+Capturas registradas                                         2
+Mayor velocidad (km/h)                                   72.75
+Fecha de mayor velocidad                            09/07/2026
+--------------------------------------------------------------
+VEHICULO 1067           Categoria: L             
+--------------------------------------------------------------
+Monto Exceso de velocidad (M)                             0.00
+Monto Carril no permitido (G)                           428.00
+--------------------------------------------------------------
+Capturas registradas                                         2
+Mayor velocidad (km/h)                                   90.75
+Fecha de mayor velocidad                            11/07/2026
+--------------------------------------------------------------
+VEHICULO 1070           Categoria: E             
+--------------------------------------------------------------
+Monto Exceso de velocidad (M)                          1926.00
+Monto Carril no permitido (G)                             0.00
+--------------------------------------------------------------
+Capturas registradas                                         3
+Mayor velocidad (km/h)                                   94.00
+Fecha de mayor velocidad                            08/07/2026
+--------------------------------------------------------------
+VEHICULO 1071           Categoria: L             
+--------------------------------------------------------------
+Monto Exceso de velocidad (M)                          1926.00
+Monto Carril no permitido (G)                             0.00
+--------------------------------------------------------------
+Capturas registradas                                         3
+Mayor velocidad (km/h)                                  182.25
+Fecha de mayor velocidad                            03/07/2026
+--------------------------------------------------------------
+VEHICULO 1073           Categoria: L             
+--------------------------------------------------------------
+Monto Exceso de velocidad (M)                           963.00
+Monto Carril no permitido (G)                             0.00
+--------------------------------------------------------------
+Capturas registradas                                         1
+Mayor velocidad (km/h)                                   42.50
+Fecha de mayor velocidad                            07/07/2026
+--------------------------------------------------------------
+VEHICULO 1075           Categoria: E             
+--------------------------------------------------------------
+Monto Exceso de velocidad (M)                           963.00
+Monto Carril no permitido (G)                             0.00
+--------------------------------------------------------------
+Capturas registradas                                         1
+Mayor velocidad (km/h)                                   52.25
+Fecha de mayor velocidad                            05/07/2026
+--------------------------------------------------------------
+VEHICULO 1077           Categoria: P             
+--------------------------------------------------------------
+Monto Exceso de velocidad (M)                             0.00
+Monto Carril no permitido (G)                           428.00
+--------------------------------------------------------------
+Capturas registradas                                         1
+Mayor velocidad (km/h)                                  100.75
+Fecha de mayor velocidad                            15/07/2026
+--------------------------------------------------------------
+VEHICULO 1079           Categoria: L             
+--------------------------------------------------------------
+Monto Exceso de velocidad (M)                           963.00
+Monto Carril no permitido (G)                           428.00
+--------------------------------------------------------------
+Capturas registradas                                         3
+Mayor velocidad (km/h)                                  104.00
+Fecha de mayor velocidad                            30/06/2026
+--------------------------------------------------------------
+VEHICULO 1080           Categoria: L             
+--------------------------------------------------------------
+Monto Exceso de velocidad (M)                           963.00
+Monto Carril no permitido (G)                           428.00
+--------------------------------------------------------------
+Capturas registradas                                         1
+Mayor velocidad (km/h)                                  105.50
+Fecha de mayor velocidad                            30/06/2026
+--------------------------------------------------------------
+VEHICULO 1082           Categoria: L             
+--------------------------------------------------------------
+Monto Exceso de velocidad (M)                           963.00
+Monto Carril no permitido (G)                             0.00
+--------------------------------------------------------------
+Capturas registradas                                         2
+Mayor velocidad (km/h)                                  145.50
+Fecha de mayor velocidad                            10/07/2026
+--------------------------------------------------------------
+VEHICULO 1085           Categoria: L             
+--------------------------------------------------------------
+Monto Exceso de velocidad (M)                             0.00
+Monto Carril no permitido (G)                           428.00
+--------------------------------------------------------------
+Capturas registradas                                         1
+Mayor velocidad (km/h)                                   54.75
+Fecha de mayor velocidad                            05/07/2026
+--------------------------------------------------------------
+VEHICULO 1090           Categoria: L             
+--------------------------------------------------------------
+Monto Exceso de velocidad (M)                          1926.00
+Monto Carril no permitido (G)                             0.00
+--------------------------------------------------------------
+Capturas registradas                                         2
+Mayor velocidad (km/h)                                  146.75
+Fecha de mayor velocidad                            06/07/2026
+--------------------------------------------------------------
+VEHICULO 1091           Categoria: M             
+--------------------------------------------------------------
+Monto Exceso de velocidad (M)                          1926.00
+Monto Carril no permitido (G)                             0.00
+--------------------------------------------------------------
+Capturas registradas                                         2
+Mayor velocidad (km/h)                                   82.75
+Fecha de mayor velocidad                            11/07/2026
+--------------------------------------------------------------
+VEHICULO 1097           Categoria: L             
+--------------------------------------------------------------
+Monto Exceso de velocidad (M)                           963.00
+Monto Carril no permitido (G)                             0.00
+--------------------------------------------------------------
+Capturas registradas                                         3
+Mayor velocidad (km/h)                                  119.00
+Fecha de mayor velocidad                            05/07/2026
+--------------------------------------------------------------
+VEHICULO 1098           Categoria: L             
+--------------------------------------------------------------
+Monto Exceso de velocidad (M)                          1926.00
+Monto Carril no permitido (G)                             0.00
+--------------------------------------------------------------
+Capturas registradas                                         3
+Mayor velocidad (km/h)                                   89.75
+Fecha de mayor velocidad                            01/07/2026
+--------------------------------------------------------------
+VEHICULO 1099           Categoria: E             
+--------------------------------------------------------------
+Monto Exceso de velocidad (M)                          1926.00
+Monto Carril no permitido (G)                           428.00
+--------------------------------------------------------------
+Capturas registradas                                         3
+Mayor velocidad (km/h)                                  102.00
+Fecha de mayor velocidad                            04/07/2026
+--------------------------------------------------------------
+VEHICULO 1100           Categoria: E             
+--------------------------------------------------------------
+Monto Exceso de velocidad (M)                             0.00
+Monto Carril no permitido (G)                           428.00
+--------------------------------------------------------------
+Capturas registradas                                         2
+Mayor velocidad (km/h)                                   86.00
+Fecha de mayor velocidad                            30/06/2026
+--------------------------------------------------------------
+VEHICULO 1108           Categoria: L             
+--------------------------------------------------------------
+Monto Exceso de velocidad (M)                          1926.00
+Monto Carril no permitido (G)                             0.00
+--------------------------------------------------------------
+Capturas registradas                                         2
+Mayor velocidad (km/h)                                   74.00
+Fecha de mayor velocidad                            09/07/2026
+--------------------------------------------------------------
+VEHICULO 1110           Categoria: M             
+--------------------------------------------------------------
+Monto Exceso de velocidad (M)                           963.00
+Monto Carril no permitido (G)                             0.00
+--------------------------------------------------------------
+Capturas registradas                                         2
+Mayor velocidad (km/h)                                   97.25
+Fecha de mayor velocidad                            12/07/2026
+--------------------------------------------------------------
+VEHICULO 1111           Categoria: L             
+--------------------------------------------------------------
+Monto Exceso de velocidad (M)                          1926.00
+Monto Carril no permitido (G)                           428.00
+--------------------------------------------------------------
+Capturas registradas                                         3
+Mayor velocidad (km/h)                                  168.25
+Fecha de mayor velocidad                            15/07/2026
+--------------------------------------------------------------
+VEHICULO 1112           Categoria: P             
+--------------------------------------------------------------
+Monto Exceso de velocidad (M)                             0.00
+Monto Carril no permitido (G)                           428.00
+--------------------------------------------------------------
+Capturas registradas                                         1
+Mayor velocidad (km/h)                                  111.25
+Fecha de mayor velocidad                            03/07/2026
+--------------------------------------------------------------
+VEHICULO 1113           Categoria: M             
+--------------------------------------------------------------
+Monto Exceso de velocidad (M)                          1926.00
+Monto Carril no permitido (G)                             0.00
+--------------------------------------------------------------
+Capturas registradas                                         2
+Mayor velocidad (km/h)                                   65.75
+Fecha de mayor velocidad                            13/07/2026
+--------------------------------------------------------------
+VEHICULO 1115           Categoria: L             
+--------------------------------------------------------------
+Monto Exceso de velocidad (M)                           963.00
+Monto Carril no permitido (G)                             0.00
+--------------------------------------------------------------
+Capturas registradas                                         2
+Mayor velocidad (km/h)                                   85.50
+Fecha de mayor velocidad                            11/07/2026
+--------------------------------------------------------------
+VEHICULO 1116           Categoria: L             
+--------------------------------------------------------------
+Monto Exceso de velocidad (M)                             0.00
+Monto Carril no permitido (G)                           856.00
+--------------------------------------------------------------
+Capturas registradas                                         2
+Mayor velocidad (km/h)                                   79.50
+Fecha de mayor velocidad                            08/07/2026
+--------------------------------------------------------------
+VEHICULO 1117           Categoria: M             
+--------------------------------------------------------------
+Monto Exceso de velocidad (M)                          1926.00
+Monto Carril no permitido (G)                             0.00
+--------------------------------------------------------------
+Capturas registradas                                         2
+Mayor velocidad (km/h)                                   62.50
+Fecha de mayor velocidad                            09/07/2026
+--------------------------------------------------------------
+VEHICULO 1118           Categoria: L             
+--------------------------------------------------------------
+Monto Exceso de velocidad (M)                          1926.00
+Monto Carril no permitido (G)                           856.00
+--------------------------------------------------------------
+Capturas registradas                                         4
+Mayor velocidad (km/h)                                  192.75
+Fecha de mayor velocidad                            01/07/2026
+--------------------------------------------------------------
+VEHICULO 1120           Categoria: M             
+--------------------------------------------------------------
+Monto Exceso de velocidad (M)                           963.00
+Monto Carril no permitido (G)                           856.00
+--------------------------------------------------------------
+Capturas registradas                                         3
+Mayor velocidad (km/h)                                  135.75
+Fecha de mayor velocidad                            05/07/2026
+--------------------------------------------------------------
+VEHICULO 1122           Categoria: P             
+--------------------------------------------------------------
+Monto Exceso de velocidad (M)                          1926.00
+Monto Carril no permitido (G)                             0.00
+--------------------------------------------------------------
+Capturas registradas                                         2
+Mayor velocidad (km/h)                                   83.25
+Fecha de mayor velocidad                            09/07/2026
+--------------------------------------------------------------
+VEHICULO 1123           Categoria: L             
+--------------------------------------------------------------
+Monto Exceso de velocidad (M)                          1926.00
+Monto Carril no permitido (G)                             0.00
+--------------------------------------------------------------
+Capturas registradas                                         3
+Mayor velocidad (km/h)                                  105.75
+Fecha de mayor velocidad                            13/07/2026
+--------------------------------------------------------------
+VEHICULO 1124           Categoria: P             
+--------------------------------------------------------------
+Monto Exceso de velocidad (M)                           963.00
+Monto Carril no permitido (G)                             0.00
+--------------------------------------------------------------
+Capturas registradas                                         2
+Mayor velocidad (km/h)                                   74.00
+Fecha de mayor velocidad                            13/07/2026
+--------------------------------------------------------------
+VEHICULO 1125           Categoria: L             
+--------------------------------------------------------------
+Monto Exceso de velocidad (M)                           963.00
+Monto Carril no permitido (G)                             0.00
+--------------------------------------------------------------
+Capturas registradas                                         2
+Mayor velocidad (km/h)                                  108.00
+Fecha de mayor velocidad                            14/07/2026
+--------------------------------------------------------------
+VEHICULO 1126           Categoria: L             
+--------------------------------------------------------------
+Monto Exceso de velocidad (M)                             0.00
+Monto Carril no permitido (G)                           428.00
+--------------------------------------------------------------
+Capturas registradas                                         1
+Mayor velocidad (km/h)                                   52.00
+Fecha de mayor velocidad                            02/07/2026
+--------------------------------------------------------------
+VEHICULO 1128           Categoria: M             
+--------------------------------------------------------------
+Monto Exceso de velocidad (M)                             0.00
+Monto Carril no permitido (G)                           428.00
+--------------------------------------------------------------
+Capturas registradas                                         3
+Mayor velocidad (km/h)                                  108.25
+Fecha de mayor velocidad                            05/07/2026
+--------------------------------------------------------------
+VEHICULO 1129           Categoria: M             
+--------------------------------------------------------------
+Monto Exceso de velocidad (M)                          1926.00
+Monto Carril no permitido (G)                             0.00
+--------------------------------------------------------------
+Capturas registradas                                         3
+Mayor velocidad (km/h)                                  138.50
+Fecha de mayor velocidad                            07/07/2026
+--------------------------------------------------------------
+VEHICULO 1131           Categoria: L             
+--------------------------------------------------------------
+Monto Exceso de velocidad (M)                          1926.00
+Monto Carril no permitido (G)                             0.00
+--------------------------------------------------------------
+Capturas registradas                                         3
+Mayor velocidad (km/h)                                  193.25
+Fecha de mayor velocidad                            06/07/2026
+--------------------------------------------------------------
+VEHICULO 1132           Categoria: L             
+--------------------------------------------------------------
+Monto Exceso de velocidad (M)                           963.00
+Monto Carril no permitido (G)                             0.00
+--------------------------------------------------------------
+Capturas registradas                                         2
+Mayor velocidad (km/h)                                  136.00
+Fecha de mayor velocidad                            03/07/2026
+--------------------------------------------------------------
+VEHICULO 1134           Categoria: M             
+--------------------------------------------------------------
+Monto Exceso de velocidad (M)                           963.00
+Monto Carril no permitido (G)                           428.00
+--------------------------------------------------------------
+Capturas registradas                                         4
+Mayor velocidad (km/h)                                  103.75
+Fecha de mayor velocidad                            11/07/2026
+--------------------------------------------------------------
+VEHICULO 1135           Categoria: M             
+--------------------------------------------------------------
+Monto Exceso de velocidad (M)                           963.00
+Monto Carril no permitido (G)                             0.00
+--------------------------------------------------------------
+Capturas registradas                                         2
+Mayor velocidad (km/h)                                  133.25
+Fecha de mayor velocidad                            30/06/2026
+--------------------------------------------------------------
+VEHICULO 1136           Categoria: L             
+--------------------------------------------------------------
+Monto Exceso de velocidad (M)                          1926.00
+Monto Carril no permitido (G)                           428.00
+--------------------------------------------------------------
+Capturas registradas                                         4
+Mayor velocidad (km/h)                                  106.50
+Fecha de mayor velocidad                            15/07/2026
+--------------------------------------------------------------
+VEHICULO 1139           Categoria: M             
+--------------------------------------------------------------
+Monto Exceso de velocidad (M)                           963.00
+Monto Carril no permitido (G)                             0.00
+--------------------------------------------------------------
+Capturas registradas                                         2
+Mayor velocidad (km/h)                                  121.00
+Fecha de mayor velocidad                            11/07/2026
+--------------------------------------------------------------
+VEHICULO 1141           Categoria: L             
+--------------------------------------------------------------
+Monto Exceso de velocidad (M)                          1926.00
+Monto Carril no permitido (G)                             0.00
+--------------------------------------------------------------
+Capturas registradas                                         2
+Mayor velocidad (km/h)                                  192.00
+Fecha de mayor velocidad                            04/07/2026
+--------------------------------------------------------------
+VEHICULO 1142           Categoria: L             
+--------------------------------------------------------------
+Monto Exceso de velocidad (M)                             0.00
+Monto Carril no permitido (G)                           428.00
+--------------------------------------------------------------
+Capturas registradas                                         2
+Mayor velocidad (km/h)                                  132.25
+Fecha de mayor velocidad                            08/07/2026
+--------------------------------------------------------------
+VEHICULO 1144           Categoria: L             
+--------------------------------------------------------------
+Monto Exceso de velocidad (M)                           963.00
+Monto Carril no permitido (G)                             0.00
+--------------------------------------------------------------
+Capturas registradas                                         2
+Mayor velocidad (km/h)                                   95.50
+Fecha de mayor velocidad                            04/07/2026
+--------------------------------------------------------------
+VEHICULO 1147           Categoria: M             
+--------------------------------------------------------------
+Monto Exceso de velocidad (M)                          1926.00
+Monto Carril no permitido (G)                             0.00
+--------------------------------------------------------------
+Capturas registradas                                         3
+Mayor velocidad (km/h)                                  104.00
+Fecha de mayor velocidad                            30/06/2026
+--------------------------------------------------------------
+VEHICULO 1148           Categoria: L             
+--------------------------------------------------------------
+Monto Exceso de velocidad (M)                           963.00
+Monto Carril no permitido (G)                           856.00
+--------------------------------------------------------------
+Capturas registradas                                         3
+Mayor velocidad (km/h)                                   85.25
+Fecha de mayor velocidad                            08/07/2026
+--------------------------------------------------------------
+VEHICULO 1150           Categoria: L             
+--------------------------------------------------------------
+Monto Exceso de velocidad (M)                           963.00
+Monto Carril no permitido (G)                             0.00
+--------------------------------------------------------------
+Capturas registradas                                         3
+Mayor velocidad (km/h)                                  146.50
+Fecha de mayor velocidad                            14/07/2026
+--------------------------------------------------------------
+VEHICULO 1154           Categoria: E             
+--------------------------------------------------------------
+Monto Exceso de velocidad (M)                           963.00
+Monto Carril no permitido (G)                           428.00
+--------------------------------------------------------------
+Capturas registradas                                         2
+Mayor velocidad (km/h)                                  110.25
+Fecha de mayor velocidad                            01/07/2026
+--------------------------------------------------------------
+VEHICULO 1156           Categoria: P             
+--------------------------------------------------------------
+Monto Exceso de velocidad (M)                             0.00
+Monto Carril no permitido (G)                           428.00
+--------------------------------------------------------------
+Capturas registradas                                         3
+Mayor velocidad (km/h)                                   94.75
+Fecha de mayor velocidad                            09/07/2026
+--------------------------------------------------------------
+VEHICULO 1158           Categoria: M             
+--------------------------------------------------------------
+Monto Exceso de velocidad (M)                           963.00
+Monto Carril no permitido (G)                             0.00
+--------------------------------------------------------------
+Capturas registradas                                         3
+Mayor velocidad (km/h)                                   89.75
+Fecha de mayor velocidad                            11/07/2026
+--------------------------------------------------------------
+VEHICULO 1160           Categoria: M             
+--------------------------------------------------------------
+Monto Exceso de velocidad (M)                           963.00
+Monto Carril no permitido (G)                           428.00
+--------------------------------------------------------------
+Capturas registradas                                         2
+Mayor velocidad (km/h)                                  157.00
+Fecha de mayor velocidad                            09/07/2026
+--------------------------------------------------------------
+VEHICULO 1162           Categoria: L             
+--------------------------------------------------------------
+Monto Exceso de velocidad (M)                           963.00
+Monto Carril no permitido (G)                           428.00
+--------------------------------------------------------------
+Capturas registradas                                         3
+Mayor velocidad (km/h)                                  101.50
+Fecha de mayor velocidad                            01/07/2026
+--------------------------------------------------------------
+VEHICULO 1163           Categoria: E             
+--------------------------------------------------------------
+Monto Exceso de velocidad (M)                          1926.00
+Monto Carril no permitido (G)                             0.00
+--------------------------------------------------------------
+Capturas registradas                                         2
+Mayor velocidad (km/h)                                  102.75
+Fecha de mayor velocidad                            30/06/2026
+--------------------------------------------------------------
+VEHICULO 1165           Categoria: L             
+--------------------------------------------------------------
+Monto Exceso de velocidad (M)                           963.00
+Monto Carril no permitido (G)                             0.00
+--------------------------------------------------------------
+Capturas registradas                                         3
+Mayor velocidad (km/h)                                  139.50
+Fecha de mayor velocidad                            10/07/2026
+--------------------------------------------------------------
+VEHICULO 1166           Categoria: M             
+--------------------------------------------------------------
+Monto Exceso de velocidad (M)                          1926.00
+Monto Carril no permitido (G)                             0.00
+--------------------------------------------------------------
+Capturas registradas                                         2
+Mayor velocidad (km/h)                                  142.25
+Fecha de mayor velocidad                            06/07/2026
+--------------------------------------------------------------
+VEHICULO 1167           Categoria: P             
+--------------------------------------------------------------
+Monto Exceso de velocidad (M)                           963.00
+Monto Carril no permitido (G)                             0.00
+--------------------------------------------------------------
+Capturas registradas                                         1
+Mayor velocidad (km/h)                                   61.75
+Fecha de mayor velocidad                            14/07/2026
+--------------------------------------------------------------
+VEHICULO 1168           Categoria: L             
+--------------------------------------------------------------
+Monto Exceso de velocidad (M)                           963.00
+Monto Carril no permitido (G)                           428.00
+--------------------------------------------------------------
+Capturas registradas                                         2
+Mayor velocidad (km/h)                                  110.50
+Fecha de mayor velocidad                            15/07/2026
+--------------------------------------------------------------
+VEHICULO 1170           Categoria: P             
+--------------------------------------------------------------
+Monto Exceso de velocidad (M)                           963.00
+Monto Carril no permitido (G)                           428.00
+--------------------------------------------------------------
+Capturas registradas                                         4
+Mayor velocidad (km/h)                                   79.00
+Fecha de mayor velocidad                            30/06/2026
+--------------------------------------------------------------
+VEHICULO 1171           Categoria: P             
+--------------------------------------------------------------
+Monto Exceso de velocidad (M)                          1926.00
+Monto Carril no permitido (G)                           428.00
+--------------------------------------------------------------
+Capturas registradas                                         2
+Mayor velocidad (km/h)                                   79.50
+Fecha de mayor velocidad                            05/07/2026
+--------------------------------------------------------------
+VEHICULO 1172           Categoria: P             
+--------------------------------------------------------------
+Monto Exceso de velocidad (M)                             0.00
+Monto Carril no permitido (G)                           428.00
+--------------------------------------------------------------
+Capturas registradas                                         3
+Mayor velocidad (km/h)                                  105.00
+Fecha de mayor velocidad                            14/07/2026
+--------------------------------------------------------------
+VEHICULO 1174           Categoria: E             
+--------------------------------------------------------------
+Monto Exceso de velocidad (M)                           963.00
+Monto Carril no permitido (G)                             0.00
+--------------------------------------------------------------
+Capturas registradas                                         1
+Mayor velocidad (km/h)                                   78.00
+Fecha de mayor velocidad                            01/07/2026
+--------------------------------------------------------------
+VEHICULO 1175           Categoria: L             
+--------------------------------------------------------------
+Monto Exceso de velocidad (M)                           963.00
+Monto Carril no permitido (G)                             0.00
+--------------------------------------------------------------
+Capturas registradas                                         1
+Mayor velocidad (km/h)                                   95.75
+Fecha de mayor velocidad                            07/07/2026
+--------------------------------------------------------------
+VEHICULO 1176           Categoria: M             
+--------------------------------------------------------------
+Monto Exceso de velocidad (M)                           963.00
+Monto Carril no permitido (G)                             0.00
+--------------------------------------------------------------
+Capturas registradas                                         2
+Mayor velocidad (km/h)                                  100.75
+Fecha de mayor velocidad                            30/06/2026
+--------------------------------------------------------------
+VEHICULO 1177           Categoria: P             
+--------------------------------------------------------------
+Monto Exceso de velocidad (M)                          1926.00
+Monto Carril no permitido (G)                           856.00
+--------------------------------------------------------------
+Capturas registradas                                         3
+Mayor velocidad (km/h)                                   72.00
+Fecha de mayor velocidad                            05/07/2026
+--------------------------------------------------------------
+VEHICULO 1179           Categoria: L             
+--------------------------------------------------------------
+Monto Exceso de velocidad (M)                           963.00
+Monto Carril no permitido (G)                             0.00
+--------------------------------------------------------------
+Capturas registradas                                         3
+Mayor velocidad (km/h)                                   97.50
+Fecha de mayor velocidad                            06/07/2026
+--------------------------------------------------------------
+VEHICULO 1181           Categoria: E             
+--------------------------------------------------------------
+Monto Exceso de velocidad (M)                           963.00
+Monto Carril no permitido (G)                             0.00
+--------------------------------------------------------------
+Capturas registradas                                         1
+Mayor velocidad (km/h)                                   75.00
+Fecha de mayor velocidad                            05/07/2026
+--------------------------------------------------------------
+VEHICULO 1182           Categoria: M             
+--------------------------------------------------------------
+Monto Exceso de velocidad (M)                           963.00
+Monto Carril no permitido (G)                             0.00
+--------------------------------------------------------------
+Capturas registradas                                         2
+Mayor velocidad (km/h)                                  101.25
+Fecha de mayor velocidad                            14/07/2026
+--------------------------------------------------------------
+VEHICULO 1184           Categoria: L             
+--------------------------------------------------------------
+Monto Exceso de velocidad (M)                          1926.00
+Monto Carril no permitido (G)                             0.00
+--------------------------------------------------------------
+Capturas registradas                                         2
+Mayor velocidad (km/h)                                  161.50
+Fecha de mayor velocidad                            02/07/2026
+--------------------------------------------------------------
+VEHICULO 1185           Categoria: M             
+--------------------------------------------------------------
+Monto Exceso de velocidad (M)                           963.00
+Monto Carril no permitido (G)                             0.00
+--------------------------------------------------------------
+Capturas registradas                                         1
+Mayor velocidad (km/h)                                  112.00
+Fecha de mayor velocidad                            30/06/2026
+--------------------------------------------------------------
+VEHICULO 1186           Categoria: P             
+--------------------------------------------------------------
+Monto Exceso de velocidad (M)                           963.00
+Monto Carril no permitido (G)                             0.00
+--------------------------------------------------------------
+Capturas registradas                                         1
+Mayor velocidad (km/h)                                   69.75
+Fecha de mayor velocidad                            08/07/2026
+--------------------------------------------------------------
+VEHICULO 1187           Categoria: E             
+--------------------------------------------------------------
+Monto Exceso de velocidad (M)                           963.00
+Monto Carril no permitido (G)                           428.00
+--------------------------------------------------------------
+Capturas registradas                                         2
+Mayor velocidad (km/h)                                  144.50
+Fecha de mayor velocidad                            02/07/2026
+--------------------------------------------------------------
+VEHICULO 1188           Categoria: E             
+--------------------------------------------------------------
+Monto Exceso de velocidad (M)                          1926.00
+Monto Carril no permitido (G)                           428.00
+--------------------------------------------------------------
+Capturas registradas                                         2
+Mayor velocidad (km/h)                                  130.25
+Fecha de mayor velocidad                            05/07/2026
+--------------------------------------------------------------
+VEHICULO 1190           Categoria: L             
+--------------------------------------------------------------
+Monto Exceso de velocidad (M)                           963.00
+Monto Carril no permitido (G)                             0.00
+--------------------------------------------------------------
+Capturas registradas                                         2
+Mayor velocidad (km/h)                                  111.25
+Fecha de mayor velocidad                            03/07/2026
+--------------------------------------------------------------
+VEHICULO 1191           Categoria: P             
+--------------------------------------------------------------
+Monto Exceso de velocidad (M)                           963.00
+Monto Carril no permitido (G)                             0.00
+--------------------------------------------------------------
+Capturas registradas                                         1
+Mayor velocidad (km/h)                                   71.50
+Fecha de mayor velocidad                            13/07/2026
+--------------------------------------------------------------
+VEHICULO 1192           Categoria: P             
+--------------------------------------------------------------
+Monto Exceso de velocidad (M)                           963.00
+Monto Carril no permitido (G)                             0.00
+--------------------------------------------------------------
+Capturas registradas                                         2
+Mayor velocidad (km/h)                                   74.75
+Fecha de mayor velocidad                            06/07/2026
+--------------------------------------------------------------
+VEHICULO 1193           Categoria: M             
+--------------------------------------------------------------
+Monto Exceso de velocidad (M)                          1926.00
+Monto Carril no permitido (G)                             0.00
+--------------------------------------------------------------
+Capturas registradas                                         2
+Mayor velocidad (km/h)                                   90.00
+Fecha de mayor velocidad                            06/07/2026
+--------------------------------------------------------------
+VEHICULO 1194           Categoria: L             
+--------------------------------------------------------------
+Monto Exceso de velocidad (M)                             0.00
+Monto Carril no permitido (G)                           428.00
+--------------------------------------------------------------
+Capturas registradas                                         1
+Mayor velocidad (km/h)                                   75.75
+Fecha de mayor velocidad                            04/07/2026
+--------------------------------------------------------------
+VEHICULO 1195           Categoria: P             
+--------------------------------------------------------------
+Monto Exceso de velocidad (M)                           963.00
+Monto Carril no permitido (G)                           428.00
+--------------------------------------------------------------
+Capturas registradas                                         3
+Mayor velocidad (km/h)                                   79.50
+Fecha de mayor velocidad                            06/07/2026
+--------------------------------------------------------------
+VEHICULO 1197           Categoria: M             
+--------------------------------------------------------------
+Monto Exceso de velocidad (M)                           963.00
+Monto Carril no permitido (G)                             0.00
+--------------------------------------------------------------
+Capturas registradas                                         1
+Mayor velocidad (km/h)                                   77.50
+Fecha de mayor velocidad                            03/07/2026
+--------------------------------------------------------------
+VEHICULO 1199           Categoria: L             
+--------------------------------------------------------------
+Monto Exceso de velocidad (M)                          1926.00
+Monto Carril no permitido (G)                           428.00
+--------------------------------------------------------------
+Capturas registradas                                         3
+Mayor velocidad (km/h)                                   92.25
+Fecha de mayor velocidad                            08/07/2026
+--------------------------------------------------------------
+VEHICULO 1201           Categoria: P             
+--------------------------------------------------------------
+Monto Exceso de velocidad (M)                           963.00
+Monto Carril no permitido (G)                           428.00
+--------------------------------------------------------------
+Capturas registradas                                         3
+Mayor velocidad (km/h)                                   57.50
+Fecha de mayor velocidad                            10/07/2026
+--------------------------------------------------------------
+VEHICULO 1202           Categoria: L             
+--------------------------------------------------------------
+Monto Exceso de velocidad (M)                           963.00
+Monto Carril no permitido (G)                             0.00
+--------------------------------------------------------------
+Capturas registradas                                         3
+Mayor velocidad (km/h)                                  100.75
+Fecha de mayor velocidad                            15/07/2026
+--------------------------------------------------------------
+VEHICULO 1203           Categoria: L             
+--------------------------------------------------------------
+Monto Exceso de velocidad (M)                          1926.00
+Monto Carril no permitido (G)                             0.00
+--------------------------------------------------------------
+Capturas registradas                                         2
+Mayor velocidad (km/h)                                  131.25
+Fecha de mayor velocidad                            04/07/2026
+--------------------------------------------------------------
+VEHICULO 1205           Categoria: L             
+--------------------------------------------------------------
+Monto Exceso de velocidad (M)                           963.00
+Monto Carril no permitido (G)                             0.00
+--------------------------------------------------------------
+Capturas registradas                                         2
+Mayor velocidad (km/h)                                   91.25
+Fecha de mayor velocidad                            14/07/2026
+--------------------------------------------------------------
+VEHICULO 1206           Categoria: L             
+--------------------------------------------------------------
+Monto Exceso de velocidad (M)                          1926.00
+Monto Carril no permitido (G)                             0.00
+--------------------------------------------------------------
+Capturas registradas                                         2
+Mayor velocidad (km/h)                                  188.00
+Fecha de mayor velocidad                            09/07/2026
+--------------------------------------------------------------
+VEHICULO 1207           Categoria: M             
+--------------------------------------------------------------
+Monto Exceso de velocidad (M)                           963.00
+Monto Carril no permitido (G)                             0.00
+--------------------------------------------------------------
+Capturas registradas                                         3
+Mayor velocidad (km/h)                                   96.50
+Fecha de mayor velocidad                            15/07/2026
+--------------------------------------------------------------
+VEHICULO 1208           Categoria: P             
+--------------------------------------------------------------
+Monto Exceso de velocidad (M)                           963.00
+Monto Carril no permitido (G)                             0.00
+--------------------------------------------------------------
+Capturas registradas                                         2
+Mayor velocidad (km/h)                                   71.25
+Fecha de mayor velocidad                            02/07/2026
+--------------------------------------------------------------
+VEHICULO 1210           Categoria: L             
+--------------------------------------------------------------
+Monto Exceso de velocidad (M)                          1926.00
+Monto Carril no permitido (G)                             0.00
+--------------------------------------------------------------
+Capturas registradas                                         3
+Mayor velocidad (km/h)                                  135.25
+Fecha de mayor velocidad                            12/07/2026
+--------------------------------------------------------------
+VEHICULO 1211           Categoria: M             
+--------------------------------------------------------------
+Monto Exceso de velocidad (M)                          2889.00
+Monto Carril no permitido (G)                             0.00
+--------------------------------------------------------------
+Capturas registradas                                         4
+Mayor velocidad (km/h)                                  159.25
+Fecha de mayor velocidad                            05/07/2026
+--------------------------------------------------------------
+VEHICULO 1212           Categoria: L             
+--------------------------------------------------------------
+Monto Exceso de velocidad (M)                           963.00
+Monto Carril no permitido (G)                             0.00
+--------------------------------------------------------------
+Capturas registradas                                         2
+Mayor velocidad (km/h)                                  119.25
+Fecha de mayor velocidad                            08/07/2026
+--------------------------------------------------------------
+VEHICULO 1213           Categoria: E             
+--------------------------------------------------------------
+Monto Exceso de velocidad (M)                          1926.00
+Monto Carril no permitido (G)                           428.00
+--------------------------------------------------------------
+Capturas registradas                                         4
+Mayor velocidad (km/h)                                   94.50
+Fecha de mayor velocidad                            09/07/2026
+--------------------------------------------------------------
+VEHICULO 1214           Categoria: E             
+--------------------------------------------------------------
+Monto Exceso de velocidad (M)                           963.00
+Monto Carril no permitido (G)                             0.00
+--------------------------------------------------------------
+Capturas registradas                                         1
+Mayor velocidad (km/h)                                  109.00
+Fecha de mayor velocidad                            14/07/2026
+--------------------------------------------------------------
+VEHICULO 1215           Categoria: P             
+--------------------------------------------------------------
+Monto Exceso de velocidad (M)                             0.00
+Monto Carril no permitido (G)                           428.00
+--------------------------------------------------------------
+Capturas registradas                                         2
+Mayor velocidad (km/h)                                   48.25
+Fecha de mayor velocidad                            10/07/2026
+--------------------------------------------------------------
+VEHICULO 1217           Categoria: P             
+--------------------------------------------------------------
+Monto Exceso de velocidad (M)                             0.00
+Monto Carril no permitido (G)                           428.00
+--------------------------------------------------------------
+Capturas registradas                                         1
+Mayor velocidad (km/h)                                   48.75
+Fecha de mayor velocidad                            11/07/2026
+--------------------------------------------------------------
+VEHICULO 1218           Categoria: P             
+--------------------------------------------------------------
+Monto Exceso de velocidad (M)                           963.00
+Monto Carril no permitido (G)                             0.00
+--------------------------------------------------------------
+Capturas registradas                                         2
+Mayor velocidad (km/h)                                   68.00
+Fecha de mayor velocidad                            12/07/2026
+--------------------------------------------------------------
+VEHICULO 1219           Categoria: P             
+--------------------------------------------------------------
+Monto Exceso de velocidad (M)                             0.00
+Monto Carril no permitido (G)                           428.00
+--------------------------------------------------------------
+Capturas registradas                                         1
+Mayor velocidad (km/h)                                  135.25
+Fecha de mayor velocidad                            10/07/2026
+--------------------------------------------------------------
+VEHICULO 1221           Categoria: L             
+--------------------------------------------------------------
+Monto Exceso de velocidad (M)                          1926.00
+Monto Carril no permitido (G)                             0.00
+--------------------------------------------------------------
+Capturas registradas                                         2
+Mayor velocidad (km/h)                                  190.50
+Fecha de mayor velocidad                            13/07/2026
+--------------------------------------------------------------
+VEHICULO 1222           Categoria: P             
+--------------------------------------------------------------
+Monto Exceso de velocidad (M)                          1926.00
+Monto Carril no permitido (G)                           428.00
+--------------------------------------------------------------
+Capturas registradas                                         2
+Mayor velocidad (km/h)                                   83.25
+Fecha de mayor velocidad                            09/07/2026
+--------------------------------------------------------------
+VEHICULO 1223           Categoria: L             
+--------------------------------------------------------------
+Monto Exceso de velocidad (M)                           963.00
+Monto Carril no permitido (G)                             0.00
+--------------------------------------------------------------
+Capturas registradas                                         2
+Mayor velocidad (km/h)                                   82.50
+Fecha de mayor velocidad                            05/07/2026
+--------------------------------------------------------------
+VEHICULO 1224           Categoria: L             
+--------------------------------------------------------------
+Monto Exceso de velocidad (M)                           963.00
+Monto Carril no permitido (G)                             0.00
+--------------------------------------------------------------
+Capturas registradas                                         2
+Mayor velocidad (km/h)                                  146.25
+Fecha de mayor velocidad                            30/06/2026
+--------------------------------------------------------------
+VEHICULO 1227           Categoria: L             
+--------------------------------------------------------------
+Monto Exceso de velocidad (M)                             0.00
+Monto Carril no permitido (G)                           428.00
+--------------------------------------------------------------
+Capturas registradas                                         3
+Mayor velocidad (km/h)                                  104.25
+Fecha de mayor velocidad                            12/07/2026
+--------------------------------------------------------------
+VEHICULO 1228           Categoria: L             
+--------------------------------------------------------------
+Monto Exceso de velocidad (M)                           963.00
+Monto Carril no permitido (G)                             0.00
+--------------------------------------------------------------
+Capturas registradas                                         1
+Mayor velocidad (km/h)                                  109.25
+Fecha de mayor velocidad                            09/07/2026
+--------------------------------------------------------------
+VEHICULO 1229           Categoria: P             
+--------------------------------------------------------------
+Monto Exceso de velocidad (M)                          1926.00
+Monto Carril no permitido (G)                           428.00
+--------------------------------------------------------------
+Capturas registradas                                         2
+Mayor velocidad (km/h)                                   63.25
+Fecha de mayor velocidad                            02/07/2026
+--------------------------------------------------------------
+VEHICULO 1230           Categoria: L             
+--------------------------------------------------------------
+Monto Exceso de velocidad (M)                          3852.00
+Monto Carril no permitido (G)                             0.00
+--------------------------------------------------------------
+Capturas registradas                                         4
+Mayor velocidad (km/h)                                  164.75
+Fecha de mayor velocidad                            08/07/2026
+--------------------------------------------------------------
+VEHICULO 1231           Categoria: M             
+--------------------------------------------------------------
+Monto Exceso de velocidad (M)                          1926.00
+Monto Carril no permitido (G)                             0.00
+--------------------------------------------------------------
+Capturas registradas                                         2
+Mayor velocidad (km/h)                                  110.25
+Fecha de mayor velocidad                            30/06/2026
+--------------------------------------------------------------
+VEHICULO 1234           Categoria: L             
+--------------------------------------------------------------
+Monto Exceso de velocidad (M)                           963.00
+Monto Carril no permitido (G)                             0.00
+--------------------------------------------------------------
+Capturas registradas                                         2
+Mayor velocidad (km/h)                                  133.50
+Fecha de mayor velocidad                            11/07/2026
+--------------------------------------------------------------
+VEHICULO 1235           Categoria: L             
+--------------------------------------------------------------
+Monto Exceso de velocidad (M)                           963.00
+Monto Carril no permitido (G)                             0.00
+--------------------------------------------------------------
+Capturas registradas                                         1
+Mayor velocidad (km/h)                                  218.25
+Fecha de mayor velocidad                            04/07/2026
+--------------------------------------------------------------
+VEHICULO 1236           Categoria: P             
+--------------------------------------------------------------
+Monto Exceso de velocidad (M)                          1926.00
+Monto Carril no permitido (G)                           428.00
+--------------------------------------------------------------
+Capturas registradas                                         3
+Mayor velocidad (km/h)                                  101.75
+Fecha de mayor velocidad                            02/07/2026
+--------------------------------------------------------------
+VEHICULO 1237           Categoria: M             
+--------------------------------------------------------------
+Monto Exceso de velocidad (M)                          2889.00
+Monto Carril no permitido (G)                             0.00
+--------------------------------------------------------------
+Capturas registradas                                         3
+Mayor velocidad (km/h)                                  127.75
+Fecha de mayor velocidad                            03/07/2026
+--------------------------------------------------------------
+VEHICULO 1238           Categoria: L             
+--------------------------------------------------------------
+Monto Exceso de velocidad (M)                          1926.00
+Monto Carril no permitido (G)                             0.00
+--------------------------------------------------------------
+Capturas registradas                                         3
+Mayor velocidad (km/h)                                  208.50
+Fecha de mayor velocidad                            14/07/2026
+--------------------------------------------------------------
+VEHICULO 1243           Categoria: L             
+--------------------------------------------------------------
+Monto Exceso de velocidad (M)                           963.00
+Monto Carril no permitido (G)                             0.00
+--------------------------------------------------------------
+Capturas registradas                                         2
+Mayor velocidad (km/h)                                  102.75
+Fecha de mayor velocidad                            29/06/2026
+--------------------------------------------------------------
+VEHICULO 1245           Categoria: M             
+--------------------------------------------------------------
+Monto Exceso de velocidad (M)                           963.00
+Monto Carril no permitido (G)                             0.00
+--------------------------------------------------------------
+Capturas registradas                                         2
+Mayor velocidad (km/h)                                  110.50
+Fecha de mayor velocidad                            15/07/2026
+--------------------------------------------------------------
+VEHICULO 1246           Categoria: E             
+--------------------------------------------------------------
+Monto Exceso de velocidad (M)                           963.00
+Monto Carril no permitido (G)                             0.00
+--------------------------------------------------------------
+Capturas registradas                                         1
+Mayor velocidad (km/h)                                   73.50
+Fecha de mayor velocidad                            01/07/2026
+--------------------------------------------------------------
+VEHICULO 1247           Categoria: M             
+--------------------------------------------------------------
+Monto Exceso de velocidad (M)                           963.00
+Monto Carril no permitido (G)                             0.00
+--------------------------------------------------------------
+Capturas registradas                                         1
+Mayor velocidad (km/h)                                   72.50
+Fecha de mayor velocidad                            30/06/2026
+--------------------------------------------------------------
+VEHICULO 1248           Categoria: L             
+--------------------------------------------------------------
+Monto Exceso de velocidad (M)                             0.00
+Monto Carril no permitido (G)                           428.00
+--------------------------------------------------------------
+Capturas registradas                                         2
+Mayor velocidad (km/h)                                  101.75
+Fecha de mayor velocidad                            15/07/2026
+--------------------------------------------------------------
+VEHICULO 1249           Categoria: L             
+--------------------------------------------------------------
+Monto Exceso de velocidad (M)                           963.00
+Monto Carril no permitido (G)                             0.00
+--------------------------------------------------------------
+Capturas registradas                                         2
+Mayor velocidad (km/h)                                  116.75
+Fecha de mayor velocidad                            29/06/2026
+--------------------------------------------------------------
+VEHICULO 1251           Categoria: P             
+--------------------------------------------------------------
+Monto Exceso de velocidad (M)                           963.00
+Monto Carril no permitido (G)                             0.00
+--------------------------------------------------------------
+Capturas registradas                                         3
+Mayor velocidad (km/h)                                   78.75
+Fecha de mayor velocidad                            14/07/2026
+--------------------------------------------------------------
+VEHICULO 1252           Categoria: L             
+--------------------------------------------------------------
+Monto Exceso de velocidad (M)                             0.00
+Monto Carril no permitido (G)                           428.00
+--------------------------------------------------------------
+Capturas registradas                                         2
+Mayor velocidad (km/h)                                  104.25
+Fecha de mayor velocidad                            09/07/2026
+--------------------------------------------------------------
+VEHICULO 1254           Categoria: M             
+--------------------------------------------------------------
+Monto Exceso de velocidad (M)                          1926.00
+Monto Carril no permitido (G)                           428.00
+--------------------------------------------------------------
+Capturas registradas                                         3
+Mayor velocidad (km/h)                                  108.50
+Fecha de mayor velocidad                            15/07/2026
+--------------------------------------------------------------
+VEHICULO 1255           Categoria: L             
+--------------------------------------------------------------
+Monto Exceso de velocidad (M)                          1926.00
+Monto Carril no permitido (G)                           428.00
+--------------------------------------------------------------
+Capturas registradas                                         4
+Mayor velocidad (km/h)                                  151.50
+Fecha de mayor velocidad                            15/07/2026
+--------------------------------------------------------------
+VEHICULO 1257           Categoria: L             
+--------------------------------------------------------------
+Monto Exceso de velocidad (M)                          1926.00
+Monto Carril no permitido (G)                             0.00
+--------------------------------------------------------------
+Capturas registradas                                         2
+Mayor velocidad (km/h)                                  193.50
+Fecha de mayor velocidad                            13/07/2026
+--------------------------------------------------------------
+VEHICULO 1258           Categoria: E             
+--------------------------------------------------------------
+Monto Exceso de velocidad (M)                          2889.00
+Monto Carril no permitido (G)                           856.00
+--------------------------------------------------------------
+Capturas registradas                                         4
+Mayor velocidad (km/h)                                  175.75
+Fecha de mayor velocidad                            12/07/2026
+--------------------------------------------------------------
+VEHICULO 1259           Categoria: L             
+--------------------------------------------------------------
+Monto Exceso de velocidad (M)                           963.00
+Monto Carril no permitido (G)                           856.00
+--------------------------------------------------------------
+Capturas registradas                                         4
+Mayor velocidad (km/h)                                  122.00
+Fecha de mayor velocidad                            15/07/2026
+--------------------------------------------------------------
+VEHICULO 1260           Categoria: L             
+--------------------------------------------------------------
+Monto Exceso de velocidad (M)                           963.00
+Monto Carril no permitido (G)                           428.00
+--------------------------------------------------------------
+Capturas registradas                                         1
+Mayor velocidad (km/h)                                   90.00
+Fecha de mayor velocidad                            14/07/2026
+--------------------------------------------------------------
+VEHICULO 1262           Categoria: E             
+--------------------------------------------------------------
+Monto Exceso de velocidad (M)                           963.00
+Monto Carril no permitido (G)                             0.00
+--------------------------------------------------------------
+Capturas registradas                                         1
+Mayor velocidad (km/h)                                  109.75
+Fecha de mayor velocidad                            13/07/2026
+--------------------------------------------------------------
+VEHICULO 1263           Categoria: E             
+--------------------------------------------------------------
+Monto Exceso de velocidad (M)                           963.00
+Monto Carril no permitido (G)                           428.00
+--------------------------------------------------------------
+Capturas registradas                                         3
+Mayor velocidad (km/h)                                  131.75
+Fecha de mayor velocidad                            04/07/2026
+--------------------------------------------------------------
+VEHICULO 1264           Categoria: L             
+--------------------------------------------------------------
+Monto Exceso de velocidad (M)                          1926.00
+Monto Carril no permitido (G)                             0.00
+--------------------------------------------------------------
+Capturas registradas                                         2
+Mayor velocidad (km/h)                                   70.00
+Fecha de mayor velocidad                            14/07/2026
+--------------------------------------------------------------
+VEHICULO 1266           Categoria: M             
+--------------------------------------------------------------
+Monto Exceso de velocidad (M)                           963.00
+Monto Carril no permitido (G)                           856.00
+--------------------------------------------------------------
+Capturas registradas                                         4
+Mayor velocidad (km/h)                                   90.50
+Fecha de mayor velocidad                            12/07/2026
+--------------------------------------------------------------
+VEHICULO 1267           Categoria: L             
+--------------------------------------------------------------
+Monto Exceso de velocidad (M)                           963.00
+Monto Carril no permitido (G)                             0.00
+--------------------------------------------------------------
+Capturas registradas                                         2
+Mayor velocidad (km/h)                                   98.25
+Fecha de mayor velocidad                            08/07/2026
+--------------------------------------------------------------
+VEHICULO 1268           Categoria: L             
+--------------------------------------------------------------
+Monto Exceso de velocidad (M)                          1926.00
+Monto Carril no permitido (G)                             0.00
+--------------------------------------------------------------
+Capturas registradas                                         2
+Mayor velocidad (km/h)                                  131.00
+Fecha de mayor velocidad                            29/06/2026
+--------------------------------------------------------------
+VEHICULO 1269           Categoria: M             
+--------------------------------------------------------------
+Monto Exceso de velocidad (M)                           963.00
+Monto Carril no permitido (G)                           428.00
+--------------------------------------------------------------
+Capturas registradas                                         2
+Mayor velocidad (km/h)                                  131.25
+Fecha de mayor velocidad                            11/07/2026
+--------------------------------------------------------------
+VEHICULO 1270           Categoria: L             
+--------------------------------------------------------------
+Monto Exceso de velocidad (M)                          1926.00
+Monto Carril no permitido (G)                             0.00
+--------------------------------------------------------------
+Capturas registradas                                         2
+Mayor velocidad (km/h)                                   58.50
+Fecha de mayor velocidad                            04/07/2026
+--------------------------------------------------------------
+VEHICULO 1271           Categoria: M             
+--------------------------------------------------------------
+Monto Exceso de velocidad (M)                             0.00
+Monto Carril no permitido (G)                           428.00
+--------------------------------------------------------------
+Capturas registradas                                         1
+Mayor velocidad (km/h)                                  119.75
+Fecha de mayor velocidad                            05/07/2026
+--------------------------------------------------------------
+VEHICULO 1272           Categoria: E             
+--------------------------------------------------------------
+Monto Exceso de velocidad (M)                             0.00
+Monto Carril no permitido (G)                           428.00
+--------------------------------------------------------------
+Capturas registradas                                         2
+Mayor velocidad (km/h)                                  117.50
+Fecha de mayor velocidad                            11/07/2026
+--------------------------------------------------------------
+VEHICULO 1273           Categoria: M             
+--------------------------------------------------------------
+Monto Exceso de velocidad (M)                             0.00
+Monto Carril no permitido (G)                           428.00
+--------------------------------------------------------------
+Capturas registradas                                         2
+Mayor velocidad (km/h)                                   87.25
+Fecha de mayor velocidad                            03/07/2026
+--------------------------------------------------------------
+VEHICULO 1274           Categoria: P             
+--------------------------------------------------------------
+Monto Exceso de velocidad (M)                             0.00
+Monto Carril no permitido (G)                           428.00
+--------------------------------------------------------------
+Capturas registradas                                         3
+Mayor velocidad (km/h)                                   87.75
+Fecha de mayor velocidad                            01/07/2026
+--------------------------------------------------------------
+VEHICULO 1275           Categoria: E             
+--------------------------------------------------------------
+Monto Exceso de velocidad (M)                           963.00
+Monto Carril no permitido (G)                             0.00
+--------------------------------------------------------------
+Capturas registradas                                         2
+Mayor velocidad (km/h)                                  111.50
+Fecha de mayor velocidad                            01/07/2026
+--------------------------------------------------------------
+VEHICULO 1276           Categoria: L             
+--------------------------------------------------------------
+Monto Exceso de velocidad (M)                          2889.00
+Monto Carril no permitido (G)                           428.00
+--------------------------------------------------------------
+Capturas registradas                                         3
+Mayor velocidad (km/h)                                  213.00
+Fecha de mayor velocidad                            14/07/2026
+--------------------------------------------------------------
+VEHICULO 1277           Categoria: L             
+--------------------------------------------------------------
+Monto Exceso de velocidad (M)                           963.00
+Monto Carril no permitido (G)                             0.00
+--------------------------------------------------------------
+Capturas registradas                                         2
+Mayor velocidad (km/h)                                  163.75
+Fecha de mayor velocidad                            11/07/2026
+--------------------------------------------------------------
+VEHICULO 1278           Categoria: M             
+--------------------------------------------------------------
+Monto Exceso de velocidad (M)                           963.00
+Monto Carril no permitido (G)                           428.00
+--------------------------------------------------------------
+Capturas registradas                                         2
+Mayor velocidad (km/h)                                  104.75
+Fecha de mayor velocidad                            06/07/2026
+--------------------------------------------------------------
+VEHICULO 1282           Categoria: M             
+--------------------------------------------------------------
+Monto Exceso de velocidad (M)                          2889.00
+Monto Carril no permitido (G)                             0.00
+--------------------------------------------------------------
+Capturas registradas                                         3
+Mayor velocidad (km/h)                                  124.50
+Fecha de mayor velocidad                            01/07/2026
+--------------------------------------------------------------
+VEHICULO 1283           Categoria: E             
+--------------------------------------------------------------
+Monto Exceso de velocidad (M)                          1926.00
+Monto Carril no permitido (G)                             0.00
+--------------------------------------------------------------
+Capturas registradas                                         3
+Mayor velocidad (km/h)                                   93.00
+Fecha de mayor velocidad                            30/06/2026
+--------------------------------------------------------------
+VEHICULO 1284           Categoria: M             
+--------------------------------------------------------------
+Monto Exceso de velocidad (M)                          1926.00
+Monto Carril no permitido (G)                             0.00
+--------------------------------------------------------------
+Capturas registradas                                         2
+Mayor velocidad (km/h)                                  133.75
+Fecha de mayor velocidad                            07/07/2026
+--------------------------------------------------------------
+VEHICULO 1285           Categoria: P             
+--------------------------------------------------------------
+Monto Exceso de velocidad (M)                           963.00
+Monto Carril no permitido (G)                           428.00
+--------------------------------------------------------------
+Capturas registradas                                         3
+Mayor velocidad (km/h)                                   71.50
+Fecha de mayor velocidad                            11/07/2026
+--------------------------------------------------------------
+VEHICULO 1286           Categoria: M             
+--------------------------------------------------------------
+Monto Exceso de velocidad (M)                           963.00
+Monto Carril no permitido (G)                             0.00
+--------------------------------------------------------------
+Capturas registradas                                         1
+Mayor velocidad (km/h)                                   68.50
+Fecha de mayor velocidad                            11/07/2026
+--------------------------------------------------------------
+VEHICULO 1287           Categoria: P             
+--------------------------------------------------------------
+Monto Exceso de velocidad (M)                           963.00
+Monto Carril no permitido (G)                           428.00
+--------------------------------------------------------------
+Capturas registradas                                         2
+Mayor velocidad (km/h)                                   48.50
+Fecha de mayor velocidad                            10/07/2026
+--------------------------------------------------------------
+VEHICULO 1292           Categoria: L             
+--------------------------------------------------------------
+Monto Exceso de velocidad (M)                          1926.00
+Monto Carril no permitido (G)                             0.00
+--------------------------------------------------------------
+Capturas registradas                                         3
+Mayor velocidad (km/h)                                  166.50
+Fecha de mayor velocidad                            04/07/2026
+--------------------------------------------------------------
+VEHICULO 1295           Categoria: M             
+--------------------------------------------------------------
+Monto Exceso de velocidad (M)                          1926.00
+Monto Carril no permitido (G)                           428.00
+--------------------------------------------------------------
+Capturas registradas                                         2
+Mayor velocidad (km/h)                                  136.75
+Fecha de mayor velocidad                            05/07/2026
+--------------------------------------------------------------
+VEHICULO 1297           Categoria: P             
+--------------------------------------------------------------
+Monto Exceso de velocidad (M)                          1926.00
+Monto Carril no permitido (G)                           428.00
+--------------------------------------------------------------
+Capturas registradas                                         3
+Mayor velocidad (km/h)                                   81.00
+Fecha de mayor velocidad                            07/07/2026
+--------------------------------------------------------------
+VEHICULO 1298           Categoria: E             
+--------------------------------------------------------------
+Monto Exceso de velocidad (M)                           963.00
+Monto Carril no permitido (G)                             0.00
+--------------------------------------------------------------
+Capturas registradas                                         3
+Mayor velocidad (km/h)                                  114.00
+Fecha de mayor velocidad                            03/07/2026
+--------------------------------------------------------------
+RESUMEN GENERAL
+--------------------------------------------------------------
+Vehiculos procesados                                       300
+Vehiculos infractores                                      199
+Capturas validas procesadas                                564
+Monto infracciones M (S/)                            245565.00
+Monto infracciones G (S/)                             40232.00
+Monto total recaudado (S/)                           285797.00
+==============================================================
