@@ -1,3 +1,0 @@
-C:/Users/PC/Desktop/TP/CLION/SEMANA 7/ejercicios/ejercicio jueves/ejercicio02_resuelto-por-mi/cmake-build-debug/CMakeFiles/ejercicio02_resuelto_por_mi.dir
-C:/Users/PC/Desktop/TP/CLION/SEMANA 7/ejercicios/ejercicio jueves/ejercicio02_resuelto-por-mi/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/PC/Desktop/TP/CLION/SEMANA 7/ejercicios/ejercicio jueves/ejercicio02_resuelto-por-mi/cmake-build-debug/CMakeFiles/rebuild_cache.dir
