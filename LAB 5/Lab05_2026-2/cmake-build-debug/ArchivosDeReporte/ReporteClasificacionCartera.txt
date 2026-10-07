@@ -1,0 +1,35 @@
+==============================================================================
+                   CLASIFICACION DE LA CARTERA DE CREDITOS
+==============================================================================
+No. CLASIFICACION SALDO PENDIENTE  CODIGO  TIPO DE CREDITO ATRASO  VENCIMIENTO
+==============================================================================
+1         Perdida         5749.43    1017         Hipoteca    172   25/07/2026
+2         Perdida          367.45    1028          Tarjeta    160   10/06/2026
+3         Perdida          874.53    1018          Consumo    152   15/03/2026
+4         Perdida          754.65    1026          Consumo    118   15/05/2026
+5         Perdida         3868.79    1015     Microempresa    115   05/04/2026
+6         Perdida         4569.27    1016         Hipoteca     70   15/06/2026
+7      Deficiente        10985.83    1013         Hipoteca     58   10/04/2026
+8      Deficiente          582.64    1014          Consumo     57   25/05/2026
+9      Deficiente            0.00    2500     Microempresa     40   05/06/2026
+10     Deficiente            0.00    9007          Tarjeta     38   20/08/2026
+11     Deficiente            0.00    1099          Consumo     32   15/05/2026
+12     Deficiente          100.79    1011          Tarjeta     27   15/05/2026
+13     Deficiente          409.57    1010          Consumo     23   20/03/2026
+14     Deficiente          243.34    1012          Tarjeta     22   25/05/2026
+15     Deficiente         2003.05    1025         Hipoteca     16   05/03/2026
+16     Deficiente          160.52    1020          Tarjeta     14   10/06/2026
+17         Normal            0.00    1027     Microempresa      8   20/04/2026
+18         Normal            0.00    1029         Hipoteca      8   25/05/2026
+19         Normal            0.00    1005         Hipoteca      8   20/06/2026
+20         Normal            0.00    1008          Tarjeta      8   15/08/2026
+21         Normal            0.00    1006     Microempresa      7   10/05/2026
+22         Normal            0.00    1004          Tarjeta      7   25/08/2026
+23         Normal            0.00    1003     Microempresa      7   20/05/2026
+24         Normal            0.00    1002          Consumo      7   15/04/2026
+25         Normal            0.00    1021         Hipoteca      7   25/07/2026
+26         Normal            0.00    1030          Consumo      6   25/04/2026
+27         Normal            0.00    1019     Microempresa      5   05/03/2026
+28         Normal            0.00    1024          Tarjeta      4   10/05/2026
+29         Normal            0.00    1023     Microempresa      3   25/04/2026
+==============================================================================

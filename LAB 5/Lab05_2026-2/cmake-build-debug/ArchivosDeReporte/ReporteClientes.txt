@@ -1,0 +1,38 @@
+==============================================================================
+             CLIENTES LEIDOS DEL ARCHIVO
+==============================================================================
+CODIGO        TIPO DE CREDITO           MONTO DESEMBOLSADO
+------------------------------------------------------------------------------
+1030          Consumo                             29743.91
+1006          Microempresa                        86302.71
+1002          Consumo                             32000.37
+1026          Consumo                             18111.61
+1016          Hipotecario                        109662.53
+1027          Microempresa                        55648.96
+1008          Tarjeta                             17780.38
+1021          Hipotecario                        201595.19
+1022          Consumo                             15890.91
+1020          Tarjeta                             12841.52
+1014          Consumo                             27966.61
+1012          Tarjeta                             11680.34
+1023          Microempresa                        44172.36
+1007          Microempresa                        61101.11
+1011          Tarjeta                              8062.98
+1015          Microempresa                        92850.98
+1019          Microempresa                        68557.56
+1024          Tarjeta                             14072.09
+1028          Tarjeta                              8818.83
+1025          Hipotecario                        160244.12
+1003          Microempresa                        70238.90
+1001          Consumo                             37280.54
+1017          Hipotecario                        137986.37
+1029          Hipotecario                        269999.59
+1004          Tarjeta                             15480.93
+1009          Hipotecario                        180222.90
+1005          Hipotecario                        205961.98
+1013          Hipotecario                        263659.84
+1010          Consumo                             32765.20
+1018          Consumo                             20988.74
+------------------------------------------------------------------------------
+Total de clientes                                         30
+==============================================================================
