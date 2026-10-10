@@ -1,5 +1,0 @@
-Basico 0.50
-Estandar 0.35
-Plus 0.25
-Premium 0.15
-Corporativo 0.10
