@@ -1,0 +1,76 @@
+REPORTE DE MEDICOS POR ESPECIALIDAD
+============================================================
+Especialidad : E01
+Descripcion  : Medicina_General
+Precio       : 45.00
+Medicos      : 204 209 212 214 
+Resumen      : 4 medico(s) en la especialidad
+------------------------------------------------------------
+Especialidad : E02
+Descripcion  : Pediatria
+Precio       : 55.00
+Medicos      : 205 215 
+Resumen      : 2 medico(s) en la especialidad
+------------------------------------------------------------
+Especialidad : E03
+Descripcion  : Cardiologia
+Precio       : 90.00
+Medicos      : 210 
+Resumen      : 1 medico(s) en la especialidad
+------------------------------------------------------------
+Especialidad : E04
+Descripcion  : Dermatologia
+Precio       : 70.50
+Medicos      : 202 210 212 213 
+Resumen      : 4 medico(s) en la especialidad
+------------------------------------------------------------
+Especialidad : E05
+Descripcion  : Ginecologia
+Precio       : 80.00
+Medicos      : 205 208 211 212 213 214 215 
+Resumen      : 7 medico(s) en la especialidad
+------------------------------------------------------------
+Especialidad : E06
+Descripcion  : Traumatologia
+Precio       : 75.00
+Medicos      : 201 204 205 206 214 
+Resumen      : 5 medico(s) en la especialidad
+------------------------------------------------------------
+Especialidad : E07
+Descripcion  : Oftalmologia
+Precio       : 65.00
+Medicos      : 203 206 207 208 210 211 
+Resumen      : 6 medico(s) en la especialidad
+------------------------------------------------------------
+Especialidad : E08
+Descripcion  : Neurologia
+Precio       : 95.00
+Medicos      : 203 204 206 210 213 214 215 
+Resumen      : 7 medico(s) en la especialidad
+------------------------------------------------------------
+Especialidad : E09
+Descripcion  : Psiquiatria
+Precio       : 85.00
+Medicos      : 203 208 209 211 
+Resumen      : 4 medico(s) en la especialidad
+------------------------------------------------------------
+Especialidad : E10
+Descripcion  : Urologia
+Precio       : 78.50
+Medicos      : 203 
+Resumen      : 1 medico(s) en la especialidad
+------------------------------------------------------------
+Especialidad : E11
+Descripcion  : Endocrinologia
+Precio       : 82.00
+Medicos      : 204 205 210 212 214 
+Resumen      : 5 medico(s) en la especialidad
+------------------------------------------------------------
+Especialidad : E12
+Descripcion  : Gastroenterologia
+Precio       : 88.00
+Medicos      : 203 205 208 215 
+Resumen      : 4 medico(s) en la especialidad
+------------------------------------------------------------
+Total de especialidades: 12
+Total de asignaciones medico-especialidad: 50
