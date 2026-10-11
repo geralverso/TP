@@ -1,0 +1,3 @@
+C:/Users/PC/Desktop/TP/CLION/SEMANA 8/EXAMEN PARCIAL/Talleres/TallerPreparatorio/cmake-build-debug/CMakeFiles/2026_2__extras_.dir
+C:/Users/PC/Desktop/TP/CLION/SEMANA 8/EXAMEN PARCIAL/Talleres/TallerPreparatorio/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/PC/Desktop/TP/CLION/SEMANA 8/EXAMEN PARCIAL/Talleres/TallerPreparatorio/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,14 @@
+[
+{
+  "directory": "C:/Users/PC/Desktop/TP/CLION/SEMANA 8/EXAMEN PARCIAL/Talleres/TallerPreparatorio/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\C__~1.EXE -g -std=gnu++20 -fdiagnostics-color=always -fmodules-ts -fmodule-mapper=CMakeFiles\\2026_2__extras_.dir\\main.cpp.obj.modmap -MD -fdeps-format=p1689r5 -x c++ -o CMakeFiles\\2026_2__extras_.dir\\main.cpp.obj -c \"C:\\Users\\PC\\Desktop\\TP\\CLION\\SEMANA 8\\EXAMEN PARCIAL\\Talleres\\TallerPreparatorio\\main.cpp\"",
+  "file": "C:/Users/PC/Desktop/TP/CLION/SEMANA 8/EXAMEN PARCIAL/Talleres/TallerPreparatorio/main.cpp",
+  "output": "C:/Users/PC/Desktop/TP/CLION/SEMANA 8/EXAMEN PARCIAL/Talleres/TallerPreparatorio/cmake-build-debug/CMakeFiles/2026_2__extras_.dir/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/PC/Desktop/TP/CLION/SEMANA 8/EXAMEN PARCIAL/Talleres/TallerPreparatorio/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\C__~1.EXE -g -std=gnu++20 -fdiagnostics-color=always -fmodules-ts -fmodule-mapper=CMakeFiles\\2026_2__extras_.dir\\Bibliotecas\\Funciones.cpp.obj.modmap -MD -fdeps-format=p1689r5 -x c++ -o CMakeFiles\\2026_2__extras_.dir\\Bibliotecas\\Funciones.cpp.obj -c \"C:\\Users\\PC\\Desktop\\TP\\CLION\\SEMANA 8\\EXAMEN PARCIAL\\Talleres\\TallerPreparatorio\\Bibliotecas\\Funciones.cpp\"",
+  "file": "C:/Users/PC/Desktop/TP/CLION/SEMANA 8/EXAMEN PARCIAL/Talleres/TallerPreparatorio/Bibliotecas/Funciones.cpp",
+  "output": "C:/Users/PC/Desktop/TP/CLION/SEMANA 8/EXAMEN PARCIAL/Talleres/TallerPreparatorio/cmake-build-debug/CMakeFiles/2026_2__extras_.dir/Bibliotecas/Funciones.cpp.obj"
+}
+]

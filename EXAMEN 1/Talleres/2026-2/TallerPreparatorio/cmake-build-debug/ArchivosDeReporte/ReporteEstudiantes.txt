@@ -1,0 +1,1714 @@
+==============================================================
+CODIGO DE ESTUDIANTE: 2012336
+==============================================================
+Codigo  Curso                               Creditos    Nota
+--------------------------------------------------------------
+302     Programacion II                            3     2.5
+326     Programacion Orientada a Objetos           3     3.0
+322     Metodos Numericos                          3     7.1
+325     Desarrollo Web                             3     4.6
+323     Investigacion de Operaciones               3    10.2
+308     Fisica I                                   3    12.1
+--------------------------------------------------------------
+Cantidad de cursos: 6
+Total de creditos: 18
+Promedio general ponderado: 6.58
+
+==============================================================
+CODIGO DE ESTUDIANTE: 2006284
+==============================================================
+Codigo  Curso                               Creditos    Nota
+--------------------------------------------------------------
+306     Calculo II                                 4    13.6
+319     Analisis y Diseno de Sistemas              3    18.9
+311     Estadistica y Probabilidades               3     2.6
+324     Inteligencia Artificial                    3    10.9
+325     Desarrollo Web                             3     4.1
+--------------------------------------------------------------
+Cantidad de cursos: 5
+Total de creditos: 16
+Promedio general ponderado: 10.24
+
+==============================================================
+CODIGO DE ESTUDIANTE: 2010877
+==============================================================
+Codigo  Curso                               Creditos    Nota
+--------------------------------------------------------------
+329     Seguridad Informatica                      3     6.5
+305     Calculo I                                  4    18.5
+301     Programacion I                             3     9.7
+310     Quimica General                            2    16.9
+306     Calculo II                                 4     3.3
+325     Desarrollo Web                             3     2.2
+312     Matematica Discreta                        3    10.1
+308     Fisica I                                   3    14.8
+--------------------------------------------------------------
+Cantidad de cursos: 8
+Total de creditos: 25
+Promedio general ponderado: 10.04
+
+==============================================================
+CODIGO DE ESTUDIANTE: 2000231
+==============================================================
+Codigo  Curso                               Creditos    Nota
+--------------------------------------------------------------
+301     Programacion I                             3    17.0
+320     Comunicacion y Redaccion                   2     4.0
+306     Calculo II                                 4    18.3
+313     Base de Datos I                            4    10.4
+321     Ingles Tecnico                             2    17.5
+315     Arquitectura de Computadoras               3    12.7
+318     Ingenieria de Software                     3     2.1
+303     Algoritmos y Estructuras de Datos          4    17.1
+305     Calculo I                                  4    16.7
+--------------------------------------------------------------
+Cantidad de cursos: 9
+Total de creditos: 29
+Promedio general ponderado: 13.39
+
+==============================================================
+CODIGO DE ESTUDIANTE: 2002606
+==============================================================
+Codigo  Curso                               Creditos    Nota
+--------------------------------------------------------------
+302     Programacion II                            3    17.1
+318     Ingenieria de Software                     3     2.2
+326     Programacion Orientada a Objetos           3    16.1
+323     Investigacion de Operaciones               3     9.5
+320     Comunicacion y Redaccion                   2     7.5
+316     Sistemas Operativos                        3    15.8
+308     Fisica I                                   3     8.9
+306     Calculo II                                 4     7.6
+317     Redes de Computadoras                      3     2.1
+--------------------------------------------------------------
+Cantidad de cursos: 9
+Total de creditos: 27
+Promedio general ponderado: 9.65
+
+==============================================================
+CODIGO DE ESTUDIANTE: 2021724
+==============================================================
+Codigo  Curso                               Creditos    Nota
+--------------------------------------------------------------
+315     Arquitectura de Computadoras               3    12.9
+320     Comunicacion y Redaccion                   2    10.6
+301     Programacion I                             3    19.8
+328     Gestion de Proyectos                       3     1.1
+304     Matematica Basica                          3     9.2
+327     Etica Profesional                          2    18.1
+329     Seguridad Informatica                      3     4.0
+323     Investigacion de Operaciones               3    18.7
+--------------------------------------------------------------
+Cantidad de cursos: 8
+Total de creditos: 22
+Promedio general ponderado: 11.57
+
+==============================================================
+CODIGO DE ESTUDIANTE: 2008721
+==============================================================
+Codigo  Curso                               Creditos    Nota
+--------------------------------------------------------------
+318     Ingenieria de Software                     3     5.7
+324     Inteligencia Artificial                    3     7.6
+310     Quimica General                            2    13.1
+309     Fisica II                                  3    15.5
+329     Seguridad Informatica                      3     2.3
+327     Etica Profesional                          2    11.5
+325     Desarrollo Web                             3     2.3
+330     Taller de Investigacion                    2     8.7
+304     Matematica Basica                          3     9.6
+--------------------------------------------------------------
+Cantidad de cursos: 9
+Total de creditos: 24
+Promedio general ponderado: 8.15
+
+==============================================================
+CODIGO DE ESTUDIANTE: 2010415
+==============================================================
+Codigo  Curso                               Creditos    Nota
+--------------------------------------------------------------
+321     Ingles Tecnico                             2    19.0
+301     Programacion I                             3    16.5
+328     Gestion de Proyectos                       3     0.1
+310     Quimica General                            2    10.4
+305     Calculo I                                  4     3.0
+313     Base de Datos I                            4     6.4
+302     Programacion II                            3     2.5
+306     Calculo II                                 4    16.6
+--------------------------------------------------------------
+Cantidad de cursos: 8
+Total de creditos: 25
+Promedio general ponderado: 8.80
+
+==============================================================
+CODIGO DE ESTUDIANTE: 2005241
+==============================================================
+Codigo  Curso                               Creditos    Nota
+--------------------------------------------------------------
+327     Etica Profesional                          2    18.9
+304     Matematica Basica                          3    17.1
+306     Calculo II                                 4     3.5
+311     Estadistica y Probabilidades               3    14.2
+315     Arquitectura de Computadoras               3     2.5
+305     Calculo I                                  4     7.7
+322     Metodos Numericos                          3    19.1
+302     Programacion II                            3     2.3
+329     Seguridad Informatica                      3     7.9
+--------------------------------------------------------------
+Cantidad de cursos: 9
+Total de creditos: 28
+Promedio general ponderado: 9.71
+
+==============================================================
+CODIGO DE ESTUDIANTE: 2010932
+==============================================================
+Codigo  Curso                               Creditos    Nota
+--------------------------------------------------------------
+321     Ingles Tecnico                             2    16.3
+322     Metodos Numericos                          3     8.8
+326     Programacion Orientada a Objetos           3    19.9
+310     Quimica General                            2     6.0
+303     Algoritmos y Estructuras de Datos          4     6.5
+315     Arquitectura de Computadoras               3     4.6
+328     Gestion de Proyectos                       3    13.6
+324     Inteligencia Artificial                    3     9.6
+--------------------------------------------------------------
+Cantidad de cursos: 8
+Total de creditos: 23
+Promedio general ponderado: 10.44
+
+==============================================================
+CODIGO DE ESTUDIANTE: 2015957
+==============================================================
+Codigo  Curso                               Creditos    Nota
+--------------------------------------------------------------
+326     Programacion Orientada a Objetos           3     1.3
+303     Algoritmos y Estructuras de Datos          4     5.3
+311     Estadistica y Probabilidades               3     5.3
+304     Matematica Basica                          3     5.2
+307     Algebra Lineal                             3     2.1
+--------------------------------------------------------------
+Cantidad de cursos: 5
+Total de creditos: 16
+Promedio general ponderado: 3.93
+
+==============================================================
+CODIGO DE ESTUDIANTE: 2004803
+==============================================================
+Codigo  Curso                               Creditos    Nota
+--------------------------------------------------------------
+315     Arquitectura de Computadoras               3     0.4
+310     Quimica General                            2     7.2
+325     Desarrollo Web                             3     7.6
+304     Matematica Basica                          3     7.5
+308     Fisica I                                   3    18.9
+303     Algoritmos y Estructuras de Datos          4    11.4
+321     Ingles Tecnico                             2    16.0
+302     Programacion II                            3     9.0
+307     Algebra Lineal                             3     6.9
+--------------------------------------------------------------
+Cantidad de cursos: 9
+Total de creditos: 26
+Promedio general ponderado: 9.34
+
+==============================================================
+CODIGO DE ESTUDIANTE: 2007670
+==============================================================
+Codigo  Curso                               Creditos    Nota
+--------------------------------------------------------------
+301     Programacion I                             3     9.4
+323     Investigacion de Operaciones               3     3.3
+321     Ingles Tecnico                             2    14.8
+318     Ingenieria de Software                     3     2.6
+309     Fisica II                                  3     3.5
+302     Programacion II                            3     9.1
+308     Fisica I                                   3     9.8
+324     Inteligencia Artificial                    3    16.3
+307     Algebra Lineal                             3     3.0
+--------------------------------------------------------------
+Cantidad de cursos: 9
+Total de creditos: 26
+Promedio general ponderado: 7.72
+
+==============================================================
+CODIGO DE ESTUDIANTE: 2017236
+==============================================================
+Codigo  Curso                               Creditos    Nota
+--------------------------------------------------------------
+316     Sistemas Operativos                        3     7.5
+328     Gestion de Proyectos                       3     1.6
+326     Programacion Orientada a Objetos           3     7.1
+317     Redes de Computadoras                      3    11.9
+302     Programacion II                            3     8.5
+325     Desarrollo Web                             3     4.1
+--------------------------------------------------------------
+Cantidad de cursos: 6
+Total de creditos: 18
+Promedio general ponderado: 6.78
+
+==============================================================
+CODIGO DE ESTUDIANTE: 2021591
+==============================================================
+Codigo  Curso                               Creditos    Nota
+--------------------------------------------------------------
+309     Fisica II                                  3    15.6
+315     Arquitectura de Computadoras               3     8.7
+305     Calculo I                                  4    17.8
+314     Base de Datos II                           4    18.8
+317     Redes de Computadoras                      3    19.0
+311     Estadistica y Probabilidades               3     6.6
+313     Base de Datos I                            4    15.2
+329     Seguridad Informatica                      3     9.9
+304     Matematica Basica                          3     9.5
+--------------------------------------------------------------
+Cantidad de cursos: 9
+Total de creditos: 30
+Promedio general ponderado: 13.84
+
+==============================================================
+CODIGO DE ESTUDIANTE: 2009268
+==============================================================
+Codigo  Curso                               Creditos    Nota
+--------------------------------------------------------------
+305     Calculo I                                  4    13.6
+327     Etica Profesional                          2    18.9
+304     Matematica Basica                          3    14.7
+323     Investigacion de Operaciones               3     1.0
+311     Estadistica y Probabilidades               3     2.3
+--------------------------------------------------------------
+Cantidad de cursos: 5
+Total de creditos: 15
+Promedio general ponderado: 9.75
+
+==============================================================
+CODIGO DE ESTUDIANTE: 2013875
+==============================================================
+Codigo  Curso                               Creditos    Nota
+--------------------------------------------------------------
+311     Estadistica y Probabilidades               3    17.4
+308     Fisica I                                   3    11.2
+328     Gestion de Proyectos                       3    15.7
+317     Redes de Computadoras                      3    10.7
+330     Taller de Investigacion                    2     3.0
+324     Inteligencia Artificial                    3     1.2
+325     Desarrollo Web                             3    15.6
+303     Algoritmos y Estructuras de Datos          4     2.2
+--------------------------------------------------------------
+Cantidad de cursos: 8
+Total de creditos: 24
+Promedio general ponderado: 9.59
+
+==============================================================
+CODIGO DE ESTUDIANTE: 2005689
+==============================================================
+Codigo  Curso                               Creditos    Nota
+--------------------------------------------------------------
+320     Comunicacion y Redaccion                   2     0.9
+303     Algoritmos y Estructuras de Datos          4     6.8
+330     Taller de Investigacion                    2     2.9
+308     Fisica I                                   3    13.6
+329     Seguridad Informatica                      3     3.8
+316     Sistemas Operativos                        3     0.7
+307     Algebra Lineal                             3    19.1
+326     Programacion Orientada a Objetos           3     5.7
+--------------------------------------------------------------
+Cantidad de cursos: 8
+Total de creditos: 23
+Promedio general ponderado: 7.11
+
+==============================================================
+CODIGO DE ESTUDIANTE: 2013390
+==============================================================
+Codigo  Curso                               Creditos    Nota
+--------------------------------------------------------------
+315     Arquitectura de Computadoras               3    13.6
+319     Analisis y Diseno de Sistemas              3     5.9
+313     Base de Datos I                            4     6.4
+317     Redes de Computadoras                      3     1.5
+305     Calculo I                                  4     6.1
+--------------------------------------------------------------
+Cantidad de cursos: 5
+Total de creditos: 17
+Promedio general ponderado: 6.65
+
+==============================================================
+CODIGO DE ESTUDIANTE: 2013160
+==============================================================
+Codigo  Curso                               Creditos    Nota
+--------------------------------------------------------------
+301     Programacion I                             3     5.4
+325     Desarrollo Web                             3    15.7
+309     Fisica II                                  3     8.8
+308     Fisica I                                   3     9.2
+311     Estadistica y Probabilidades               3     0.4
+317     Redes de Computadoras                      3    19.0
+--------------------------------------------------------------
+Cantidad de cursos: 6
+Total de creditos: 18
+Promedio general ponderado: 9.75
+
+==============================================================
+CODIGO DE ESTUDIANTE: 2012859
+==============================================================
+Codigo  Curso                               Creditos    Nota
+--------------------------------------------------------------
+306     Calculo II                                 4     1.3
+314     Base de Datos II                           4    12.4
+320     Comunicacion y Redaccion                   2    19.5
+307     Algebra Lineal                             3     3.0
+309     Fisica II                                  3     4.1
+329     Seguridad Informatica                      3     2.3
+328     Gestion de Proyectos                       3    17.4
+--------------------------------------------------------------
+Cantidad de cursos: 7
+Total de creditos: 22
+Promedio general ponderado: 7.92
+
+==============================================================
+CODIGO DE ESTUDIANTE: 2018321
+==============================================================
+Codigo  Curso                               Creditos    Nota
+--------------------------------------------------------------
+315     Arquitectura de Computadoras               3     4.3
+312     Matematica Discreta                        3    11.3
+308     Fisica I                                   3     2.6
+317     Redes de Computadoras                      3     5.4
+303     Algoritmos y Estructuras de Datos          4     9.0
+313     Base de Datos I                            4    18.4
+301     Programacion I                             3     0.1
+302     Programacion II                            3    15.7
+--------------------------------------------------------------
+Cantidad de cursos: 8
+Total de creditos: 26
+Promedio general ponderado: 8.76
+
+==============================================================
+CODIGO DE ESTUDIANTE: 2020651
+==============================================================
+Codigo  Curso                               Creditos    Nota
+--------------------------------------------------------------
+309     Fisica II                                  3     6.9
+325     Desarrollo Web                             3     0.7
+329     Seguridad Informatica                      3    14.0
+319     Analisis y Diseno de Sistemas              3     2.8
+317     Redes de Computadoras                      3    18.2
+323     Investigacion de Operaciones               3    16.9
+303     Algoritmos y Estructuras de Datos          4    19.8
+306     Calculo II                                 4     8.5
+--------------------------------------------------------------
+Cantidad de cursos: 8
+Total de creditos: 26
+Promedio general ponderado: 11.22
+
+==============================================================
+CODIGO DE ESTUDIANTE: 2023844
+==============================================================
+Codigo  Curso                               Creditos    Nota
+--------------------------------------------------------------
+316     Sistemas Operativos                        3    12.6
+319     Analisis y Diseno de Sistemas              3     4.4
+315     Arquitectura de Computadoras               3    15.1
+305     Calculo I                                  4    18.3
+326     Programacion Orientada a Objetos           3     4.4
+--------------------------------------------------------------
+Cantidad de cursos: 5
+Total de creditos: 16
+Promedio general ponderado: 11.42
+
+==============================================================
+CODIGO DE ESTUDIANTE: 2012644
+==============================================================
+Codigo  Curso                               Creditos    Nota
+--------------------------------------------------------------
+301     Programacion I                             3    17.3
+311     Estadistica y Probabilidades               3     1.4
+327     Etica Profesional                          2     0.8
+317     Redes de Computadoras                      3    16.4
+304     Matematica Basica                          3    19.5
+322     Metodos Numericos                          3     1.2
+313     Base de Datos I                            4    10.2
+--------------------------------------------------------------
+Cantidad de cursos: 7
+Total de creditos: 21
+Promedio general ponderado: 9.99
+
+==============================================================
+CODIGO DE ESTUDIANTE: 2008233
+==============================================================
+Codigo  Curso                               Creditos    Nota
+--------------------------------------------------------------
+316     Sistemas Operativos                        3    17.8
+327     Etica Profesional                          2    11.7
+302     Programacion II                            3    15.9
+308     Fisica I                                   3     7.4
+321     Ingles Tecnico                             2     8.1
+326     Programacion Orientada a Objetos           3    10.7
+328     Gestion de Proyectos                       3    15.9
+319     Analisis y Diseno de Sistemas              3     3.6
+325     Desarrollo Web                             3    14.3
+--------------------------------------------------------------
+Cantidad de cursos: 9
+Total de creditos: 25
+Promedio general ponderado: 11.86
+
+==============================================================
+CODIGO DE ESTUDIANTE: 2011506
+==============================================================
+Codigo  Curso                               Creditos    Nota
+--------------------------------------------------------------
+304     Matematica Basica                          3     4.0
+330     Taller de Investigacion                    2    17.0
+313     Base de Datos I                            4     2.9
+329     Seguridad Informatica                      3    11.2
+326     Programacion Orientada a Objetos           3    12.8
+--------------------------------------------------------------
+Cantidad de cursos: 5
+Total de creditos: 15
+Promedio general ponderado: 8.64
+
+==============================================================
+CODIGO DE ESTUDIANTE: 2019897
+==============================================================
+Codigo  Curso                               Creditos    Nota
+--------------------------------------------------------------
+307     Algebra Lineal                             3     6.7
+327     Etica Profesional                          2     4.7
+325     Desarrollo Web                             3    16.8
+329     Seguridad Informatica                      3     3.6
+322     Metodos Numericos                          3    16.8
+318     Ingenieria de Software                     3    15.0
+301     Programacion I                             3    18.9
+306     Calculo II                                 4    14.9
+314     Base de Datos II                           4    18.4
+--------------------------------------------------------------
+Cantidad de cursos: 9
+Total de creditos: 28
+Promedio general ponderado: 13.43
+
+==============================================================
+CODIGO DE ESTUDIANTE: 2012975
+==============================================================
+Codigo  Curso                               Creditos    Nota
+--------------------------------------------------------------
+302     Programacion II                            3    11.3
+313     Base de Datos I                            4    15.7
+327     Etica Profesional                          2    15.4
+304     Matematica Basica                          3    19.0
+315     Arquitectura de Computadoras               3     0.1
+--------------------------------------------------------------
+Cantidad de cursos: 5
+Total de creditos: 15
+Promedio general ponderado: 12.32
+
+==============================================================
+CODIGO DE ESTUDIANTE: 2009433
+==============================================================
+Codigo  Curso                               Creditos    Nota
+--------------------------------------------------------------
+321     Ingles Tecnico                             2     0.9
+316     Sistemas Operativos                        3     3.7
+325     Desarrollo Web                             3     2.8
+306     Calculo II                                 4     2.1
+314     Base de Datos II                           4     2.1
+328     Gestion de Proyectos                       3    16.0
+301     Programacion I                             3     7.3
+308     Fisica I                                   3     5.1
+--------------------------------------------------------------
+Cantidad de cursos: 8
+Total de creditos: 25
+Promedio general ponderado: 4.93
+
+==============================================================
+CODIGO DE ESTUDIANTE: 2007930
+==============================================================
+Codigo  Curso                               Creditos    Nota
+--------------------------------------------------------------
+306     Calculo II                                 4     2.0
+326     Programacion Orientada a Objetos           3    18.1
+309     Fisica II                                  3     0.3
+311     Estadistica y Probabilidades               3     8.6
+312     Matematica Discreta                        3    14.6
+--------------------------------------------------------------
+Cantidad de cursos: 5
+Total de creditos: 16
+Promedio general ponderado: 8.30
+
+==============================================================
+CODIGO DE ESTUDIANTE: 2002671
+==============================================================
+Codigo  Curso                               Creditos    Nota
+--------------------------------------------------------------
+326     Programacion Orientada a Objetos           3     6.1
+308     Fisica I                                   3    19.7
+316     Sistemas Operativos                        3     7.4
+325     Desarrollo Web                             3     4.4
+315     Arquitectura de Computadoras               3    14.1
+330     Taller de Investigacion                    2    11.2
+318     Ingenieria de Software                     3    18.9
+306     Calculo II                                 4    15.0
+320     Comunicacion y Redaccion                   2    15.5
+--------------------------------------------------------------
+Cantidad de cursos: 9
+Total de creditos: 26
+Promedio general ponderado: 12.51
+
+==============================================================
+CODIGO DE ESTUDIANTE: 2020172
+==============================================================
+Codigo  Curso                               Creditos    Nota
+--------------------------------------------------------------
+310     Quimica General                            2    15.4
+321     Ingles Tecnico                             2    18.9
+318     Ingenieria de Software                     3    10.9
+305     Calculo I                                  4     5.8
+329     Seguridad Informatica                      3     9.1
+--------------------------------------------------------------
+Cantidad de cursos: 5
+Total de creditos: 14
+Promedio general ponderado: 10.84
+
+==============================================================
+CODIGO DE ESTUDIANTE: 2021668
+==============================================================
+Codigo  Curso                               Creditos    Nota
+--------------------------------------------------------------
+330     Taller de Investigacion                    2    12.3
+329     Seguridad Informatica                      3     0.8
+314     Base de Datos II                           4    17.1
+304     Matematica Basica                          3     7.1
+301     Programacion I                             3    11.4
+305     Calculo I                                  4     5.7
+327     Etica Profesional                          2    18.1
+--------------------------------------------------------------
+Cantidad de cursos: 7
+Total de creditos: 21
+Promedio general ponderado: 10.00
+
+==============================================================
+CODIGO DE ESTUDIANTE: 2003263
+==============================================================
+Codigo  Curso                               Creditos    Nota
+--------------------------------------------------------------
+313     Base de Datos I                            4    16.9
+323     Investigacion de Operaciones               3    13.1
+330     Taller de Investigacion                    2    19.8
+308     Fisica I                                   3    12.3
+317     Redes de Computadoras                      3    18.4
+301     Programacion I                             3    14.4
+310     Quimica General                            2    11.3
+320     Comunicacion y Redaccion                   2    12.2
+--------------------------------------------------------------
+Cantidad de cursos: 8
+Total de creditos: 22
+Promedio general ponderado: 14.95
+
+==============================================================
+CODIGO DE ESTUDIANTE: 2018325
+==============================================================
+Codigo  Curso                               Creditos    Nota
+--------------------------------------------------------------
+306     Calculo II                                 4     6.9
+322     Metodos Numericos                          3     0.9
+316     Sistemas Operativos                        3     3.2
+320     Comunicacion y Redaccion                   2    11.7
+305     Calculo I                                  4     5.7
+308     Fisica I                                   3    11.2
+307     Algebra Lineal                             3    15.6
+311     Estadistica y Probabilidades               3     1.5
+323     Investigacion de Operaciones               3    16.2
+--------------------------------------------------------------
+Cantidad de cursos: 9
+Total de creditos: 28
+Promedio general ponderado: 7.84
+
+==============================================================
+CODIGO DE ESTUDIANTE: 2012774
+==============================================================
+Codigo  Curso                               Creditos    Nota
+--------------------------------------------------------------
+321     Ingles Tecnico                             2    17.4
+327     Etica Profesional                          2    13.1
+314     Base de Datos II                           4    10.9
+307     Algebra Lineal                             3    14.2
+303     Algoritmos y Estructuras de Datos          4    13.5
+306     Calculo II                                 4     4.0
+305     Calculo I                                  4    11.9
+--------------------------------------------------------------
+Cantidad de cursos: 7
+Total de creditos: 23
+Promedio general ponderado: 11.51
+
+==============================================================
+CODIGO DE ESTUDIANTE: 2012587
+==============================================================
+Codigo  Curso                               Creditos    Nota
+--------------------------------------------------------------
+310     Quimica General                            2    11.7
+315     Arquitectura de Computadoras               3    12.1
+313     Base de Datos I                            4     7.5
+314     Base de Datos II                           4     3.5
+330     Taller de Investigacion                    2    19.0
+--------------------------------------------------------------
+Cantidad de cursos: 5
+Total de creditos: 15
+Promedio general ponderado: 9.45
+
+==============================================================
+CODIGO DE ESTUDIANTE: 2016988
+==============================================================
+Codigo  Curso                               Creditos    Nota
+--------------------------------------------------------------
+318     Ingenieria de Software                     3    17.1
+301     Programacion I                             3     9.2
+320     Comunicacion y Redaccion                   2    16.6
+313     Base de Datos I                            4     6.2
+307     Algebra Lineal                             3    12.2
+304     Matematica Basica                          3     8.9
+310     Quimica General                            2    11.7
+319     Analisis y Diseno de Sistemas              3    17.6
+325     Desarrollo Web                             3    18.8
+--------------------------------------------------------------
+Cantidad de cursos: 9
+Total de creditos: 26
+Promedio general ponderado: 12.80
+
+==============================================================
+CODIGO DE ESTUDIANTE: 2004777
+==============================================================
+Codigo  Curso                               Creditos    Nota
+--------------------------------------------------------------
+326     Programacion Orientada a Objetos           3    11.4
+320     Comunicacion y Redaccion                   2    10.7
+304     Matematica Basica                          3    13.6
+319     Analisis y Diseno de Sistemas              3    14.2
+324     Inteligencia Artificial                    3     0.4
+317     Redes de Computadoras                      3     6.7
+323     Investigacion de Operaciones               3     9.7
+--------------------------------------------------------------
+Cantidad de cursos: 7
+Total de creditos: 20
+Promedio general ponderado: 9.47
+
+==============================================================
+CODIGO DE ESTUDIANTE: 2024502
+==============================================================
+Codigo  Curso                               Creditos    Nota
+--------------------------------------------------------------
+303     Algoritmos y Estructuras de Datos          4     4.0
+325     Desarrollo Web                             3     9.7
+320     Comunicacion y Redaccion                   2    15.9
+313     Base de Datos I                            4    13.3
+327     Etica Profesional                          2    18.4
+323     Investigacion de Operaciones               3    15.6
+--------------------------------------------------------------
+Cantidad de cursos: 6
+Total de creditos: 18
+Promedio general ponderado: 11.87
+
+==============================================================
+CODIGO DE ESTUDIANTE: 2001043
+==============================================================
+Codigo  Curso                               Creditos    Nota
+--------------------------------------------------------------
+304     Matematica Basica                          3    14.8
+330     Taller de Investigacion                    2    19.5
+305     Calculo I                                  4    17.8
+322     Metodos Numericos                          3     5.8
+307     Algebra Lineal                             3     0.9
+328     Gestion de Proyectos                       3    15.4
+317     Redes de Computadoras                      3     0.4
+302     Programacion II                            3    17.9
+312     Matematica Discreta                        3     9.4
+--------------------------------------------------------------
+Cantidad de cursos: 9
+Total de creditos: 27
+Promedio general ponderado: 11.26
+
+==============================================================
+CODIGO DE ESTUDIANTE: 2007393
+==============================================================
+Codigo  Curso                               Creditos    Nota
+--------------------------------------------------------------
+317     Redes de Computadoras                      3    11.7
+302     Programacion II                            3     8.2
+312     Matematica Discreta                        3    19.5
+301     Programacion I                             3    12.8
+310     Quimica General                            2    16.3
+--------------------------------------------------------------
+Cantidad de cursos: 5
+Total de creditos: 14
+Promedio general ponderado: 13.51
+
+==============================================================
+CODIGO DE ESTUDIANTE: 2015232
+==============================================================
+Codigo  Curso                               Creditos    Nota
+--------------------------------------------------------------
+330     Taller de Investigacion                    2    14.5
+311     Estadistica y Probabilidades               3    19.4
+325     Desarrollo Web                             3    18.0
+327     Etica Profesional                          2    12.0
+324     Inteligencia Artificial                    3    10.1
+321     Ingles Tecnico                             2    19.5
+308     Fisica I                                   3    11.2
+--------------------------------------------------------------
+Cantidad de cursos: 7
+Total de creditos: 18
+Promedio general ponderado: 14.89
+
+==============================================================
+CODIGO DE ESTUDIANTE: 2023307
+==============================================================
+Codigo  Curso                               Creditos    Nota
+--------------------------------------------------------------
+301     Programacion I                             3     8.2
+305     Calculo I                                  4     7.3
+322     Metodos Numericos                          3     7.0
+324     Inteligencia Artificial                    3    17.1
+323     Investigacion de Operaciones               3    10.3
+--------------------------------------------------------------
+Cantidad de cursos: 5
+Total de creditos: 16
+Promedio general ponderado: 9.81
+
+==============================================================
+CODIGO DE ESTUDIANTE: 2014126
+==============================================================
+Codigo  Curso                               Creditos    Nota
+--------------------------------------------------------------
+329     Seguridad Informatica                      3    18.2
+325     Desarrollo Web                             3     9.5
+321     Ingles Tecnico                             2    19.4
+304     Matematica Basica                          3    10.4
+305     Calculo I                                  4     5.6
+327     Etica Profesional                          2     0.9
+--------------------------------------------------------------
+Cantidad de cursos: 6
+Total de creditos: 17
+Promedio general ponderado: 10.43
+
+==============================================================
+CODIGO DE ESTUDIANTE: 2020026
+==============================================================
+Codigo  Curso                               Creditos    Nota
+--------------------------------------------------------------
+326     Programacion Orientada a Objetos           3    11.6
+312     Matematica Discreta                        3    16.7
+315     Arquitectura de Computadoras               3    12.4
+308     Fisica I                                   3     6.8
+314     Base de Datos II                           4    10.5
+323     Investigacion de Operaciones               3     9.9
+313     Base de Datos I                            4    13.9
+324     Inteligencia Artificial                    3     7.7
+306     Calculo II                                 4    17.1
+--------------------------------------------------------------
+Cantidad de cursos: 9
+Total de creditos: 30
+Promedio general ponderado: 12.04
+
+==============================================================
+CODIGO DE ESTUDIANTE: 2014011
+==============================================================
+Codigo  Curso                               Creditos    Nota
+--------------------------------------------------------------
+323     Investigacion de Operaciones               3    14.9
+329     Seguridad Informatica                      3     5.5
+313     Base de Datos I                            4     0.6
+305     Calculo I                                  4    13.0
+301     Programacion I                             3     8.7
+--------------------------------------------------------------
+Cantidad de cursos: 5
+Total de creditos: 17
+Promedio general ponderado: 8.34
+
+==============================================================
+CODIGO DE ESTUDIANTE: 2024165
+==============================================================
+Codigo  Curso                               Creditos    Nota
+--------------------------------------------------------------
+313     Base de Datos I                            4    13.6
+330     Taller de Investigacion                    2     4.6
+317     Redes de Computadoras                      3    11.8
+301     Programacion I                             3     2.2
+309     Fisica II                                  3    10.9
+321     Ingles Tecnico                             2     7.0
+326     Programacion Orientada a Objetos           3    19.9
+322     Metodos Numericos                          3     4.4
+318     Ingenieria de Software                     3     0.6
+--------------------------------------------------------------
+Cantidad de cursos: 9
+Total de creditos: 26
+Promedio general ponderado: 8.73
+
+==============================================================
+CODIGO DE ESTUDIANTE: 2002119
+==============================================================
+Codigo  Curso                               Creditos    Nota
+--------------------------------------------------------------
+308     Fisica I                                   3    18.5
+326     Programacion Orientada a Objetos           3    17.7
+302     Programacion II                            3     8.1
+313     Base de Datos I                            4     1.4
+330     Taller de Investigacion                    2     2.5
+323     Investigacion de Operaciones               3    18.1
+--------------------------------------------------------------
+Cantidad de cursos: 6
+Total de creditos: 18
+Promedio general ponderado: 10.99
+
+==============================================================
+CODIGO DE ESTUDIANTE: 2008399
+==============================================================
+Codigo  Curso                               Creditos    Nota
+--------------------------------------------------------------
+319     Analisis y Diseno de Sistemas              3    16.9
+327     Etica Profesional                          2    15.0
+320     Comunicacion y Redaccion                   2     6.4
+304     Matematica Basica                          3     9.6
+323     Investigacion de Operaciones               3     1.3
+313     Base de Datos I                            4    18.8
+324     Inteligencia Artificial                    3    14.6
+316     Sistemas Operativos                        3    17.3
+--------------------------------------------------------------
+Cantidad de cursos: 8
+Total de creditos: 23
+Promedio general ponderado: 12.92
+
+==============================================================
+CODIGO DE ESTUDIANTE: 2017707
+==============================================================
+Codigo  Curso                               Creditos    Nota
+--------------------------------------------------------------
+326     Programacion Orientada a Objetos           3    11.2
+327     Etica Profesional                          2     5.8
+306     Calculo II                                 4     3.3
+309     Fisica II                                  3    19.9
+330     Taller de Investigacion                    2    18.3
+305     Calculo I                                  4     4.7
+--------------------------------------------------------------
+Cantidad de cursos: 6
+Total de creditos: 18
+Promedio general ponderado: 9.64
+
+==============================================================
+CODIGO DE ESTUDIANTE: 2001838
+==============================================================
+Codigo  Curso                               Creditos    Nota
+--------------------------------------------------------------
+317     Redes de Computadoras                      3     6.7
+314     Base de Datos II                           4    18.9
+320     Comunicacion y Redaccion                   2     7.4
+305     Calculo I                                  4    13.2
+303     Algoritmos y Estructuras de Datos          4     9.8
+--------------------------------------------------------------
+Cantidad de cursos: 5
+Total de creditos: 17
+Promedio general ponderado: 11.91
+
+==============================================================
+CODIGO DE ESTUDIANTE: 2020910
+==============================================================
+Codigo  Curso                               Creditos    Nota
+--------------------------------------------------------------
+314     Base de Datos II                           4     5.6
+315     Arquitectura de Computadoras               3     3.3
+313     Base de Datos I                            4    12.3
+317     Redes de Computadoras                      3     8.0
+322     Metodos Numericos                          3    10.3
+--------------------------------------------------------------
+Cantidad de cursos: 5
+Total de creditos: 17
+Promedio general ponderado: 8.02
+
+==============================================================
+CODIGO DE ESTUDIANTE: 2021125
+==============================================================
+Codigo  Curso                               Creditos    Nota
+--------------------------------------------------------------
+318     Ingenieria de Software                     3     5.8
+311     Estadistica y Probabilidades               3     8.2
+330     Taller de Investigacion                    2    14.1
+327     Etica Profesional                          2    18.9
+309     Fisica II                                  3    18.2
+320     Comunicacion y Redaccion                   2     7.0
+313     Base de Datos I                            4     1.1
+308     Fisica I                                   3     9.5
+312     Matematica Discreta                        3    19.7
+--------------------------------------------------------------
+Cantidad de cursos: 9
+Total de creditos: 25
+Promedio general ponderado: 10.74
+
+==============================================================
+CODIGO DE ESTUDIANTE: 2008920
+==============================================================
+Codigo  Curso                               Creditos    Nota
+--------------------------------------------------------------
+319     Analisis y Diseno de Sistemas              3     6.4
+316     Sistemas Operativos                        3    14.3
+329     Seguridad Informatica                      3    17.4
+327     Etica Profesional                          2    15.6
+311     Estadistica y Probabilidades               3    15.9
+305     Calculo I                                  4    10.5
+325     Desarrollo Web                             3     1.1
+320     Comunicacion y Redaccion                   2     7.4
+315     Arquitectura de Computadoras               3     1.7
+--------------------------------------------------------------
+Cantidad de cursos: 9
+Total de creditos: 26
+Promedio general ponderado: 9.94
+
+==============================================================
+CODIGO DE ESTUDIANTE: 2004949
+==============================================================
+Codigo  Curso                               Creditos    Nota
+--------------------------------------------------------------
+316     Sistemas Operativos                        3     0.5
+310     Quimica General                            2    14.6
+318     Ingenieria de Software                     3    19.3
+324     Inteligencia Artificial                    3    15.8
+330     Taller de Investigacion                    2     5.9
+319     Analisis y Diseno de Sistemas              3     4.9
+315     Arquitectura de Computadoras               3    12.2
+306     Calculo II                                 4     6.4
+--------------------------------------------------------------
+Cantidad de cursos: 8
+Total de creditos: 23
+Promedio general ponderado: 9.77
+
+==============================================================
+CODIGO DE ESTUDIANTE: 2023187
+==============================================================
+Codigo  Curso                               Creditos    Nota
+--------------------------------------------------------------
+313     Base de Datos I                            4    12.5
+330     Taller de Investigacion                    2     5.8
+309     Fisica II                                  3     4.4
+324     Inteligencia Artificial                    3    13.0
+311     Estadistica y Probabilidades               3     8.5
+308     Fisica I                                   3    14.6
+--------------------------------------------------------------
+Cantidad de cursos: 6
+Total de creditos: 18
+Promedio general ponderado: 10.17
+
+==============================================================
+CODIGO DE ESTUDIANTE: 2013166
+==============================================================
+Codigo  Curso                               Creditos    Nota
+--------------------------------------------------------------
+316     Sistemas Operativos                        3    13.2
+304     Matematica Basica                          3    19.6
+324     Inteligencia Artificial                    3     5.7
+329     Seguridad Informatica                      3    16.1
+322     Metodos Numericos                          3     6.8
+--------------------------------------------------------------
+Cantidad de cursos: 5
+Total de creditos: 15
+Promedio general ponderado: 12.28
+
+==============================================================
+CODIGO DE ESTUDIANTE: 2021579
+==============================================================
+Codigo  Curso                               Creditos    Nota
+--------------------------------------------------------------
+325     Desarrollo Web                             3     6.9
+308     Fisica I                                   3     7.4
+312     Matematica Discreta                        3     8.4
+301     Programacion I                             3    11.6
+327     Etica Profesional                          2     2.3
+316     Sistemas Operativos                        3     4.6
+--------------------------------------------------------------
+Cantidad de cursos: 6
+Total de creditos: 17
+Promedio general ponderado: 7.14
+
+==============================================================
+CODIGO DE ESTUDIANTE: 2000245
+==============================================================
+Codigo  Curso                               Creditos    Nota
+--------------------------------------------------------------
+312     Matematica Discreta                        3     5.4
+329     Seguridad Informatica                      3    18.2
+323     Investigacion de Operaciones               3     0.3
+311     Estadistica y Probabilidades               3    11.9
+330     Taller de Investigacion                    2    12.4
+317     Redes de Computadoras                      3     8.8
+--------------------------------------------------------------
+Cantidad de cursos: 6
+Total de creditos: 17
+Promedio general ponderado: 9.33
+
+==============================================================
+CODIGO DE ESTUDIANTE: 2019699
+==============================================================
+Codigo  Curso                               Creditos    Nota
+--------------------------------------------------------------
+316     Sistemas Operativos                        3     3.8
+310     Quimica General                            2     7.3
+321     Ingles Tecnico                             2     7.8
+312     Matematica Discreta                        3    16.2
+302     Programacion II                            3    10.3
+309     Fisica II                                  3     6.8
+--------------------------------------------------------------
+Cantidad de cursos: 6
+Total de creditos: 16
+Promedio general ponderado: 8.84
+
+==============================================================
+CODIGO DE ESTUDIANTE: 2014878
+==============================================================
+Codigo  Curso                               Creditos    Nota
+--------------------------------------------------------------
+324     Inteligencia Artificial                    3    18.7
+326     Programacion Orientada a Objetos           3    15.7
+323     Investigacion de Operaciones               3     0.5
+325     Desarrollo Web                             3    16.5
+318     Ingenieria de Software                     3    12.3
+304     Matematica Basica                          3     2.9
+330     Taller de Investigacion                    2    16.6
+--------------------------------------------------------------
+Cantidad de cursos: 7
+Total de creditos: 20
+Promedio general ponderado: 11.65
+
+==============================================================
+CODIGO DE ESTUDIANTE: 2005653
+==============================================================
+Codigo  Curso                               Creditos    Nota
+--------------------------------------------------------------
+309     Fisica II                                  3     8.3
+310     Quimica General                            2     5.7
+326     Programacion Orientada a Objetos           3     4.5
+317     Redes de Computadoras                      3     7.9
+307     Algebra Lineal                             3    12.5
+314     Base de Datos II                           4     8.8
+--------------------------------------------------------------
+Cantidad de cursos: 6
+Total de creditos: 18
+Promedio general ponderado: 8.12
+
+==============================================================
+CODIGO DE ESTUDIANTE: 2012570
+==============================================================
+Codigo  Curso                               Creditos    Nota
+--------------------------------------------------------------
+319     Analisis y Diseno de Sistemas              3     2.3
+304     Matematica Basica                          3    11.7
+315     Arquitectura de Computadoras               3    13.3
+306     Calculo II                                 4    10.3
+316     Sistemas Operativos                        3     5.6
+310     Quimica General                            2     5.5
+--------------------------------------------------------------
+Cantidad de cursos: 6
+Total de creditos: 18
+Promedio general ponderado: 8.38
+
+==============================================================
+CODIGO DE ESTUDIANTE: 2011236
+==============================================================
+Codigo  Curso                               Creditos    Nota
+--------------------------------------------------------------
+304     Matematica Basica                          3    16.1
+316     Sistemas Operativos                        3    19.3
+320     Comunicacion y Redaccion                   2    11.8
+326     Programacion Orientada a Objetos           3    15.0
+313     Base de Datos I                            4     8.8
+315     Arquitectura de Computadoras               3    10.0
+307     Algebra Lineal                             3     3.4
+--------------------------------------------------------------
+Cantidad de cursos: 7
+Total de creditos: 21
+Promedio general ponderado: 11.91
+
+==============================================================
+CODIGO DE ESTUDIANTE: 2013345
+==============================================================
+Codigo  Curso                               Creditos    Nota
+--------------------------------------------------------------
+304     Matematica Basica                          3     5.0
+305     Calculo I                                  4    12.9
+329     Seguridad Informatica                      3    16.6
+330     Taller de Investigacion                    2    14.2
+301     Programacion I                             3    12.7
+318     Ingenieria de Software                     3    13.4
+322     Metodos Numericos                          3    11.9
+324     Inteligencia Artificial                    3     5.9
+312     Matematica Discreta                        3    11.2
+--------------------------------------------------------------
+Cantidad de cursos: 9
+Total de creditos: 27
+Promedio general ponderado: 11.49
+
+==============================================================
+CODIGO DE ESTUDIANTE: 2000253
+==============================================================
+Codigo  Curso                               Creditos    Nota
+--------------------------------------------------------------
+311     Estadistica y Probabilidades               3     3.9
+324     Inteligencia Artificial                    3    10.0
+323     Investigacion de Operaciones               3     1.3
+310     Quimica General                            2     4.0
+304     Matematica Basica                          3    10.4
+--------------------------------------------------------------
+Cantidad de cursos: 5
+Total de creditos: 14
+Promedio general ponderado: 6.06
+
+==============================================================
+CODIGO DE ESTUDIANTE: 2009331
+==============================================================
+Codigo  Curso                               Creditos    Nota
+--------------------------------------------------------------
+319     Analisis y Diseno de Sistemas              3     4.9
+324     Inteligencia Artificial                    3     1.1
+321     Ingles Tecnico                             2    19.7
+310     Quimica General                            2    16.7
+308     Fisica I                                   3    15.0
+328     Gestion de Proyectos                       3     9.6
+325     Desarrollo Web                             3     5.7
+316     Sistemas Operativos                        3    11.5
+--------------------------------------------------------------
+Cantidad de cursos: 8
+Total de creditos: 22
+Promedio general ponderado: 9.83
+
+==============================================================
+CODIGO DE ESTUDIANTE: 2014450
+==============================================================
+Codigo  Curso                               Creditos    Nota
+--------------------------------------------------------------
+330     Taller de Investigacion                    2    18.5
+312     Matematica Discreta                        3     4.7
+326     Programacion Orientada a Objetos           3    15.0
+305     Calculo I                                  4    17.7
+329     Seguridad Informatica                      3    14.7
+316     Sistemas Operativos                        3     6.8
+328     Gestion de Proyectos                       3    10.3
+324     Inteligencia Artificial                    3     8.6
+307     Algebra Lineal                             3     6.0
+--------------------------------------------------------------
+Cantidad de cursos: 9
+Total de creditos: 27
+Promedio general ponderado: 11.34
+
+==============================================================
+CODIGO DE ESTUDIANTE: 2008706
+==============================================================
+Codigo  Curso                               Creditos    Nota
+--------------------------------------------------------------
+316     Sistemas Operativos                        3     0.4
+319     Analisis y Diseno de Sistemas              3     6.6
+314     Base de Datos II                           4     5.2
+320     Comunicacion y Redaccion                   2    10.7
+325     Desarrollo Web                             3     2.5
+302     Programacion II                            3     8.5
+323     Investigacion de Operaciones               3     1.5
+--------------------------------------------------------------
+Cantidad de cursos: 7
+Total de creditos: 21
+Promedio general ponderado: 4.80
+
+==============================================================
+CODIGO DE ESTUDIANTE: 2008220
+==============================================================
+Codigo  Curso                               Creditos    Nota
+--------------------------------------------------------------
+314     Base de Datos II                           4    19.4
+304     Matematica Basica                          3    10.0
+330     Taller de Investigacion                    2    17.9
+303     Algoritmos y Estructuras de Datos          4    15.7
+301     Programacion I                             3     1.8
+310     Quimica General                            2     9.3
+328     Gestion de Proyectos                       3     0.5
+317     Redes de Computadoras                      3     1.7
+302     Programacion II                            3     8.3
+--------------------------------------------------------------
+Cantidad de cursos: 9
+Total de creditos: 27
+Promedio general ponderado: 9.69
+
+==============================================================
+CODIGO DE ESTUDIANTE: 2006838
+==============================================================
+Codigo  Curso                               Creditos    Nota
+--------------------------------------------------------------
+305     Calculo I                                  4     4.4
+311     Estadistica y Probabilidades               3    10.4
+330     Taller de Investigacion                    2     2.0
+324     Inteligencia Artificial                    3    12.0
+323     Investigacion de Operaciones               3    17.5
+316     Sistemas Operativos                        3     2.0
+309     Fisica II                                  3    12.2
+322     Metodos Numericos                          3     9.0
+326     Programacion Orientada a Objetos           3    14.0
+--------------------------------------------------------------
+Cantidad de cursos: 9
+Total de creditos: 27
+Promedio general ponderado: 9.37
+
+==============================================================
+CODIGO DE ESTUDIANTE: 2022489
+==============================================================
+Codigo  Curso                               Creditos    Nota
+--------------------------------------------------------------
+309     Fisica II                                  3     6.2
+329     Seguridad Informatica                      3    18.3
+327     Etica Profesional                          2     9.1
+318     Ingenieria de Software                     3    10.8
+326     Programacion Orientada a Objetos           3    19.4
+314     Base de Datos II                           4    18.7
+307     Algebra Lineal                             3     9.0
+328     Gestion de Proyectos                       3    12.1
+--------------------------------------------------------------
+Cantidad de cursos: 8
+Total de creditos: 24
+Promedio general ponderado: 13.35
+
+==============================================================
+CODIGO DE ESTUDIANTE: 2002719
+==============================================================
+Codigo  Curso                               Creditos    Nota
+--------------------------------------------------------------
+307     Algebra Lineal                             3    17.1
+324     Inteligencia Artificial                    3     6.1
+306     Calculo II                                 4    14.8
+317     Redes de Computadoras                      3    19.2
+316     Sistemas Operativos                        3    13.4
+322     Metodos Numericos                          3    13.1
+301     Programacion I                             3    11.1
+330     Taller de Investigacion                    2     1.0
+--------------------------------------------------------------
+Cantidad de cursos: 8
+Total de creditos: 24
+Promedio general ponderado: 12.55
+
+==============================================================
+CODIGO DE ESTUDIANTE: 2023884
+==============================================================
+Codigo  Curso                               Creditos    Nota
+--------------------------------------------------------------
+314     Base de Datos II                           4    12.2
+302     Programacion II                            3     1.8
+318     Ingenieria de Software                     3     8.9
+311     Estadistica y Probabilidades               3     8.7
+324     Inteligencia Artificial                    3     4.5
+310     Quimica General                            2     1.0
+329     Seguridad Informatica                      3    10.9
+--------------------------------------------------------------
+Cantidad de cursos: 7
+Total de creditos: 21
+Promedio general ponderado: 7.39
+
+==============================================================
+CODIGO DE ESTUDIANTE: 2009565
+==============================================================
+Codigo  Curso                               Creditos    Nota
+--------------------------------------------------------------
+307     Algebra Lineal                             3    17.9
+305     Calculo I                                  4     3.5
+319     Analisis y Diseno de Sistemas              3     0.8
+330     Taller de Investigacion                    2     5.8
+303     Algoritmos y Estructuras de Datos          4    11.3
+327     Etica Profesional                          2    10.1
+326     Programacion Orientada a Objetos           3    11.0
+304     Matematica Basica                          3     1.3
+314     Base de Datos II                           4    17.1
+--------------------------------------------------------------
+Cantidad de cursos: 9
+Total de creditos: 28
+Promedio general ponderado: 9.01
+
+==============================================================
+CODIGO DE ESTUDIANTE: 2017384
+==============================================================
+Codigo  Curso                               Creditos    Nota
+--------------------------------------------------------------
+301     Programacion I                             3    14.6
+322     Metodos Numericos                          3     4.9
+307     Algebra Lineal                             3    10.3
+321     Ingles Tecnico                             2     0.6
+308     Fisica I                                   3     7.9
+323     Investigacion de Operaciones               3     1.4
+318     Ingenieria de Software                     3    15.7
+--------------------------------------------------------------
+Cantidad de cursos: 7
+Total de creditos: 20
+Promedio general ponderado: 8.28
+
+==============================================================
+CODIGO DE ESTUDIANTE: 2003498
+==============================================================
+Codigo  Curso                               Creditos    Nota
+--------------------------------------------------------------
+321     Ingles Tecnico                             2     9.9
+322     Metodos Numericos                          3    19.0
+315     Arquitectura de Computadoras               3    11.8
+327     Etica Profesional                          2     7.7
+320     Comunicacion y Redaccion                   2     0.8
+318     Ingenieria de Software                     3    18.2
+317     Redes de Computadoras                      3    11.3
+304     Matematica Basica                          3     8.1
+--------------------------------------------------------------
+Cantidad de cursos: 8
+Total de creditos: 21
+Promedio general ponderado: 11.52
+
+==============================================================
+CODIGO DE ESTUDIANTE: 2021945
+==============================================================
+Codigo  Curso                               Creditos    Nota
+--------------------------------------------------------------
+319     Analisis y Diseno de Sistemas              3    12.0
+304     Matematica Basica                          3    19.3
+305     Calculo I                                  4     6.9
+313     Base de Datos I                            4    17.7
+308     Fisica I                                   3     8.5
+328     Gestion de Proyectos                       3    13.5
+303     Algoritmos y Estructuras de Datos          4    14.3
+--------------------------------------------------------------
+Cantidad de cursos: 7
+Total de creditos: 24
+Promedio general ponderado: 13.15
+
+==============================================================
+CODIGO DE ESTUDIANTE: 2002964
+==============================================================
+Codigo  Curso                               Creditos    Nota
+--------------------------------------------------------------
+330     Taller de Investigacion                    2    10.6
+325     Desarrollo Web                             3    18.5
+324     Inteligencia Artificial                    3    12.5
+310     Quimica General                            2    19.2
+302     Programacion II                            3    16.4
+312     Matematica Discreta                        3     9.4
+311     Estadistica y Probabilidades               3     7.0
+321     Ingles Tecnico                             2     5.6
+--------------------------------------------------------------
+Cantidad de cursos: 8
+Total de creditos: 21
+Promedio general ponderado: 12.49
+
+==============================================================
+CODIGO DE ESTUDIANTE: 2017981
+==============================================================
+Codigo  Curso                               Creditos    Nota
+--------------------------------------------------------------
+329     Seguridad Informatica                      3     8.4
+313     Base de Datos I                            4     1.2
+330     Taller de Investigacion                    2    10.8
+309     Fisica II                                  3    14.9
+324     Inteligencia Artificial                    3    18.8
+310     Quimica General                            2    10.9
+--------------------------------------------------------------
+Cantidad de cursos: 6
+Total de creditos: 17
+Promedio general ponderado: 10.26
+
+==============================================================
+CODIGO DE ESTUDIANTE: 2021011
+==============================================================
+Codigo  Curso                               Creditos    Nota
+--------------------------------------------------------------
+323     Investigacion de Operaciones               3    15.4
+312     Matematica Discreta                        3     8.6
+325     Desarrollo Web                             3     0.9
+316     Sistemas Operativos                        3    15.5
+304     Matematica Basica                          3     1.4
+301     Programacion I                             3    10.5
+327     Etica Profesional                          2    10.6
+324     Inteligencia Artificial                    3    12.5
+--------------------------------------------------------------
+Cantidad de cursos: 8
+Total de creditos: 23
+Promedio general ponderado: 9.37
+
+==============================================================
+CODIGO DE ESTUDIANTE: 2022423
+==============================================================
+Codigo  Curso                               Creditos    Nota
+--------------------------------------------------------------
+302     Programacion II                            3    19.5
+324     Inteligencia Artificial                    3    16.1
+318     Ingenieria de Software                     3     5.1
+307     Algebra Lineal                             3     1.8
+320     Comunicacion y Redaccion                   2    11.5
+309     Fisica II                                  3    15.2
+317     Redes de Computadoras                      3    12.6
+--------------------------------------------------------------
+Cantidad de cursos: 7
+Total de creditos: 20
+Promedio general ponderado: 11.69
+
+==============================================================
+CODIGO DE ESTUDIANTE: 2007998
+==============================================================
+Codigo  Curso                               Creditos    Nota
+--------------------------------------------------------------
+307     Algebra Lineal                             3    16.6
+315     Arquitectura de Computadoras               3    13.5
+326     Programacion Orientada a Objetos           3     1.7
+323     Investigacion de Operaciones               3    14.9
+308     Fisica I                                   3    13.0
+320     Comunicacion y Redaccion                   2    14.8
+--------------------------------------------------------------
+Cantidad de cursos: 6
+Total de creditos: 17
+Promedio general ponderado: 12.28
+
+==============================================================
+CODIGO DE ESTUDIANTE: 2001124
+==============================================================
+Codigo  Curso                               Creditos    Nota
+--------------------------------------------------------------
+312     Matematica Discreta                        3    11.5
+305     Calculo I                                  4     5.9
+325     Desarrollo Web                             3     1.5
+310     Quimica General                            2    17.9
+307     Algebra Lineal                             3     2.7
+321     Ingles Tecnico                             2     2.6
+--------------------------------------------------------------
+Cantidad de cursos: 6
+Total de creditos: 17
+Promedio general ponderado: 6.57
+
+==============================================================
+CODIGO DE ESTUDIANTE: 2013873
+==============================================================
+Codigo  Curso                               Creditos    Nota
+--------------------------------------------------------------
+315     Arquitectura de Computadoras               3    19.2
+322     Metodos Numericos                          3    10.9
+307     Algebra Lineal                             3     4.8
+321     Ingles Tecnico                             2    15.7
+308     Fisica I                                   3     9.2
+326     Programacion Orientada a Objetos           3    13.4
+318     Ingenieria de Software                     3    16.8
+--------------------------------------------------------------
+Cantidad de cursos: 7
+Total de creditos: 20
+Promedio general ponderado: 12.71
+
+==============================================================
+CODIGO DE ESTUDIANTE: 2010964
+==============================================================
+Codigo  Curso                               Creditos    Nota
+--------------------------------------------------------------
+314     Base de Datos II                           4     6.1
+315     Arquitectura de Computadoras               3    10.6
+321     Ingles Tecnico                             2     0.2
+306     Calculo II                                 4     3.0
+310     Quimica General                            2     1.3
+--------------------------------------------------------------
+Cantidad de cursos: 5
+Total de creditos: 15
+Promedio general ponderado: 4.75
+
+==============================================================
+CODIGO DE ESTUDIANTE: 2004441
+==============================================================
+Codigo  Curso                               Creditos    Nota
+--------------------------------------------------------------
+301     Programacion I                             3    13.4
+307     Algebra Lineal                             3    14.0
+303     Algoritmos y Estructuras de Datos          4    19.5
+319     Analisis y Diseno de Sistemas              3     9.5
+309     Fisica II                                  3    19.2
+304     Matematica Basica                          3    14.0
+302     Programacion II                            3     9.5
+--------------------------------------------------------------
+Cantidad de cursos: 7
+Total de creditos: 22
+Promedio general ponderado: 14.40
+
+==============================================================
+CODIGO DE ESTUDIANTE: 2003731
+==============================================================
+Codigo  Curso                               Creditos    Nota
+--------------------------------------------------------------
+321     Ingles Tecnico                             2    19.9
+323     Investigacion de Operaciones               3    15.8
+305     Calculo I                                  4    13.9
+306     Calculo II                                 4     5.4
+327     Etica Profesional                          2    15.2
+310     Quimica General                            2    16.7
+--------------------------------------------------------------
+Cantidad de cursos: 6
+Total de creditos: 17
+Promedio general ponderado: 13.42
+
+==============================================================
+CODIGO DE ESTUDIANTE: 2003218
+==============================================================
+Codigo  Curso                               Creditos    Nota
+--------------------------------------------------------------
+311     Estadistica y Probabilidades               3     7.0
+308     Fisica I                                   3    11.7
+302     Programacion II                            3    10.0
+306     Calculo II                                 4     6.9
+329     Seguridad Informatica                      3    18.2
+323     Investigacion de Operaciones               3    10.0
+316     Sistemas Operativos                        3    15.3
+--------------------------------------------------------------
+Cantidad de cursos: 7
+Total de creditos: 22
+Promedio general ponderado: 11.10
+
+==============================================================
+CODIGO DE ESTUDIANTE: 2018961
+==============================================================
+Codigo  Curso                               Creditos    Nota
+--------------------------------------------------------------
+316     Sistemas Operativos                        3    14.3
+322     Metodos Numericos                          3    14.2
+317     Redes de Computadoras                      3     2.1
+306     Calculo II                                 4    12.7
+326     Programacion Orientada a Objetos           3    14.4
+324     Inteligencia Artificial                    3     8.0
+321     Ingles Tecnico                             2     7.4
+323     Investigacion de Operaciones               3    12.8
+--------------------------------------------------------------
+Cantidad de cursos: 8
+Total de creditos: 24
+Promedio general ponderado: 10.96
+
+==============================================================
+CODIGO DE ESTUDIANTE: 2015621
+==============================================================
+Codigo  Curso                               Creditos    Nota
+--------------------------------------------------------------
+303     Algoritmos y Estructuras de Datos          4     4.0
+328     Gestion de Proyectos                       3    15.1
+320     Comunicacion y Redaccion                   2     5.8
+326     Programacion Orientada a Objetos           3     3.2
+312     Matematica Discreta                        3     6.8
+316     Sistemas Operativos                        3     6.1
+--------------------------------------------------------------
+Cantidad de cursos: 6
+Total de creditos: 18
+Promedio general ponderado: 6.73
+
+==============================================================
+CODIGO DE ESTUDIANTE: 2022649
+==============================================================
+Codigo  Curso                               Creditos    Nota
+--------------------------------------------------------------
+305     Calculo I                                  4     5.1
+325     Desarrollo Web                             3    18.9
+310     Quimica General                            2     2.0
+320     Comunicacion y Redaccion                   2    12.9
+313     Base de Datos I                            4     3.8
+322     Metodos Numericos                          3     8.9
+312     Matematica Discreta                        3     5.9
+329     Seguridad Informatica                      3     8.0
+328     Gestion de Proyectos                       3     0.0
+--------------------------------------------------------------
+Cantidad de cursos: 9
+Total de creditos: 27
+Promedio general ponderado: 7.06
+
+==============================================================
+CODIGO DE ESTUDIANTE: 2022248
+==============================================================
+Codigo  Curso                               Creditos    Nota
+--------------------------------------------------------------
+309     Fisica II                                  3     5.6
+306     Calculo II                                 4    16.2
+302     Programacion II                            3     6.6
+319     Analisis y Diseno de Sistemas              3    18.6
+311     Estadistica y Probabilidades               3     9.4
+305     Calculo I                                  4    12.5
+318     Ingenieria de Software                     3    16.2
+312     Matematica Discreta                        3    17.5
+317     Redes de Computadoras                      3    17.1
+--------------------------------------------------------------
+Cantidad de cursos: 9
+Total de creditos: 29
+Promedio general ponderado: 13.37
+
+==============================================================
+CODIGO DE ESTUDIANTE: 2010721
+==============================================================
+Codigo  Curso                               Creditos    Nota
+--------------------------------------------------------------
+312     Matematica Discreta                        3    19.5
+304     Matematica Basica                          3     6.5
+317     Redes de Computadoras                      3     9.5
+311     Estadistica y Probabilidades               3     4.1
+324     Inteligencia Artificial                    3    17.6
+309     Fisica II                                  3    12.8
+327     Etica Profesional                          2     0.7
+330     Taller de Investigacion                    2    18.5
+--------------------------------------------------------------
+Cantidad de cursos: 8
+Total de creditos: 22
+Promedio general ponderado: 11.29
+
+==============================================================
+CODIGO DE ESTUDIANTE: 2024537
+==============================================================
+Codigo  Curso                               Creditos    Nota
+--------------------------------------------------------------
+315     Arquitectura de Computadoras               3    17.6
+301     Programacion I                             3     6.2
+326     Programacion Orientada a Objetos           3    18.0
+306     Calculo II                                 4    16.7
+303     Algoritmos y Estructuras de Datos          4    16.0
+319     Analisis y Diseno de Sistemas              3     3.7
+322     Metodos Numericos                          3    17.3
+327     Etica Profesional                          2     7.2
+--------------------------------------------------------------
+Cantidad de cursos: 8
+Total de creditos: 25
+Promedio general ponderado: 13.34
+
+==============================================================
+CODIGO DE ESTUDIANTE: 2024617
+==============================================================
+Codigo  Curso                               Creditos    Nota
+--------------------------------------------------------------
+328     Gestion de Proyectos                       3     2.2
+313     Base de Datos I                            4     5.0
+317     Redes de Computadoras                      3     8.5
+314     Base de Datos II                           4    14.2
+311     Estadistica y Probabilidades               3     6.6
+--------------------------------------------------------------
+Cantidad de cursos: 5
+Total de creditos: 17
+Promedio general ponderado: 7.57
+
+==============================================================
+CODIGO DE ESTUDIANTE: 2014951
+==============================================================
+Codigo  Curso                               Creditos    Nota
+--------------------------------------------------------------
+313     Base de Datos I                            4     6.7
+329     Seguridad Informatica                      3    14.9
+328     Gestion de Proyectos                       3     8.9
+324     Inteligencia Artificial                    3     7.1
+316     Sistemas Operativos                        3     4.4
+306     Calculo II                                 4    14.2
+319     Analisis y Diseno de Sistemas              3     5.0
+--------------------------------------------------------------
+Cantidad de cursos: 7
+Total de creditos: 23
+Promedio general ponderado: 8.89
+
+==============================================================
+CODIGO DE ESTUDIANTE: 2001573
+==============================================================
+Codigo  Curso                               Creditos    Nota
+--------------------------------------------------------------
+307     Algebra Lineal                             3     4.2
+310     Quimica General                            2    15.3
+328     Gestion de Proyectos                       3     4.5
+313     Base de Datos I                            4    14.9
+301     Programacion I                             3    12.6
+325     Desarrollo Web                             3     4.3
+309     Fisica II                                  3    14.1
+314     Base de Datos II                           4    14.8
+--------------------------------------------------------------
+Cantidad de cursos: 8
+Total de creditos: 25
+Promedio general ponderado: 10.74
+

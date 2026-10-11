@@ -1,0 +1,5 @@
+ninja_dyndep_version = 1.0
+build CMakeFiles/2026_2__extras_.dir/main.cpp.obj: dyndep
+
+build CMakeFiles/2026_2__extras_.dir/Bibliotecas/Funciones.cpp.obj: dyndep
+
