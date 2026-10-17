@@ -1,0 +1,8 @@
+a) int p=&x;
+
+b) cout<<(p+1); mostraría el valor: 0x2001
+
+f) Un intérprete analiza mientras lee cada linea de código, no es capaz de crear un archivo
+ejecutable y detecta errores a medida que va leyendo. En cambio, un compilador primero
+traduce todo el código y luego muestra la información en pantalla, genera un archivo
+ejecutable y, si detecta algún error, lo indicará pero no seguirá leyendo.

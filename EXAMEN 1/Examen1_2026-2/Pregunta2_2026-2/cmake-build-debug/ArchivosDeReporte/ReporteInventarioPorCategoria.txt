@@ -1,0 +1,211 @@
+=====================================================================================
+                    REPORTE DE INVENTARIO POR CATEGORIA
+=====================================================================================
+CATEGORÍA: H - Herramientas manuales
+-------------------------------------------------------------------------------------
+CÓDIGO  STOCK     PRECIO  VALOR INVENTARIO    DESCRIPCIÓN                          
+30042       0      32.50              0.00    Alicate universal 8 pulgadas
+30009      76       9.90            752.40    Destornillador estrella PH2 x 6
+30123     117      28.90           3381.30    Arco de sierra con hoja 12 pulgadas
+30155      38      38.90           1478.20    Martillo de una 16 oz mango fibra
+30002       0      24.90              0.00    Wincha metrica 5 m
+30047      54      45.90           2478.60    Llave francesa 10 pulgadas
+30142      15       9.50            142.50    Destornillador plano 1/4 x 6
+30072      10      42.00            420.00    Nivel de aluminio 24 pulgadas
+30081       0     129.00              0.00    Juego de llaves mixtas 12 piezas
+30016      13      36.50            474.50    Serrucho de carpintero 20 pulgadas
+-------------------------------------------------------------------------------------
+Cantidad de productos                           10
+Productos sin stock                              3
+Valor total del inventario                 9127.50
+Producto de mayor precio         30081      129.00
+Producto de menor precio         30142        9.50
+=====================================================================================
+CATEGORÍA: M - Materiales de construccion
+-------------------------------------------------------------------------------------
+CÓDIGO  STOCK     PRECIO  VALOR INVENTARIO    DESCRIPCIÓN                          
+30113       0       8.90              0.00    Clavos para madera 3 pulgadas kg
+30098      19      39.90            758.10    Calamina galvanizada 3.60 m
+30119       9      29.90            269.10    Fierro corrugado 3/8 x 9 m
+30065     101      14.90           1504.90    Yeso bolsa 20 kg
+30031      86       7.80            670.80    Alambre negro N16 kg
+30179       7    1150.00           8050.00    Ladrillo King Kong 18 huecos millar
+30189      22       9.50            209.00    Piedra chancada 1/2 saco 40 kg
+30148      74       8.50            629.00    Arena gruesa saco 40 kg
+30151      37      31.50           1165.50    Cemento Portland tipo I bolsa 42.5 kg
+30144      89      52.80           4699.20    Fierro corrugado 1/2 x 9 m
+-------------------------------------------------------------------------------------
+Cantidad de productos                           10
+Productos sin stock                              1
+Valor total del inventario                17955.60
+Producto de mayor precio         30179     1150.00
+Producto de menor precio         30031        7.80
+=====================================================================================
+CATEGORÍA: E - Material electrico
+-------------------------------------------------------------------------------------
+CÓDIGO  STOCK     PRECIO  VALOR INVENTARIO    DESCRIPCIÓN                          
+30091      73      12.50            912.50    Tomacorriente doble con linea a tierra
+30110       0      29.90              0.00    Extension electrica 5 m 3 tomas
+30023     112       8.90            996.80    Interruptor simple empotrable
+30137       0       4.50              0.00    Cinta aislante negra 20 m
+30026       5     165.00            825.00    Cable THW 14 AWG rollo 100 m
+30080     113      38.50           4350.50    Llave termomagnetica 2x20A
+30176     119       1.90            226.10    Caja octogonal PVC
+30013       4     239.00            956.00    Cable THW 12 AWG rollo 100 m
+30083      57       6.80            387.60    Tubo conduit PVC 3/4 x 3 m
+30048      87       6.90            600.30    Foco LED 9W luz blanca
+-------------------------------------------------------------------------------------
+Cantidad de productos                           10
+Productos sin stock                              2
+Valor total del inventario                 9254.80
+Producto de mayor precio         30013      239.00
+Producto de menor precio         30176        1.90
+=====================================================================================
+CATEGORÍA: P - Pinturas y acabados
+-------------------------------------------------------------------------------------
+CÓDIGO  STOCK     PRECIO  VALOR INVENTARIO    DESCRIPCIÓN                          
+30116      82       9.90            811.80    Brocha de cerda 3 pulgadas
+30074     109      68.50           7466.50    Pintura esmalte sintetico negro galon
+30066      91      28.00           2548.00    Thinner acrilico galon
+30145       0       1.50              0.00    Lija para pared N100 pliego
+30114      78      16.90           1318.20    Rodillo de felpa 9 pulgadas
+30001      28      98.00           2744.00    Barniz marino galon
+30133      45      89.00           4005.00    Imprimante para muros balde 4 gal
+30156      80      54.90           4392.00    Pintura latex blanco galon
+30049       0      11.50              0.00    Bandeja para pintura plastica
+30078      72      39.90           2872.80    Masilla para drywall balde 5 kg
+-------------------------------------------------------------------------------------
+Cantidad de productos                           10
+Productos sin stock                              2
+Valor total del inventario                26158.30
+Producto de mayor precio         30001       98.00
+Producto de menor precio         30145        1.50
+=====================================================================================
+CATEGORÍA: G - Gasfiteria
+-------------------------------------------------------------------------------------
+CÓDIGO  STOCK     PRECIO  VALOR INVENTARIO    DESCRIPCIÓN                          
+30121      81       1.50            121.50    Tee PVC 1/2
+30105       0      18.50              0.00    Tubo PVC desague 2 pulgadas x 3 m
+30131      42      24.90           1045.80    Llave de paso esfera 1/2
+30045      15       1.80             27.00    Cinta teflon 1/2 x 10 m
+30032       0       9.50              0.00    Trampa P PVC 2 pulgadas
+30010      45       1.20             54.00    Codo PVC 1/2 x 90 grados
+30129      60      59.90           3594.00    Grifo para lavatorio cromado
+30128     109      12.90           1406.10    Manguera de abasto 1/2 x 40 cm
+30071       8     489.00           3912.00    Tanque de agua 1100 litros
+30186       0      13.90              0.00    Tubo PVC agua fria 1/2 x 5 m
+-------------------------------------------------------------------------------------
+Cantidad de productos                           10
+Productos sin stock                              3
+Valor total del inventario                10160.40
+Producto de mayor precio         30071      489.00
+Producto de menor precio         30010        1.20
+=====================================================================================
+CATEGORÍA: F - Fijaciones y tornilleria
+-------------------------------------------------------------------------------------
+CÓDIGO  STOCK     PRECIO  VALOR INVENTARIO    DESCRIPCIÓN                          
+30058      21       6.50            136.50    Tarugo plastico 1/4 bolsa 100
+30086       0       8.50              0.00    Tuerca hexagonal 1/2 bolsa 25
+30134      48      12.50            600.00    Tornillo autorroscante 8 x 1 bolsa 100
+30100       0       9.90              0.00    Tornillo drywall 6 x 1 1/4 bolsa 100
+30055      24       4.50            108.00    Pernos de anclaje 1/2 x 4
+30165     120       5.90            708.00    Arandela plana 3/8 bolsa 50
+30051      62       4.90            303.80    Grapa para cable 7 mm bolsa 100
+30143      54      11.00            594.00    Remache pop 1/8 bolsa 100
+30157      88      15.90           1399.20    Clavo de concreto 2 pulgadas caja
+30039      15       0.90             13.50    Perno hexagonal 3/8 x 2 con tuerca
+-------------------------------------------------------------------------------------
+Cantidad de productos                           10
+Productos sin stock                              2
+Valor total del inventario                 3863.00
+Producto de mayor precio         30157       15.90
+Producto de menor precio         30039        0.90
+=====================================================================================
+CATEGORÍA: S - Seguridad industrial
+-------------------------------------------------------------------------------------
+CÓDIGO  STOCK     PRECIO  VALOR INVENTARIO    DESCRIPCIÓN                          
+30102      28      34.90            977.20    Cono de seguridad 70 cm
+30162      23      14.90            342.70    Guantes de cuero reforzado par
+30182     109      39.90           4349.10    Mascarilla N95 caja 10
+30007      64      19.90           1273.60    Cinta de seguridad peligro 100 m
+30018       7     149.00           1043.00    Botas de seguridad punta de acero
+30112      12      29.90            358.80    Casco de seguridad con rachet
+30185       9      15.90            143.10    Chaleco reflectivo naranja
+30088       7     189.00           1323.00    Arnes de seguridad 4 anillos
+30109       0       2.50              0.00    Tapones auditivos par
+30060      91       8.50            773.50    Lentes de seguridad claros
+-------------------------------------------------------------------------------------
+Cantidad de productos                           10
+Productos sin stock                              1
+Valor total del inventario                10584.00
+Producto de mayor precio         30088      189.00
+Producto de menor precio         30109        2.50
+=====================================================================================
+CATEGORÍA: C - Cerrajeria
+-------------------------------------------------------------------------------------
+CÓDIGO  STOCK     PRECIO  VALOR INVENTARIO    DESCRIPCIÓN                          
+30164      91      49.90           4540.90    Cerradura de pomo para dormitorio
+30064       0      79.90              0.00    Chapa de sobreponer 3 golpes
+30171      48      11.90            571.20    Picaporte magnetico
+30005      51      38.00           1938.00    Manija para puerta acero
+30168     106      45.50           4823.00    Candado de acero 50 mm
+30163      36      32.90           1184.40    Candado de bronce 40 mm
+30152       0      28.50              0.00    Cilindro de chapa con 3 llaves
+30173      86      62.00           5332.00    Cerrojo de seguridad doble
+30159      18       7.50            135.00    Pasador de acero 4 pulgadas
+30076      46       6.90            317.40    Bisagra capuchina 3 pulgadas par
+-------------------------------------------------------------------------------------
+Cantidad de productos                           10
+Productos sin stock                              2
+Valor total del inventario                18841.90
+Producto de mayor precio         30064       79.90
+Producto de menor precio         30076        6.90
+=====================================================================================
+CATEGORÍA: J - Jardineria
+-------------------------------------------------------------------------------------
+CÓDIGO  STOCK     PRECIO  VALOR INVENTARIO    DESCRIPCIÓN                          
+30069      59      21.50           1268.50    Regadera plastica 10 litros
+30139      81      49.90           4041.90    Pico de 5 libras con mango
+30095      77      18.90           1455.30    Aspersor giratorio
+30181       0      27.50              0.00    Rastrillo de 14 dientes
+30092      40       4.90            196.00    Malla raschel 80 por ciento x m
+30063      30      34.90           1047.00    Tijera de podar 8 pulgadas
+30068       0      24.00              0.00    Abono organico saco 25 kg
+30099      17      42.90            729.30    Pala recta con mango de madera
+30107       3     229.00            687.00    Carretilla bugui 90 litros
+30021      16      59.90            958.40    Manguera de jardin 1/2 x 25 m
+-------------------------------------------------------------------------------------
+Cantidad de productos                           10
+Productos sin stock                              2
+Valor total del inventario                10383.40
+Producto de mayor precio         30107      229.00
+Producto de menor precio         30092        4.90
+=====================================================================================
+CATEGORÍA: A - Adhesivos y selladores
+-------------------------------------------------------------------------------------
+CÓDIGO  STOCK     PRECIO  VALOR INVENTARIO    DESCRIPCIÓN                          
+30046      30      14.90            447.00    Silicona transparente cartucho 280 ml
+30036      21      34.90            732.90    Espuma expansiva poliuretano 750 ml
+30067      32       6.90            220.80    Fragua blanca bolsa 2 kg
+30011      96      17.90           1718.40    Cola sintetica para madera 1 kg
+30019      57      19.90           1134.30    Pegamento epoxico 2 componentes
+30126      69      29.90           2063.10    Pegamento de contacto 1/4 galon
+30052      64      12.50            800.00    Sellador acrilico blanco 300 ml
+30138      20      22.90            458.00    Pegamento para ceramica bolsa 25 kg
+30035      22       9.90            217.80    Cinta doble contacto 18 mm x 5 m
+30029       0      32.50              0.00    Pegamento PVC 1/4 galon
+-------------------------------------------------------------------------------------
+Cantidad de productos                           10
+Productos sin stock                              1
+Valor total del inventario                 7792.30
+Producto de mayor precio         30036       34.90
+Producto de menor precio         30067        6.90
+=====================================================================================
+RESUMEN GENERAL
+-------------------------------------------------------------------------------------
+Total de productos                                       100
+Total de productos sin stock                              19
+Valor total del inventario                         124121.20
+Categoría con mayor valor de inventario  P - Pinturas y acabados
+Valor de inventario de la categoría                26158.30
+=====================================================================================
