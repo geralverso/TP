@@ -1,6 +1,27 @@
-a) int p=&x;
+a) int x=25;
+   int* p= &x;
 
-b) cout<<(p+1); mostraría el valor: 0x2001
+    cout << x << endl; //25
+    cout << p << endl; //0x2000
+    cout << &p << endl; //0x3000
+
+b) 1 entero = 4 bytes
+   cout << (p+1) << endl; //0x2004
+
+c) *p=50; //x=*p
+    cout << *p << endl; //50
+
+d) int* variable1 = new int[3] {0,1,2};
+
+    for (int i = 0; i < 3; i++) {
+        cout << variable1[i] << endl;
+    }
+
+e) char* variable2 = new char[3] {'0','1','2'};
+
+    for (int i = 0; i < 3; i++) {
+        cout << variable2[i] << endl;
+    }
 
 f) Un intérprete analiza mientras lee cada linea de código, no es capaz de crear un archivo
 ejecutable y detecta errores a medida que va leyendo. En cambio, un compilador primero
