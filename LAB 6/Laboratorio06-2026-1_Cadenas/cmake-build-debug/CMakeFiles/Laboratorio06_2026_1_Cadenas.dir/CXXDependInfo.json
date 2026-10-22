@@ -1,0 +1,32 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "GNU",
+	"compiler-id" : "GNU",
+	"compiler-simulate-id" : "",
+	"config" : "Debug",
+	"cxx-modules" : {},
+	"database-info" : null,
+	"dir-cur-bld" : "C:/Users/PC/Desktop/TP/CLION/SEMANA 10/LAB 6/Laboratorio06-2026-1_Cadenas/cmake-build-debug",
+	"dir-cur-src" : "C:/Users/PC/Desktop/TP/CLION/SEMANA 10/LAB 6/Laboratorio06-2026-1_Cadenas",
+	"dir-top-bld" : "C:/Users/PC/Desktop/TP/CLION/SEMANA 10/LAB 6/Laboratorio06-2026-1_Cadenas/cmake-build-debug",
+	"dir-top-src" : "C:/Users/PC/Desktop/TP/CLION/SEMANA 10/LAB 6/Laboratorio06-2026-1_Cadenas",
+	"exports" : [],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : [],
+	"language" : "CXX",
+	"linked-target-dirs" : [],
+	"module-dir" : "C:/Users/PC/Desktop/TP/CLION/SEMANA 10/LAB 6/Laboratorio06-2026-1_Cadenas/cmake-build-debug/CMakeFiles/Laboratorio06_2026_1_Cadenas.dir",
+	"sources" : 
+	{
+		"CMakeFiles/Laboratorio06_2026_1_Cadenas.dir/Bibliotecas/Funciones.cpp.obj" : 
+		{
+			"language" : "CXX",
+			"source" : "C:/Users/PC/Desktop/TP/CLION/SEMANA 10/LAB 6/Laboratorio06-2026-1_Cadenas/Bibliotecas/Funciones.cpp"
+		},
+		"CMakeFiles/Laboratorio06_2026_1_Cadenas.dir/main.cpp.obj" : 
+		{
+			"language" : "CXX",
+			"source" : "C:/Users/PC/Desktop/TP/CLION/SEMANA 10/LAB 6/Laboratorio06-2026-1_Cadenas/main.cpp"
+		}
+	}
+}

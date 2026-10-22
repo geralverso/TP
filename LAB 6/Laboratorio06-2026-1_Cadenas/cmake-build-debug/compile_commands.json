@@ -1,0 +1,14 @@
+[
+{
+  "directory": "C:/Users/PC/Desktop/TP/CLION/SEMANA 10/LAB 6/Laboratorio06-2026-1_Cadenas/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\C__~1.EXE -g -std=gnu++20 -fdiagnostics-color=always -fmodules-ts -fmodule-mapper=CMakeFiles\\Laboratorio06_2026_1_Cadenas.dir\\main.cpp.obj.modmap -MD -fdeps-format=p1689r5 -x c++ -o CMakeFiles\\Laboratorio06_2026_1_Cadenas.dir\\main.cpp.obj -c \"C:\\Users\\PC\\Desktop\\TP\\CLION\\SEMANA 10\\LAB 6\\Laboratorio06-2026-1_Cadenas\\main.cpp\"",
+  "file": "C:/Users/PC/Desktop/TP/CLION/SEMANA 10/LAB 6/Laboratorio06-2026-1_Cadenas/main.cpp",
+  "output": "C:/Users/PC/Desktop/TP/CLION/SEMANA 10/LAB 6/Laboratorio06-2026-1_Cadenas/cmake-build-debug/CMakeFiles/Laboratorio06_2026_1_Cadenas.dir/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/PC/Desktop/TP/CLION/SEMANA 10/LAB 6/Laboratorio06-2026-1_Cadenas/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\C__~1.EXE -g -std=gnu++20 -fdiagnostics-color=always -fmodules-ts -fmodule-mapper=CMakeFiles\\Laboratorio06_2026_1_Cadenas.dir\\Bibliotecas\\Funciones.cpp.obj.modmap -MD -fdeps-format=p1689r5 -x c++ -o CMakeFiles\\Laboratorio06_2026_1_Cadenas.dir\\Bibliotecas\\Funciones.cpp.obj -c \"C:\\Users\\PC\\Desktop\\TP\\CLION\\SEMANA 10\\LAB 6\\Laboratorio06-2026-1_Cadenas\\Bibliotecas\\Funciones.cpp\"",
+  "file": "C:/Users/PC/Desktop/TP/CLION/SEMANA 10/LAB 6/Laboratorio06-2026-1_Cadenas/Bibliotecas/Funciones.cpp",
+  "output": "C:/Users/PC/Desktop/TP/CLION/SEMANA 10/LAB 6/Laboratorio06-2026-1_Cadenas/cmake-build-debug/CMakeFiles/Laboratorio06_2026_1_Cadenas.dir/Bibliotecas/Funciones.cpp.obj"
+}
+]
