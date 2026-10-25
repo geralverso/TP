@@ -1,0 +1,117 @@
+//FUNCIONES PROPIAS:
+
+int mi_strlen(const char* cadena) {
+    int cantCaracteres;
+    for (cantCaracteres = 0; cadena[cantCaracteres]; cantCaracteres++) {}
+    return cantCaracteres;
+}
+
+void mi_strcpy(char* destino, const char* fuente) {
+    int i;
+    while (true) {
+        destino[i] = fuente[i];
+        if (fuente[i] == 0) break;
+        i++;
+    }
+}
+
+void mi_strcat(char* cadena1, const char* cadena2) {
+    int pos=mi_strlen(cadena1);
+    mi_strcpy(&cadena1[pos], cadena2);
+}
+
+int mi_strcmp(const char* cadena1, const char* cadena2) {
+    int i=0;
+    while (cadena1[i] == cadena2[i]) {
+        if (cadena1[i] == 0) return 0;
+        i++;
+    }
+    return cadena1[i]-cadena2[i];
+}
+
+void pasarAMayusculas(char *cadena) {
+    for (int i=0; cadena[i]; i++) {
+        if ('a'<=cadena[i] && cadena[i]<='z') {
+            cadena[i] -=32;
+        }
+    }
+}
+
+bool corresponde(const char* cadena1, const char* cadena2) {
+    for (int i=0; cadena2[i]; i++) {
+        if (cadena1[i]!=cadena2[i]) return false; //se verifica si son diferentes
+    }
+    return true;
+}
+
+char* mi_strstr(char* cadena1, const char* cadena2) { //esta funcion sería equivalente a BUSCAR
+    for (int i=0; cadena1[i]; i++) {
+        if (cadena1[i]==cadena2[0]) {
+            if (corresponde(&cadena1[i], cadena2)) {
+                return &cadena1[i]; //retorna una direccion
+            }
+        }
+    }
+    return nullptr;
+}
+
+bool esEspacio(char c) {
+    return c==' ' or c=='\t' or c=='\n';
+}
+
+bool esDigito(char c) {
+    return c>='0' and c<='9';
+}
+
+int mi_atoi(const char* cadena) { //transforma texto a numero entero
+    int valor=0, i=0, digito;
+    while (esEspacio(cadena[i])) i++; //ESTO ES FIJO
+    while (esDigito(cadena[i])) {
+        digito=cadena[i]-'0';
+        valor=valor*10+digito;
+        i++;
+    }
+    return valor;
+}
+
+double mi_atof(const char *cadena) { //transforma texto a numero real/decimal
+    double valor=0, factor=0.1;
+    int i=0, digito;
+    while (esEspacio(cadena[i])) i++;
+    while (esDigito(cadena[i])) {
+        digito=cadena[i]-'0';
+        valor=valor*10+digito;
+        i++;
+    }
+    if (cadena[i]=='.') { // el punto refiere al punto del numero decimal
+        i++;
+        while (esDigito(cadena[i])) {
+            digito=cadena[i]-'0';
+            valor=valor+digito*factor;
+            factor=factor*0.1;
+            i++;
+        }
+    }
+    return valor;
+}
+
+void invertirCadena(char *cadena) {
+    int longitud=mi_strlen(cadena);
+    char cadenaAux[200];
+    for (int i=0, j=longitud-1; cadena[i]; i++, j--) {
+        cadenaAux[i]=cadena[j];
+    }
+    cadenaAux[longitud]=0;
+    mi_strcpy(cadena, cadenaAux);
+}
+
+void reemplazar(char *texto, const char *cadenaBuscada, const char *cadenaReemplazada) {
+    char cadenaAux[200], *puntero;
+    puntero=mi_strstr(texto, cadenaBuscada);
+    if (puntero==nullptr) return;
+    *puntero=0;
+    mi_strcpy(cadenaAux, texto);
+    mi_strcat(cadenaAux, cadenaReemplazada);
+    mi_strcat(cadenaAux, &puntero[mi_strlen(cadenaBuscada)]);
+    mi_strcpy(texto, cadenaAux);
+}
