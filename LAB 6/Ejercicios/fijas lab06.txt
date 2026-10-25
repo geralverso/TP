@@ -1,0 +1,39 @@
+cosas importantes para practicar lab06:
+- reemplazar: buscar y sustituir una subcadena
+
+cat
+len
+cpy
+busqueda
+pasar a entero, float, doublé
+segmentación
+
+
+para verificar que un dni es valido, usar:
+- mi_strlen
+- for( ... ){
+	esDigito([i])
+}
+
+para verificar que una placa es valido, usar:
+- mistaste (sacar parte izquierda y derecha)
+
+para verificar que una fecha es valido, usar:
+- mi_strstr (sacar parte izquierda y derecha)
+
+* mi_strcmp
+* pasarAMayusculas
+
+
+- strelen
+- strstr
+- buscar
+- reemplazar
+- cpy
+- cmp
+- pasarAMayus
+- funcionEsDigito
+- función pasar a entero
+
+
+tarea: validar correo electrónico.
