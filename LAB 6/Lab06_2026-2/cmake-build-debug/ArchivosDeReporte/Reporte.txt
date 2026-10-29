@@ -1,0 +1,27 @@
+Teléfonos
+Evaluados:                                      33
+Válidos:                                        20
+Inválidos por criterio:
+   a. Otros caracteres                           8
+   b. Longitud equivocada                        5
+
+Correos
+Evaluados:                                      34
+Válidos:                                        25
+Inválidos por criterio:
+   a. Sin arroba                                 1
+   b. Con espacio                                2
+   c. Errores con usuario                        4
+   d. Errores con dominio                        2
+
+Contraseñas
+Evaluados:                                      34
+Válidos:                                        23
+Inválidas:
+   a. Longitud equivocada                        2
+   b. Sin mayúscula                              2
+   c. Sin minúscula                              0
+   d. Sin dígito                                 1
+   e. Sin símbolo                                1
+   f. Con comillas                               3
+   g. Con fecha                                  2
