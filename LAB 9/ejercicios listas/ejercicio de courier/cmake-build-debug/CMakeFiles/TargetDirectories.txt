@@ -1,0 +1,3 @@
+C:/Users/PC/Desktop/TP/CLION/SEMANA 14/ejercicios/ejercicio de courier/cmake-build-debug/CMakeFiles/ejercicio_courier.dir
+C:/Users/PC/Desktop/TP/CLION/SEMANA 14/ejercicios/ejercicio de courier/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/PC/Desktop/TP/CLION/SEMANA 14/ejercicios/ejercicio de courier/cmake-build-debug/CMakeFiles/rebuild_cache.dir
