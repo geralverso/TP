@@ -1,0 +1,3 @@
+C:/Users/PC/Desktop/TP/CLION/SEMANA 13/ejercicios/ejercicio de listas sobre productos/cmake-build-debug/CMakeFiles/ejercicio_de_listas_sobre_productos.dir
+C:/Users/PC/Desktop/TP/CLION/SEMANA 13/ejercicios/ejercicio de listas sobre productos/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/PC/Desktop/TP/CLION/SEMANA 13/ejercicios/ejercicio de listas sobre productos/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,32 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "GNU",
+	"compiler-id" : "GNU",
+	"compiler-simulate-id" : "",
+	"config" : "Debug",
+	"cxx-modules" : {},
+	"database-info" : null,
+	"dir-cur-bld" : "C:/Users/PC/Desktop/TP/CLION/SEMANA 13/ejercicios/ejercicio de listas sobre productos/cmake-build-debug",
+	"dir-cur-src" : "C:/Users/PC/Desktop/TP/CLION/SEMANA 13/ejercicios/ejercicio de listas sobre productos",
+	"dir-top-bld" : "C:/Users/PC/Desktop/TP/CLION/SEMANA 13/ejercicios/ejercicio de listas sobre productos/cmake-build-debug",
+	"dir-top-src" : "C:/Users/PC/Desktop/TP/CLION/SEMANA 13/ejercicios/ejercicio de listas sobre productos",
+	"exports" : [],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : [],
+	"language" : "CXX",
+	"linked-target-dirs" : [],
+	"module-dir" : "C:/Users/PC/Desktop/TP/CLION/SEMANA 13/ejercicios/ejercicio de listas sobre productos/cmake-build-debug/CMakeFiles/ejercicio_de_listas_sobre_productos.dir",
+	"sources" : 
+	{
+		"CMakeFiles/ejercicio_de_listas_sobre_productos.dir/Bibliotecas/Funciones.cpp.obj" : 
+		{
+			"language" : "CXX",
+			"source" : "C:/Users/PC/Desktop/TP/CLION/SEMANA 13/ejercicios/ejercicio de listas sobre productos/Bibliotecas/Funciones.cpp"
+		},
+		"CMakeFiles/ejercicio_de_listas_sobre_productos.dir/main.cpp.obj" : 
+		{
+			"language" : "CXX",
+			"source" : "C:/Users/PC/Desktop/TP/CLION/SEMANA 13/ejercicios/ejercicio de listas sobre productos/main.cpp"
+		}
+	}
+}

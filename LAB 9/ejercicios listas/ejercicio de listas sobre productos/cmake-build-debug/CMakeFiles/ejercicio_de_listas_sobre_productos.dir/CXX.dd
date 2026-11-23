@@ -1,0 +1,5 @@
+ninja_dyndep_version = 1.0
+build CMakeFiles/ejercicio_de_listas_sobre_productos.dir/main.cpp.obj: dyndep
+
+build CMakeFiles/ejercicio_de_listas_sobre_productos.dir/Bibliotecas/Funciones.cpp.obj: dyndep
+
