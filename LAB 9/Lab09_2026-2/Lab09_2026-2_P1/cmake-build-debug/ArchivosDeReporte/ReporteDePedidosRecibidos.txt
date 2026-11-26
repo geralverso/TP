@@ -1,0 +1,90 @@
+==========================================================================================
+                     RESTAURANTE SABOR CRIOLLO - SERVICIO DE DELIVERY
+                   PEDIDOS RECIBIDOS (ORDENADOS POR HORA DE RECEPCIÓN)
+==========================================================================================
+Pedido  Hora      Cliente                     Distrito                Cantidad    Subtotal
+------------------------------------------------------------------------------------------
+1001    18:00:44  Victor Pinto Silva          San Isidro                     7      158.50
+1002    18:00:48  Arturo Ramirez Silva        Santiago de Surco              3       92.50
+1003    18:04:34  Gustavo Torres Montes       Barranco                       3       77.80
+1004    18:08:06  Cesar Ramos Diaz            Surquillo                      7      279.00
+1005    18:25:32  Paola Diaz Chavez           San Juan de Lurigancho         8      112.50
+1006    18:29:21  Ernesto Navarro Ponce       San Borja                      2       40.50
+1007    18:30:07  Jorge Flores Campos         Miraflores                     3       60.50
+1008    18:32:47  Cesar Flores Navarro        San Miguel                     8      242.30
+1009    18:35:22  Pedro Ortega Rojas          Miraflores                     3       86.00
+1010    18:36:16  Andrea Medina Cruz          Villa El Salvador              7      149.90
+1011    18:51:29  Victor Ramirez Torres       Chorrillos                     4      100.00
+1012    18:57:44  Luis Guerrero Ortega        Surquillo                      7      139.50
+1013    19:03:47  Rosa Torres Cruz            Santiago de Surco              4      125.90
+1014    19:04:19  Javier Salas Guerrero       San Juan de Lurigancho         4      100.00
+1015    19:06:24  Jose Benites Herrera        San Isidro                     3       79.50
+1016    19:13:55  Luis Vargas Soto            Villa El Salvador              3      100.00
+1017    19:16:01  Ernesto Mendoza Guerrero    Pueblo Libre                   4       84.00
+1018    19:24:06  Natalia Quispe Delgado      San Borja                      5       71.00
+1019    19:31:38  Valeria Rojas Vega          Pueblo Libre                   9      178.70
+1020    19:35:53  Ricardo Flores Herrera      Villa El Salvador              9      220.00
+1021    19:37:51  Cesar Aguilar Cabrera       Lince                          7      235.50
+1022    19:40:40  Maria Quispe Mendoza        San Borja                      2       43.50
+1023    19:50:10  Ricardo Huaman Montes       Lince                          1       28.00
+1024    19:54:11  Patricia Castillo Silva     La Victoria                    5      118.90
+1025    19:56:11  Monica Ibarra Salas         Villa El Salvador              2       84.00
+1026    19:56:26  Andrea Vargas Rojas         Chorrillos                     6       85.90
+1027    19:56:53  Monica Navarro Montes       Pueblo Libre                   6      197.80
+1028    19:58:34  Ana Flores Gutierrez        Surquillo                      5      128.80
+1029    20:02:54  Alberto Ibarra Silva        San Martin de Porres           5      107.00
+1030    20:07:20  Diego Herrera Vargas        San Miguel                     5       92.90
+1031    20:24:30  Fiorella Campos Fernandez   Surquillo                      5      139.00
+1032    20:26:49  Ana Ramirez Campos          San Martin de Porres           3       66.00
+1033    20:32:37  Pedro Salas Cabrera         San Miguel                     1       31.50
+1034    20:33:13  Carlos Medina Salas         San Martin de Porres           3       44.50
+1035    20:35:13  Manuel Vega Villanueva      Santiago de Surco              6      134.50
+1036    20:37:37  Ricardo Flores Flores       Jesus Maria                    9      220.70
+1037    20:41:14  Fernando Torres Vega        La Victoria                    2       56.00
+1038    20:41:47  Oscar Montes Ramirez        San Borja                      2       42.00
+1039    20:45:04  Lucia Vargas Torres         Barranco                       6      127.50
+1040    20:47:07  Gabriela Aguilar Benites    Pueblo Libre                   8      213.50
+1041    20:48:17  Karina Huaman Ramos         Surquillo                      4      118.00
+1042    20:50:35  Silvia Silva Chavez         Pueblo Libre                   2       31.00
+1043    20:55:51  Jose Flores Flores          San Martin de Porres           1       10.00
+1044    20:59:54  Ernesto Cabrera Lopez       Santiago de Surco              3       61.90
+1045    21:01:26  Patricia Cabrera Aguilar    Santiago de Surco              6      213.80
+1046    21:02:34  Diego Paredes Reyes         San Isidro                     1       36.50
+1047    21:03:17  Daniela Montes Herrera      Surquillo                      3       93.00
+1048    21:07:08  Lucia Fernandez Vargas      La Victoria                    8      196.50
+1049    21:09:24  Fiorella Delgado Vargas     Barranco                       1       36.50
+1050    21:10:19  Ernesto Leon Soto           Jesus Maria                    4       84.40
+1051    21:20:54  Gabriela Cabrera Ramos      Chorrillos                     4       50.50
+1052    21:22:28  Arturo Huaman Vega          Lince                          8      219.00
+1053    21:22:30  Fiorella Aguilar Rojas      Lince                          1        8.50
+1054    21:22:40  Raul Ramirez Diaz           Magdalena del Mar              5       96.00
+1055    21:25:07  Luis Chavez Rios            Jesus Maria                    2       56.00
+1056    21:27:33  Carlos Reyes Pinto          Jesus Maria                    1       18.00
+1057    21:38:54  Manuel Ortega Flores        Cercado de Lima                1       26.50
+1058    21:40:33  Oscar Gutierrez Chavez      San Miguel                     4       77.40
+1059    21:48:53  Oscar Rios Rojas            San Isidro                     9      271.50
+1060    21:49:57  Oscar Paredes Torres        Ate                           10      196.00
+1061    21:51:46  Valeria Rojas Rios          Villa El Salvador              3       80.00
+1062    21:53:20  Ernesto Ortega Mendoza      Barranco                       4       58.00
+1063    21:59:34  Oscar Vega Torres           Surquillo                      6      118.50
+1064    22:01:07  Natalia Delgado Cruz        Pueblo Libre                   2       46.00
+1065    22:06:25  Paola Chavez Vargas         Santiago de Surco              2       27.00
+1066    22:16:08  Ernesto Ibarra Villanueva   Jesus Maria                    5      124.00
+1067    22:19:31  Gustavo Torres Fernandez    San Borja                      4      106.00
+1068    22:24:35  Fernando Aguilar Ibarra     San Isidro                     5      169.80
+1069    22:30:00  Daniela Rios Lopez          Surquillo                      1       31.50
+1070    22:30:01  Carmen Reyes Montes         San Juan de Lurigancho         2       66.50
+1071    22:32:46  Gabriela Soto Villanueva    Ate                            2       36.00
+1072    22:33:54  Rosa Herrera Reyes          Lince                          6      198.00
+1073    23:06:42  Patricia Montes Pinto       Pueblo Libre                   7      195.40
+1074    23:18:13  Claudia Cruz Ramirez        Jesus Maria                    2       22.00
+1075    23:23:42  Sofia Villanueva Pinto      Cercado de Lima                3       60.50
+1076    23:25:11  Elena Lopez Vargas          Pueblo Libre                   7      226.30
+1077    23:30:00  Luis Flores Pinto           San Borja                      2       35.00
+1078    23:54:16  Patricia Benites Torres     Magdalena del Mar              5       85.00
+1079    23:54:25  Luis Diaz Cruz              Chorrillos                     3       56.00
+1080    23:58:46  Teresa Rojas Herrera        Magdalena del Mar              5      121.00
+------------------------------------------------------------------------------------------
+Total de pedidos recibidos:                                 80
+Monto total por platos (subtotales):                   8459.10
+------------------------------------------------------------------------------------------
